@@ -1,0 +1,47 @@
+# change {root} with the root of your the directory
+
+path:
+    root: ...
+    src: {root}/src/
+    model: {root}/model/
+    data: {root}/data/
+    # the fasta file culled from PISCES
+    fasta: {root}/data/fasta/PISCES/pisces.fasta
+    # the directory where the full pdbs are saved
+    protein: {root}/data/pdb/protein/
+    #the directory where the chains are saved
+    chain: {root}/data/pdb/chain/
+    # the directory where the dssp files are saved
+    dssp_dssp: {root}/data/dssp/dssp/
+    # the directory where the dssp csv files are saved
+    dssp_csv: {root}/data/dssp/csv/
+    # the directory where global features are saved
+    processed_data: {root}/data/processed_data/csv/
+    # netsurfp2 predictions
+    netsurfp2: {root}/data/netsurfp2/
+    # TMHMM output
+    TMHMM: {root}/data/TMHMM/
+    # MolPatch output
+    patch: {root}/data/patches/
+    # prediction output
+    predictions: {root}/data/predictions/
+log: True
+hydrophobic:
+  - A
+  - F
+  - C
+  - L
+  - I
+  - W
+  - V
+  - M
+  - Y
+polar:
+  - K
+  - R
+  - H
+  - D
+  - T
+  - E
+  - N
+  - Q
