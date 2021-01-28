@@ -19,4 +19,5 @@ This repository has five main directories.
 ## Contact
 
 dr. Sanne Abeln, s.abeln@vu.nl
+
 MSc Juami van Gils, j.h.m.van.gils@vu.nl
