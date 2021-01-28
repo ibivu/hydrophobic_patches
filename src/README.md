@@ -2,6 +2,9 @@
 
 This directory has three main subdirectories.
 
+* /enrichment_and_expression
+  * normalize_scores.py --> plot_histogram.py; normalize the predicted values for the measures for GSEA, and plot the new distributions
+  * Human_Proteome_Mapping.ipynb; code for the functional analyses in this work
 * /modeling
   * src for the creation of the ML models
 * /molpatch
