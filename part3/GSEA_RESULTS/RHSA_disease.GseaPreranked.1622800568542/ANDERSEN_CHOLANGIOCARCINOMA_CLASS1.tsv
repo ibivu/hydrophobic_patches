@@ -1,0 +1,39 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLDN9	claudin 9 [Source:HGNC Symbol;Acc:HGNC:2051]	567	1.8055499792099	0.0070139524	Yes	
+row_1	PAQR5	progestin and adipoQ receptor family member 5 [Source:HGNC Symbol;Acc:HGNC:29645]	616	1.7728259563446045	0.051148083	Yes	
+row_2	CTXN1	cortexin 1 [Source:HGNC Symbol;Acc:HGNC:31108]	685	1.7029370069503784	0.09193945	Yes	
+row_3	SLC5A9	solute carrier family 5 member 9 [Source:HGNC Symbol;Acc:HGNC:22146]	968	1.4477280378341675	0.11020305	Yes	
+row_4	VN1R1	vomeronasal 1 receptor 1 [Source:HGNC Symbol;Acc:HGNC:13548]	1010	1.4104809761047363	0.14511089	Yes	
+row_5	OXTR	oxytocin receptor [Source:HGNC Symbol;Acc:HGNC:8529]	1039	1.3849209547042847	0.18028358	Yes	
+row_6	DEFB1	defensin beta 1 [Source:HGNC Symbol;Acc:HGNC:2766]	1040	1.3849070072174072	0.21750596	Yes	
+row_7	TNFRSF12A	TNF receptor superfamily member 12A [Source:HGNC Symbol;Acc:HGNC:18152]	1233	1.227560043334961	0.23644161	Yes	
+row_8	LPGAT1	lysophosphatidylglycerol acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:28985]	1839	0.7635959982872009	0.21266854	No	
+row_9	SCTR	secretin receptor [Source:HGNC Symbol;Acc:HGNC:10608]	1906	0.7165949940681458	0.22709624	No	
+row_10	VTCN1	V-set domain containing T cell activation inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:28873]	2282	0.47090598940849304	0.21229644	No	
+row_11	CXCL6	C-X-C motif chemokine ligand 6 [Source:HGNC Symbol;Acc:HGNC:10643]	2740	0.19150499999523163	0.18398331	No	
+row_12	ZDHHC1	zinc finger DHHC-type containing 1 [Source:HGNC Symbol;Acc:HGNC:17916]	2889	0.12487500160932541	0.17650345	No	
+row_13	TMEM156	transmembrane protein 156 [Source:HGNC Symbol;Acc:HGNC:26260]	3103	0.03409099951386452	0.16182446	No	
+row_14	KCNF1	potassium voltage-gated channel modifier subfamily F member 1 [Source:HGNC Symbol;Acc:HGNC:6246]	3112	0.030400000512599945	0.16205579	No	
+row_15	ABHD3	abhydrolase domain containing 3, phospholipase [Source:HGNC Symbol;Acc:HGNC:18718]	3659	-0.19463300704956055	0.12731041	No	
+row_16	GAL3ST1	galactose-3-O-sulfotransferase 1 [Source:HGNC Symbol;Acc:HGNC:24240]	4221	-0.3583739995956421	0.09586766	No	
+row_17	SYT12	synaptotagmin 12 [Source:HGNC Symbol;Acc:HGNC:18381]	4525	-0.44171300530433655	0.08555486	No	
+row_18	MCCC2	methylcrotonoyl-CoA carboxylase 2 [Source:HGNC Symbol;Acc:HGNC:6937]	4959	-0.5449519753456116	0.068498604	No	
+row_19	CDH6	cadherin 6 [Source:HGNC Symbol;Acc:HGNC:1765]	5079	-0.5704900026321411	0.07511892	No	
+row_20	GGT6	gamma-glutamyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:26891]	5253	-0.6015849709510803	0.07862125	No	
+row_21	NME5	NME/NM23 family member 5 [Source:HGNC Symbol;Acc:HGNC:7853]	5836	-0.7063350081443787	0.05499316	No	
+row_22	C1QL4	complement C1q like 4 [Source:HGNC Symbol;Acc:HGNC:31416]	5886	-0.71492999792099	0.07062082	No	
+row_23	GOLGA7B	golgin A7 family member B [Source:HGNC Symbol;Acc:HGNC:31668]	7121	-0.8850510120391846	0.0040585115	No	
+row_24	PATZ1	POZ/BTB and AT hook containing zinc finger 1 [Source:HGNC Symbol;Acc:HGNC:13071]	7258	-0.9033859968185425	0.018381443	No	
+row_25	ANKRD1	ankyrin repeat domain 1 [Source:HGNC Symbol;Acc:HGNC:15819]	7717	-0.9609419703483582	0.010675388	No	
+row_26	PGBD5	piggyBac transposable element derived 5 [Source:HGNC Symbol;Acc:HGNC:19405]	8249	-1.0234819650650024	-6.9462083E-4	No	
+row_27	CRYM	crystallin mu [Source:HGNC Symbol;Acc:HGNC:2418]	8513	-1.0516940355300903	0.00831583	No	
+row_28	UBD	ubiquitin D [Source:HGNC Symbol;Acc:HGNC:18795]	9373	-1.1402870416641235	-0.023930017	No	
+row_29	RGS4	regulator of G protein signaling 4 [Source:HGNC Symbol;Acc:HGNC:10000]	9914	-1.1942930221557617	-0.031368062	No	
+row_30	HNF1B	HNF1 homeobox B [Source:HGNC Symbol;Acc:HGNC:11630]	10100	-1.214777946472168	-0.012263437	No	
+row_31	KRT23	keratin 23 [Source:HGNC Symbol;Acc:HGNC:6438]	10163	-1.2219589948654175	0.016039906	No	
+row_32	MPP6	membrane palmitoylated protein 6 [Source:HGNC Symbol;Acc:HGNC:18167]	11223	-1.329522967338562	-0.025763245	No	
+row_33	RGS14	regulator of G protein signaling 14 [Source:HGNC Symbol;Acc:HGNC:9996]	11463	-1.3578920364379883	-0.0067658457	No	
+row_34	LOXL4	lysyl oxidase like 4 [Source:HGNC Symbol;Acc:HGNC:17171]	11487	-1.3604940176010132	0.028116394	No	
+row_35	SMYD2	SET and MYND domain containing 2 [Source:HGNC Symbol;Acc:HGNC:20982]	12527	-1.492445945739746	-0.007843506	No	
+row_36	PSPH	phosphoserine phosphatase [Source:HGNC Symbol;Acc:HGNC:9577]	12583	-1.5023189783096313	0.02850764	No	
+row_37	CRYBB2	crystallin beta B2 [Source:HGNC Symbol;Acc:HGNC:2398]	13649	-1.965857982635498	0.0033680724	No	

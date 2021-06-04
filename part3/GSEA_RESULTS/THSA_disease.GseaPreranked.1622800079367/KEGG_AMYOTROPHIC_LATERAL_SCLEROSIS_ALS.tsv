@@ -1,0 +1,37 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC1A2	solute carrier family 1 member 2 [Source:HGNC Symbol;Acc:HGNC:10940]	636	1.4186079502105713	-0.012725348	No	
+row_1	NEFL	neurofilament light [Source:HGNC Symbol;Acc:HGNC:7739]	853	1.221987009048462	6.0658075E-4	No	
+row_2	TNFRSF1A	TNF receptor superfamily member 1A [Source:HGNC Symbol;Acc:HGNC:11916]	1067	1.0634499788284302	0.010377003	No	
+row_3	PRPH	peripherin [Source:HGNC Symbol;Acc:HGNC:9461]	2609	0.405472993850708	-0.09276355	No	
+row_4	DERL1	derlin 1 [Source:HGNC Symbol;Acc:HGNC:28454]	3911	0.08877699822187424	-0.1858878	No	
+row_5	TOMM40	translocase of outer mitochondrial membrane 40 [Source:HGNC Symbol;Acc:HGNC:18001]	4120	0.03316299989819527	-0.20032379	No	
+row_6	TOMM40L	translocase of outer mitochondrial membrane 40 like [Source:HGNC Symbol;Acc:HGNC:25756]	5265	-0.2436639964580536	-0.27826056	No	
+row_7	TP53	tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998]	5417	-0.2730090022087097	-0.28280345	No	
+row_8	PPP3CB	protein phosphatase 3 catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9315]	6897	-0.5737329721450806	-0.37739217	No	
+row_9	BCL2	BCL2 apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:990]	7159	-0.6219599843025208	-0.38166523	No	
+row_10	PPP3CA	protein phosphatase 3 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9314]	7636	-0.7114080190658569	-0.39954436	No	
+row_11	PPP3CC	protein phosphatase 3 catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:9316]	7722	-0.7252359986305237	-0.38846993	No	
+row_12	CAT	catalase [Source:HGNC Symbol;Acc:HGNC:1516]	7892	-0.7559909820556641	-0.38281137	No	
+row_13	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	8493	-0.8753939867019653	-0.405857	No	
+row_14	CASP9	caspase 9 [Source:HGNC Symbol;Acc:HGNC:1511]	9187	-1.0005760192871094	-0.43272522	Yes	
+row_15	CASP1	caspase 1 [Source:HGNC Symbol;Acc:HGNC:1499]	9390	-1.0409350395202637	-0.42268652	Yes	
+row_16	BCL2L1	BCL2 like 1 [Source:HGNC Symbol;Acc:HGNC:992]	9790	-1.1127469539642334	-0.42535675	Yes	
+row_17	MAP2K3	mitogen-activated protein kinase kinase 3 [Source:HGNC Symbol;Acc:HGNC:6843]	10136	-1.1807409524917603	-0.42245218	Yes	
+row_18	MAPK12	mitogen-activated protein kinase 12 [Source:HGNC Symbol;Acc:HGNC:6874]	10618	-1.2809679508209229	-0.42711326	Yes	
+row_19	MAPK14	mitogen-activated protein kinase 14 [Source:HGNC Symbol;Acc:HGNC:6876]	10635	-1.2837090492248535	-0.39766797	Yes	
+row_20	MAP2K6	mitogen-activated protein kinase kinase 6 [Source:HGNC Symbol;Acc:HGNC:6846]	10687	-1.2917029857635498	-0.37059423	Yes	
+row_21	MAPK11	mitogen-activated protein kinase 11 [Source:HGNC Symbol;Acc:HGNC:6873]	10817	-1.3192319869995117	-0.34857404	Yes	
+row_22	MAPK13	mitogen-activated protein kinase 13 [Source:HGNC Symbol;Acc:HGNC:6875]	11115	-1.380270004272461	-0.33739677	Yes	
+row_23	BAX	BCL2 associated X, apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:959]	11235	-1.4066270589828491	-0.31256014	Yes	
+row_24	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	11742	-1.5082470178604126	-0.31363076	Yes	
+row_25	CASP3	caspase 3 [Source:HGNC Symbol;Acc:HGNC:1504]	11834	-1.5302419662475586	-0.2837961	Yes	
+row_26	CCS	copper chaperone for superoxide dismutase [Source:HGNC Symbol;Acc:HGNC:1613]	11957	-1.5524510145187378	-0.25570115	Yes	
+row_27	RAB5A	RAB5A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9783]	12304	-1.6278640031814575	-0.24220586	Yes	
+row_28	PPP3R2	protein phosphatase 3 regulatory subunit B, beta [Source:HGNC Symbol;Acc:HGNC:9318]	12331	-1.6328179836273193	-0.20516635	Yes	
+row_29	CHP2	calcineurin like EF-hand protein 2 [Source:HGNC Symbol;Acc:HGNC:24927]	12438	-1.6544450521469116	-0.17346755	Yes	
+row_30	PPP3R1	protein phosphatase 3 regulatory subunit B, alpha [Source:HGNC Symbol;Acc:HGNC:9317]	12453	-1.657986044883728	-0.1349493	Yes	
+row_31	RAC1	Rac family small GTPase 1 [Source:HGNC Symbol;Acc:HGNC:9801]	12493	-1.6640169620513916	-0.09811737	Yes	
+row_32	BID	BH3 interacting domain death agonist [Source:HGNC Symbol;Acc:HGNC:1050]	12927	-1.7572740316390991	-0.08790459	Yes	
+row_33	CHP1	calcineurin like EF-hand protein 1 [Source:HGNC Symbol;Acc:HGNC:17433]	12979	-1.7684240341186523	-0.049461015	Yes	
+row_34	CYCS	cytochrome c, somatic [Source:HGNC Symbol;Acc:HGNC:19986]	13633	-2.1049699783325195	-0.047061067	Yes	
+row_35	SOD1	superoxide dismutase 1 [Source:HGNC Symbol;Acc:HGNC:11179]	13664	-2.160438060760498	0.0022694168	Yes	

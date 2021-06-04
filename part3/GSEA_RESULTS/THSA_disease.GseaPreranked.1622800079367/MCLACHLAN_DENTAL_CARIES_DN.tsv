@@ -1,0 +1,41 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CDH12	cadherin 12 [Source:HGNC Symbol;Acc:HGNC:1751]	120	2.4366469383239746	0.05210632	Yes	
+row_1	TRPC1	transient receptor potential cation channel subfamily C member 1 [Source:HGNC Symbol;Acc:HGNC:12333]	154	2.337409019470215	0.10810343	Yes	
+row_2	GHR	growth hormone receptor [Source:HGNC Symbol;Acc:HGNC:4263]	244	2.0393569469451904	0.15255123	Yes	
+row_3	ABLIM1	actin binding LIM protein 1 [Source:HGNC Symbol;Acc:HGNC:78]	246	2.0351970195770264	0.20333913	Yes	
+row_4	GPR37	G protein-coupled receptor 37 [Source:HGNC Symbol;Acc:HGNC:4494]	389	1.736184000968933	0.23632933	Yes	
+row_5	TMEM255A	transmembrane protein 255A [Source:HGNC Symbol;Acc:HGNC:26086]	1104	1.035483956336975	0.20992215	Yes	
+row_6	AOC2	amine oxidase copper containing 2 [Source:HGNC Symbol;Acc:HGNC:549]	1155	1.0048420429229736	0.23137254	Yes	
+row_7	POLI	DNA polymerase iota [Source:HGNC Symbol;Acc:HGNC:9182]	1518	0.7975969910621643	0.2247966	Yes	
+row_8	PEG10	paternally expressed 10 [Source:HGNC Symbol;Acc:HGNC:14005]	1717	0.7033309936523438	0.22787425	Yes	
+row_9	EGR1	early growth response 1 [Source:HGNC Symbol;Acc:HGNC:3238]	1731	0.7001929879188538	0.24442065	Yes	
+row_10	GPC3	glypican 3 [Source:HGNC Symbol;Acc:HGNC:4451]	2211	0.5204160213470459	0.22235008	No	
+row_11	GLCE	glucuronic acid epimerase [Source:HGNC Symbol;Acc:HGNC:17855]	2412	0.46402400732040405	0.21930082	No	
+row_12	SPOCK1	SPARC (osteonectin), cwcv and kazal like domains proteoglycan 1 [Source:HGNC Symbol;Acc:HGNC:11251]	3492	0.19610099494457245	0.14518864	No	
+row_13	GPM6A	glycoprotein M6A [Source:HGNC Symbol;Acc:HGNC:4460]	3517	0.189519003033638	0.1481674	No	
+row_14	SYT1	synaptotagmin 1 [Source:HGNC Symbol;Acc:HGNC:11509]	3626	0.16285200417041779	0.14432858	No	
+row_15	SPOCK3	SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 [Source:HGNC Symbol;Acc:HGNC:13565]	3676	0.15004099905490875	0.14449005	No	
+row_16	TRIM2	tripartite motif containing 2 [Source:HGNC Symbol;Acc:HGNC:15974]	4305	-0.012404000386595726	0.09881292	No	
+row_17	PLK2	polo like kinase 2 [Source:HGNC Symbol;Acc:HGNC:19699]	4719	-0.11663199961185455	0.07148453	No	
+row_18	ISYNA1	inositol-3-phosphate synthase 1 [Source:HGNC Symbol;Acc:HGNC:29821]	4720	-0.11711999773979187	0.07441145	No	
+row_19	OLFML1	olfactomedin like 1 [Source:HGNC Symbol;Acc:HGNC:24473]	4925	-0.1640080064535141	0.06357165	No	
+row_20	CCN1	cellular communication network factor 1 [Source:HGNC Symbol;Acc:HGNC:2654]	5783	-0.3510909974575043	0.009589378	No	
+row_21	SESN1	sestrin 1 [Source:HGNC Symbol;Acc:HGNC:21595]	6251	-0.44802001118659973	-0.013411683	No	
+row_22	ST8SIA1	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10869]	6296	-0.45714399218559265	-0.0052093333	No	
+row_23	CPE	carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	6561	-0.5058509707450867	-0.011899894	No	
+row_24	OMD	osteomodulin [Source:HGNC Symbol;Acc:HGNC:8134]	6942	-0.5820289850234985	-0.025181143	No	
+row_25	ITM2A	integral membrane protein 2A [Source:HGNC Symbol;Acc:HGNC:6173]	7049	-0.6025320291519165	-0.017885562	No	
+row_26	OSR2	odd-skipped related transciption factor 2 [Source:HGNC Symbol;Acc:HGNC:15830]	7415	-0.6678910255432129	-0.027922636	No	
+row_27	DIO3	iodothyronine deiodinase 3 [Source:HGNC Symbol;Acc:HGNC:2885]	8370	-0.8537970185279846	-0.076445	No	
+row_28	ACTR3B	actin related protein 3B [Source:HGNC Symbol;Acc:HGNC:17256]	9199	-1.0040110349655151	-0.11198669	No	
+row_29	CRYZ	crystallin zeta [Source:HGNC Symbol;Acc:HGNC:2419]	10912	-1.339432954788208	-0.20387937	No	
+row_30	TUBB2B	tubulin beta 2B class IIb [Source:HGNC Symbol;Acc:HGNC:30829]	11120	-1.3813070058822632	-0.18451764	No	
+row_31	MDK	midkine [Source:HGNC Symbol;Acc:HGNC:6972]	11260	-1.4127010107040405	-0.15939184	No	
+row_32	CALB1	calbindin 1 [Source:HGNC Symbol;Acc:HGNC:1434]	11385	-1.4371589422225952	-0.1325564	No	
+row_33	ITGB1BP1	integrin subunit beta 1 binding protein 1 [Source:HGNC Symbol;Acc:HGNC:23927]	11793	-1.5191409587860107	-0.12439565	No	
+row_34	MPPED2	metallophosphoesterase domain containing 2 [Source:HGNC Symbol;Acc:HGNC:1180]	11924	-1.54721200466156	-0.09524927	No	
+row_35	NUDT4	nudix hydrolase 4 [Source:HGNC Symbol;Acc:HGNC:8051]	12567	-1.6779040098190308	-0.10032948	No	
+row_36	EIF1AX	eukaryotic translation initiation factor 1A X-linked [Source:HGNC Symbol;Acc:HGNC:3250]	12859	-1.7434420585632324	-0.07806885	No	
+row_37	ADIRF	adipogenesis regulatory factor [Source:HGNC Symbol;Acc:HGNC:24043]	12861	-1.7438809871673584	-0.03456116	No	
+row_38	CA2	carbonic anhydrase 2 [Source:HGNC Symbol;Acc:HGNC:1373]	13307	-1.8769969940185547	-0.020239985	No	
+row_39	CRABP1	cellular retinoic acid binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2338]	13449	-1.9438819885253906	0.018013977	No	

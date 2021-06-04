@@ -1,0 +1,35 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HAP1	huntingtin associated protein 1 [Source:HGNC Symbol;Acc:HGNC:4812]	258	1.9880750179290771	0.029206594	No	
+row_1	KRT17	keratin 17 [Source:HGNC Symbol;Acc:HGNC:6427]	1944	0.6175550222396851	-0.07918969	No	
+row_2	KRT8	keratin 8 [Source:HGNC Symbol;Acc:HGNC:6446]	2019	0.5869899988174438	-0.07040702	No	
+row_3	KRT18	keratin 18 [Source:HGNC Symbol;Acc:HGNC:6430]	2183	0.5314170122146606	-0.06948306	No	
+row_4	KRT19	keratin 19 [Source:HGNC Symbol;Acc:HGNC:6436]	2921	0.33556100726127625	-0.11531116	No	
+row_5	DPF3	double PHD fingers 3 [Source:HGNC Symbol;Acc:HGNC:17427]	4522	-0.07169699668884277	-0.23068999	No	
+row_6	IGFBP3	insulin like growth factor binding protein 3 [Source:HGNC Symbol;Acc:HGNC:5472]	5975	-0.39204299449920654	-0.32748675	No	
+row_7	CCNE1	cyclin E1 [Source:HGNC Symbol;Acc:HGNC:1589]	6279	-0.4533900022506714	-0.33869764	No	
+row_8	HP	haptoglobin [Source:HGNC Symbol;Acc:HGNC:5141]	7014	-0.5958960056304932	-0.37800872	No	
+row_9	FGR	FGR proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:3697]	7312	-0.6484190225601196	-0.38406274	No	
+row_10	P4HB	prolyl 4-hydroxylase subunit beta [Source:HGNC Symbol;Acc:HGNC:8548]	7737	-0.729436993598938	-0.39745283	No	
+row_11	EEF1G	eukaryotic translation elongation factor 1 gamma [Source:HGNC Symbol;Acc:HGNC:3213]	7804	-0.7397909760475159	-0.38438836	No	
+row_12	HCK	HCK proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:4840]	7820	-0.7431949973106384	-0.36750856	No	
+row_13	ALDH1A1	aldehyde dehydrogenase 1 family member A1 [Source:HGNC Symbol;Acc:HGNC:402]	9110	-0.9864619970321655	-0.43799558	No	
+row_14	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	9481	-1.06045401096344	-0.43942586	No	
+row_15	EEF1A2	eukaryotic translation elongation factor 1 alpha 2 [Source:HGNC Symbol;Acc:HGNC:3192]	9601	-1.078292965888977	-0.42205247	No	
+row_16	PSMB6	proteasome 20S subunit beta 6 [Source:HGNC Symbol;Acc:HGNC:9543]	10418	-1.238582968711853	-0.45181915	Yes	
+row_17	PGK1	phosphoglycerate kinase 1 [Source:HGNC Symbol;Acc:HGNC:8896]	10654	-1.2869210243225098	-0.4378898	Yes	
+row_18	MMP7	matrix metallopeptidase 7 [Source:HGNC Symbol;Acc:HGNC:7174]	10974	-1.350687026977539	-0.42856643	Yes	
+row_19	TUBB	tubulin beta class I [Source:HGNC Symbol;Acc:HGNC:20778]	10996	-1.3545360565185547	-0.39733762	Yes	
+row_20	HSPB1	heat shock protein family B (small) member 1 [Source:HGNC Symbol;Acc:HGNC:5246]	11508	-1.461832046508789	-0.39937922	Yes	
+row_21	RABGGTB	Rab geranylgeranyltransferase subunit beta [Source:HGNC Symbol;Acc:HGNC:9796]	11744	-1.5086400508880615	-0.38008657	Yes	
+row_22	CSF2	colony stimulating factor 2 [Source:HGNC Symbol;Acc:HGNC:2434]	12348	-1.6374160051345825	-0.38461486	Yes	
+row_23	RAC1	Rac family small GTPase 1 [Source:HGNC Symbol;Acc:HGNC:9801]	12493	-1.6640169620513916	-0.35490283	Yes	
+row_24	GSTP1	glutathione S-transferase pi 1 [Source:HGNC Symbol;Acc:HGNC:4638]	12594	-1.6833610534667969	-0.3215023	Yes	
+row_25	GSTM4	glutathione S-transferase mu 4 [Source:HGNC Symbol;Acc:HGNC:4636]	12598	-1.6837619543075562	-0.28099206	Yes	
+row_26	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	12737	-1.7177159786224365	-0.2495419	Yes	
+row_27	RHOA	ras homolog family member A [Source:HGNC Symbol;Acc:HGNC:667]	12990	-1.771628975868225	-0.22513191	Yes	
+row_28	EIF5A	eukaryotic translation initiation factor 5A [Source:HGNC Symbol;Acc:HGNC:3300]	13139	-1.8110159635543823	-0.1921568	Yes	
+row_29	CDC42	cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	13283	-1.8647160530090332	-0.15751673	Yes	
+row_30	PRDX1	peroxiredoxin 1 [Source:HGNC Symbol;Acc:HGNC:9352]	13284	-1.8663259744644165	-0.11237072	Yes	
+row_31	FABP5	fatty acid binding protein 5 [Source:HGNC Symbol;Acc:HGNC:3560]	13432	-1.933500051498413	-0.07635956	Yes	
+row_32	S100A2	S100 calcium binding protein A2 [Source:HGNC Symbol;Acc:HGNC:10492]	13478	-1.9594080448150635	-0.032255728	Yes	
+row_33	LGALS1	galectin 1 [Source:HGNC Symbol;Acc:HGNC:6561]	13524	-1.987038016319275	0.01251647	Yes	

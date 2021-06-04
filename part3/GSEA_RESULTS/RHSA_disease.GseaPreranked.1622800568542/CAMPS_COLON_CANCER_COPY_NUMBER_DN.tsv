@@ -1,0 +1,53 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TMEM167B	transmembrane protein 167B [Source:HGNC Symbol;Acc:HGNC:30187]	26	2.822967052459717	0.047083795	Yes	
+row_1	OR4P4	olfactory receptor family 4 subfamily P member 4 [Source:HGNC Symbol;Acc:HGNC:15180]	119	2.277972936630249	0.07987255	Yes	
+row_2	OR4N4	olfactory receptor family 4 subfamily N member 4 [Source:HGNC Symbol;Acc:HGNC:15375]	225	2.102147102355957	0.10865724	Yes	
+row_3	OR4C6	olfactory receptor family 4 subfamily C member 6 [Source:HGNC Symbol;Acc:HGNC:14743]	267	2.049717903137207	0.14122279	Yes	
+row_4	RHD	Rh blood group D antigen [Source:HGNC Symbol;Acc:HGNC:10009]	292	2.022205114364624	0.17455685	Yes	
+row_5	OR51A2	olfactory receptor family 51 subfamily A member 2 [Source:HGNC Symbol;Acc:HGNC:14764]	300	2.015561103820801	0.20902158	Yes	
+row_6	OR51A4	olfactory receptor family 51 subfamily A member 4 [Source:HGNC Symbol;Acc:HGNC:14795]	351	1.9721230268478394	0.23958093	Yes	
+row_7	OR4M2	olfactory receptor family 4 subfamily M member 2 [Source:HGNC Symbol;Acc:HGNC:15373]	412	1.929569959640503	0.2686689	Yes	
+row_8	OR4S2	olfactory receptor family 4 subfamily S member 2 [Source:HGNC Symbol;Acc:HGNC:15183]	442	1.9060029983520508	0.29961994	Yes	
+row_9	OR2T10	olfactory receptor family 2 subfamily T member 10 [Source:HGNC Symbol;Acc:HGNC:19573]	484	1.877573013305664	0.32919812	Yes	
+row_10	OR4C11	olfactory receptor family 4 subfamily C member 11 [Source:HGNC Symbol;Acc:HGNC:15167]	579	1.799564003944397	0.35353804	Yes	
+row_11	OR2T11	olfactory receptor family 2 subfamily T member 11 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:19574]	591	1.7912789583206177	0.38381743	Yes	
+row_12	OR2A1	olfactory receptor family 2 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:8229]	881	1.531427025794983	0.38921216	Yes	
+row_13	OR2T34	olfactory receptor family 2 subfamily T member 34 [Source:HGNC Symbol;Acc:HGNC:31256]	888	1.5266660451889038	0.41526595	Yes	
+row_14	SLC2A14	solute carrier family 2 member 14 [Source:HGNC Symbol;Acc:HGNC:18301]	1330	1.1474080085754395	0.40285602	No	
+row_15	ZDHHC11	zinc finger DHHC-type containing 11 [Source:HGNC Symbol;Acc:HGNC:19158]	2105	0.5866069793701172	0.3563077	No	
+row_16	ZDHHC14	zinc finger DHHC-type palmitoyltransferase 14 [Source:HGNC Symbol;Acc:HGNC:20341]	2506	0.32435399293899536	0.33261958	No	
+row_17	CLCC1	chloride channel CLIC like 1 [Source:HGNC Symbol;Acc:HGNC:29675]	3131	0.022166000679135323	0.28726983	No	
+row_18	CLEC4C	C-type lectin domain family 4 member C [Source:HGNC Symbol;Acc:HGNC:13258]	3185	0.0010160000529140234	0.28340298	No	
+row_19	TEX28	testis expressed 28 [Source:HGNC Symbol;Acc:HGNC:2563]	3496	-0.13324399292469025	0.26299468	No	
+row_20	GDF3	growth differentiation factor 3 [Source:HGNC Symbol;Acc:HGNC:4218]	3650	-0.1906220018863678	0.25508898	No	
+row_21	HLA-DRB5	major histocompatibility complex, class II, DR beta 5 [Source:HGNC Symbol;Acc:HGNC:4953]	3757	-0.22481200098991394	0.25122136	No	
+row_22	APOBEC3B	apolipoprotein B mRNA editing enzyme catalytic subunit 3B [Source:HGNC Symbol;Acc:HGNC:17352]	4332	-0.38900598883628845	0.21590233	No	
+row_23	NEGR1	neuronal growth regulator 1 [Source:HGNC Symbol;Acc:HGNC:17302]	4661	-0.4743170142173767	0.2000937	No	
+row_24	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	4903	-0.5331439971923828	0.19168237	No	
+row_25	FCGR1A	Fc fragment of IgG receptor Ia [Source:HGNC Symbol;Acc:HGNC:3613]	4911	-0.5351150035858154	0.20045564	No	
+row_26	CFHR2	complement factor H related 2 [Source:HGNC Symbol;Acc:HGNC:4890]	5081	-0.5705100297927856	0.1979698	No	
+row_27	BTNL8	butyrophilin like 8 [Source:HGNC Symbol;Acc:HGNC:26131]	5083	-0.5714799761772156	0.20781389	No	
+row_28	HLA-C	major histocompatibility complex, class I, C [Source:HGNC Symbol;Acc:HGNC:4933]	5128	-0.5786769986152649	0.2146313	No	
+row_29	GSTT1	glutathione S-transferase theta 1 [Source:HGNC Symbol;Acc:HGNC:4641]	5169	-0.5864499807357788	0.22187679	No	
+row_30	RBFOX1	RNA binding fox-1 homolog 1 [Source:HGNC Symbol;Acc:HGNC:18222]	5190	-0.5906670093536377	0.2306613	No	
+row_31	TAF13	TATA-box binding protein associated factor 13 [Source:HGNC Symbol;Acc:HGNC:11546]	5867	-0.7102010250091553	0.19344045	No	
+row_32	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	6307	-0.7782019972801208	0.17476995	No	
+row_33	APOBEC3A	apolipoprotein B mRNA editing enzyme catalytic subunit 3A [Source:HGNC Symbol;Acc:HGNC:17343]	6338	-0.7824509739875793	0.18614973	No	
+row_34	NANOG	Nanog homeobox [Source:HGNC Symbol;Acc:HGNC:20857]	6418	-0.7929750084877014	0.19412082	No	
+row_35	DPPA3	developmental pluripotency associated 3 [Source:HGNC Symbol;Acc:HGNC:19199]	6591	-0.8167880177497864	0.19568898	No	
+row_36	NRXN3	neurexin 3 [Source:HGNC Symbol;Acc:HGNC:8010]	6646	-0.8230199813842773	0.20601377	No	
+row_37	CFHR4	complement factor H related 4 [Source:HGNC Symbol;Acc:HGNC:16979]	6778	-0.8403980135917664	0.21099664	No	
+row_38	CFHR1	complement factor H related 1 [Source:HGNC Symbol;Acc:HGNC:4888]	7502	-0.9328309893608093	0.17419453	No	
+row_39	MTA2	metastasis associated 1 family member 2 [Source:HGNC Symbol;Acc:HGNC:7411]	7734	-0.962643027305603	0.1739696	No	
+row_40	GPSM2	G protein signaling modulator 2 [Source:HGNC Symbol;Acc:HGNC:29501]	7849	-0.975849986076355	0.18254904	No	
+row_41	CES1	carboxylesterase 1 [Source:HGNC Symbol;Acc:HGNC:1863]	8453	-1.0464860200881958	0.15651438	No	
+row_42	NME7	NME/NM23 family member 7 [Source:HGNC Symbol;Acc:HGNC:20461]	8567	-1.0578609704971313	0.16659032	No	
+row_43	MTMR8	myotubularin related protein 8 [Source:HGNC Symbol;Acc:HGNC:16825]	9086	-1.1118589639663696	0.14791997	No	
+row_44	PTPN20	protein tyrosine phosphatase non-receptor type 20 [Source:HGNC Symbol;Acc:HGNC:23423]	9495	-1.1523250341415405	0.138014	No	
+row_45	AMY2A	amylase alpha 2A [Source:HGNC Symbol;Acc:HGNC:477]	10182	-1.2242130041122437	0.10898033	No	
+row_46	PDXDC1	pyridoxal dependent decarboxylase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:28995]	11019	-1.3085659742355347	0.07041665	No	
+row_47	ZNF630	zinc finger protein 630 [Source:HGNC Symbol;Acc:HGNC:28855]	11197	-1.3263850212097168	0.08046182	No	
+row_48	EEF1G	eukaryotic translation elongation factor 1 gamma [Source:HGNC Symbol;Acc:HGNC:3213]	11329	-1.3426519632339478	0.094160736	No	
+row_49	PPIAL4A	peptidylprolyl isomerase A like 4A [Source:HGNC Symbol;Acc:HGNC:24369]	11652	-1.3785289525985718	0.09448343	No	
+row_50	ACOT1	acyl-CoA thioesterase 1 [Source:HGNC Symbol;Acc:HGNC:33128]	12497	-1.4886399507522583	0.058458395	No	
+row_51	MACROD2	mono-ADP ribosylhydrolase 2 [Source:HGNC Symbol;Acc:HGNC:16126]	13360	-1.6868020296096802	0.024552977	No	

@@ -1,0 +1,34 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ARHGAP18	Rho GTPase activating protein 18 [Source:HGNC Symbol;Acc:HGNC:21035]	2061	0.5702450275421143	-0.13592708	No	
+row_1	ZDHHC7	zinc finger DHHC-type palmitoyltransferase 7 [Source:HGNC Symbol;Acc:HGNC:18459]	3361	0.2306240051984787	-0.22496799	No	
+row_2	KHDRBS1	KH RNA binding domain containing, signal transduction associated 1 [Source:HGNC Symbol;Acc:HGNC:18116]	4249	0.0032649999484419823	-0.28980243	No	
+row_3	ZSWIM1	zinc finger SWIM-type containing 1 [Source:HGNC Symbol;Acc:HGNC:16155]	5352	-0.25961199402809143	-0.36366645	No	
+row_4	EPCAM	epithelial cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:11529]	5381	-0.26494601368904114	-0.3587845	No	
+row_5	TES	testin LIM domain protein [Source:HGNC Symbol;Acc:HGNC:14620]	5514	-0.295197993516922	-0.3607229	No	
+row_6	NCF2	neutrophil cytosolic factor 2 [Source:HGNC Symbol;Acc:HGNC:7661]	5891	-0.3764770030975342	-0.3783934	No	
+row_7	NOP58	NOP58 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:29926]	6123	-0.42184698581695557	-0.38426438	No	
+row_8	NAP1L1	nucleosome assembly protein 1 like 1 [Source:HGNC Symbol;Acc:HGNC:7637]	6311	-0.4600839912891388	-0.38591462	No	
+row_9	CCT2	chaperonin containing TCP1 subunit 2 [Source:HGNC Symbol;Acc:HGNC:1615]	6655	-0.5241730213165283	-0.39730597	No	
+row_10	IP6K2	inositol hexakisphosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:17313]	7167	-0.6227959990501404	-0.41841316	No	
+row_11	MMP12	matrix metallopeptidase 12 [Source:HGNC Symbol;Acc:HGNC:7158]	8009	-0.7790070176124573	-0.45958653	No	
+row_12	CHKB	choline kinase beta [Source:HGNC Symbol;Acc:HGNC:1938]	8949	-0.9586279988288879	-0.5032335	No	
+row_13	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	9219	-1.0077159404754639	-0.49655867	No	
+row_14	CTSV	cathepsin V [Source:HGNC Symbol;Acc:HGNC:2538]	9816	-1.1192090511322021	-0.5109003	No	
+row_15	RPS3A	ribosomal protein S3A [Source:HGNC Symbol;Acc:HGNC:10421]	9869	-1.130776047706604	-0.48512378	No	
+row_16	RPIA	ribose 5-phosphate isomerase A [Source:HGNC Symbol;Acc:HGNC:10297]	9942	-1.1428639888763428	-0.46049485	No	
+row_17	APEX1	apurinic/apyrimidinic endodeoxyribonuclease 1 [Source:HGNC Symbol;Acc:HGNC:587]	10976	-1.3513230085372925	-0.50074834	No	
+row_18	RPL13A	ribosomal protein L13a [Source:HGNC Symbol;Acc:HGNC:10304]	11347	-1.4304929971694946	-0.49040538	No	
+row_19	RPP21	ribonuclease P/MRP subunit p21 [Source:HGNC Symbol;Acc:HGNC:21300]	12483	-1.6631699800491333	-0.529966	Yes	
+row_20	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	12484	-1.6632829904556274	-0.48645258	Yes	
+row_21	RPL27A	ribosomal protein L27a [Source:HGNC Symbol;Acc:HGNC:10329]	12624	-1.6905189752578735	-0.4524001	Yes	
+row_22	CBX3	chromobox 3 [Source:HGNC Symbol;Acc:HGNC:1553]	12768	-1.7221649885177612	-0.41781247	Yes	
+row_23	RPL9	ribosomal protein L9 [Source:HGNC Symbol;Acc:HGNC:10369]	12819	-1.7313849925994873	-0.37617692	Yes	
+row_24	RPS17	ribosomal protein S17 [Source:HGNC Symbol;Acc:HGNC:10397]	12955	-1.7629129886627197	-0.33993778	Yes	
+row_25	RPS25	ribosomal protein S25 [Source:HGNC Symbol;Acc:HGNC:10413]	13041	-1.7800589799880981	-0.29959056	Yes	
+row_26	RPS18	ribosomal protein S18 [Source:HGNC Symbol;Acc:HGNC:10401]	13045	-1.7808339595794678	-0.25322142	Yes	
+row_27	RPS12	ribosomal protein S12 [Source:HGNC Symbol;Acc:HGNC:10385]	13273	-1.8567869663238525	-0.22125992	Yes	
+row_28	DYNLT1	dynein light chain Tctex-type 1 [Source:HGNC Symbol;Acc:HGNC:11697]	13292	-1.8710709810256958	-0.17362796	Yes	
+row_29	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	13300	-1.874364972114563	-0.12510473	Yes	
+row_30	RPS14	ribosomal protein S14 [Source:HGNC Symbol;Acc:HGNC:10387]	13368	-1.8996479511260986	-0.08031147	Yes	
+row_31	RPL35A	ribosomal protein L35a [Source:HGNC Symbol;Acc:HGNC:10345]	13483	-1.9622670412063599	-0.037319984	Yes	
+row_32	CSTB	cystatin B [Source:HGNC Symbol;Acc:HGNC:2482]	13563	-2.0168468952178955	0.009661038	Yes	

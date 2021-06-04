@@ -1,0 +1,31 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ABCD1	ATP binding cassette subfamily D member 1 [Source:HGNC Symbol;Acc:HGNC:61]	156	2.3226890563964844	0.059926644	Yes	
+row_1	KCND1	potassium voltage-gated channel subfamily D member 1 [Source:HGNC Symbol;Acc:HGNC:6237]	234	2.059501886367798	0.11755022	Yes	
+row_2	FSHR	follicle stimulating hormone receptor [Source:HGNC Symbol;Acc:HGNC:3969]	328	1.8428089618682861	0.16734724	Yes	
+row_3	ABCB10	ATP binding cassette subfamily B member 10 [Source:HGNC Symbol;Acc:HGNC:41]	341	1.8222930431365967	0.22244121	Yes	
+row_4	HAS1	hyaluronan synthase 1 [Source:HGNC Symbol;Acc:HGNC:4818]	369	1.7721070051193237	0.27489612	Yes	
+row_5	SEL1L	SEL1L adaptor subunit of ERAD E3 ubiquitin ligase [Source:HGNC Symbol;Acc:HGNC:10717]	1483	0.8160399794578552	0.21851793	No	
+row_6	GPR1	G protein-coupled receptor 1 [Source:HGNC Symbol;Acc:HGNC:4463]	1736	0.6975129842758179	0.22150226	No	
+row_7	MEP1A	meprin A subunit alpha [Source:HGNC Symbol;Acc:HGNC:7015]	1742	0.6934329867362976	0.2424353	No	
+row_8	BRAP	BRCA1 associated protein [Source:HGNC Symbol;Acc:HGNC:1099]	2194	0.5258020162582397	0.2255838	No	
+row_9	RUNX2	RUNX family transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:10472]	2794	0.36397600173950195	0.192932	No	
+row_10	ZBTB25	zinc finger and BTB domain containing 25 [Source:HGNC Symbol;Acc:HGNC:13112]	3234	0.2619749903678894	0.16885509	No	
+row_11	PAX2	paired box 2 [Source:HGNC Symbol;Acc:HGNC:8616]	3930	0.08324199914932251	0.12055574	No	
+row_12	ERCC2	ERCC excision repair 2, TFIIH core complex helicase subunit [Source:HGNC Symbol;Acc:HGNC:3434]	3948	0.07763999700546265	0.12169651	No	
+row_13	XPA	XPA, DNA damage recognition and repair factor [Source:HGNC Symbol;Acc:HGNC:12814]	6082	-0.4125089943408966	-0.02171398	No	
+row_14	FOXH1	forkhead box H1 [Source:HGNC Symbol;Acc:HGNC:3814]	6272	-0.4512900114059448	-0.021682464	No	
+row_15	LEFTY1	left-right determination factor 1 [Source:HGNC Symbol;Acc:HGNC:6552]	6811	-0.5567029714584351	-0.043951	No	
+row_16	SERPINI2	serpin family I member 2 [Source:HGNC Symbol;Acc:HGNC:8945]	8838	-0.9384059906005859	-0.1633788	No	
+row_17	CPA2	carboxypeptidase A2 [Source:HGNC Symbol;Acc:HGNC:2297]	8849	-0.9407770037651062	-0.1352144	No	
+row_18	PNLIPRP1	pancreatic lipase related protein 1 [Source:HGNC Symbol;Acc:HGNC:9156]	9279	-1.0193159580230713	-0.1352977	No	
+row_19	STX11	syntaxin 11 [Source:HGNC Symbol;Acc:HGNC:11429]	9532	-1.0677590370178223	-0.1209412	No	
+row_20	CTRL	chymotrypsin like [Source:HGNC Symbol;Acc:HGNC:2524]	9649	-1.0864349603652954	-0.09605937	No	
+row_21	PNLIPRP2	pancreatic lipase related protein 2 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:9157]	9839	-1.1253299713134766	-0.07532459	No	
+row_22	GCG	glucagon [Source:HGNC Symbol;Acc:HGNC:4191]	10114	-1.1764719486236572	-0.059238788	No	
+row_23	IFNA6	interferon alpha 6 [Source:HGNC Symbol;Acc:HGNC:5427]	10340	-1.222782015800476	-0.03814502	No	
+row_24	CTRC	chymotrypsin C [Source:HGNC Symbol;Acc:HGNC:2523]	10832	-1.3218740224838257	-0.03347199	No	
+row_25	B3GNTL1	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase like 1 [Source:HGNC Symbol;Acc:HGNC:21727]	11313	-1.4241679906845093	-0.024852065	No	
+row_26	IL10	interleukin 10 [Source:HGNC Symbol;Acc:HGNC:5962]	11408	-1.4411120414733887	0.01253358	No	
+row_27	IAPP	islet amyloid polypeptide [Source:HGNC Symbol;Acc:HGNC:5329]	11637	-1.4855109453201294	0.04147759	No	
+row_28	CCL27	C-C motif chemokine ligand 27 [Source:HGNC Symbol;Acc:HGNC:10626]	12941	-1.760208010673523	1.9659853E-4	No	
+row_29	TCL1B	T cell leukemia/lymphoma 1B [Source:HGNC Symbol;Acc:HGNC:11649]	13067	-1.7875100374221802	0.04595352	No	

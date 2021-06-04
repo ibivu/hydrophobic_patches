@@ -1,0 +1,41 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CD28	CD28 molecule [Source:HGNC Symbol;Acc:HGNC:1653]	1659	2.2922000885009766	-0.013636486	Yes	
+row_1	HLA-DMA	major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	1672	2.2655019760131836	0.0920772	Yes	
+row_2	HLA-DOA	major histocompatibility complex, class II, DO alpha [Source:HGNC Symbol;Acc:HGNC:4936]	1673	2.2655019760131836	0.19866963	Yes	
+row_3	HLA-DQA2	major histocompatibility complex, class II, DQ alpha 2 [Source:HGNC Symbol;Acc:HGNC:4943]	1674	2.2655019760131836	0.30526206	Yes	
+row_4	INS	insulin [Source:HGNC Symbol;Acc:HGNC:6081]	1915	1.7175649404525757	0.36849922	Yes	
+row_5	HLA-DRA	major histocompatibility complex, class II, DR alpha [Source:HGNC Symbol;Acc:HGNC:4947]	2022	1.549446940422058	0.4336389	Yes	
+row_6	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	2025	1.549446940422058	0.5063943	Yes	
+row_7	LTA	lymphotoxin alpha [Source:HGNC Symbol;Acc:HGNC:6709]	2310	1.1675570011138916	0.54053146	Yes	
+row_8	HLA-DOB	major histocompatibility complex, class II, DO beta [Source:HGNC Symbol;Acc:HGNC:4937]	2736	0.562470018863678	0.53587395	Yes	
+row_9	HLA-DRB4	major histocompatibility complex, class II, DR beta 4 [Source:HGNC Symbol;Acc:HGNC:4952]	2750	0.562470018863678	0.56138635	Yes	
+row_10	HLA-DMB	major histocompatibility complex, class II, DM beta [Source:HGNC Symbol;Acc:HGNC:4935]	2856	0.46377599239349365	0.5755182	Yes	
+row_11	HLA-DPA1	major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	2891	0.46377599239349365	0.5948492	Yes	
+row_12	ICA1	islet cell autoantigen 1 [Source:HGNC Symbol;Acc:HGNC:5343]	3256	0.35970398783683777	0.5851184	No	
+row_13	HLA-DRB3	major histocompatibility complex, class II, DR beta 3 [Source:HGNC Symbol;Acc:HGNC:4951]	3806	0.2695389986038208	0.5575982	No	
+row_14	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	3807	0.2695389986038208	0.5702801	No	
+row_15	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1 [Source:HGNC Symbol;Acc:HGNC:4944]	3815	0.2695389986038208	0.5824493	No	
+row_16	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	3874	0.2695389986038208	0.59088403	No	
+row_17	HLA-DRB5	major histocompatibility complex, class II, DR beta 5 [Source:HGNC Symbol;Acc:HGNC:4953]	4072	0.2255460023880005	0.5870701	No	
+row_18	HLA-G	major histocompatibility complex, class I, G [Source:HGNC Symbol;Acc:HGNC:4964]	4390	0.1298699975013733	0.56996727	No	
+row_19	HLA-DPB1	major histocompatibility complex, class II, DP beta 1 [Source:HGNC Symbol;Acc:HGNC:4940]	4402	0.1298699975013733	0.5752722	No	
+row_20	IL12A	interleukin 12A [Source:HGNC Symbol;Acc:HGNC:5969]	4599	0.1298699975013733	0.56702995	No	
+row_21	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	5091	0.034876998513936996	0.53271604	No	
+row_22	HLA-C	major histocompatibility complex, class I, C [Source:HGNC Symbol;Acc:HGNC:4933]	5092	0.034876998513936996	0.534357	No	
+row_23	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	5093	0.034876998513936996	0.535998	No	
+row_24	HLA-F	major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	5094	0.034876998513936996	0.5376389	No	
+row_25	CD86	CD86 molecule [Source:HGNC Symbol;Acc:HGNC:1705]	5686	0.034876998513936996	0.49600223	No	
+row_26	CD80	CD80 molecule [Source:HGNC Symbol;Acc:HGNC:1700]	5688	0.034876998513936996	0.49756998	No	
+row_27	CPE	carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	5851	-5.489999894052744E-4	0.48573288	No	
+row_28	PRF1	perforin 1 [Source:HGNC Symbol;Acc:HGNC:9360]	5942	-5.489999894052744E-4	0.4791682	No	
+row_29	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	5989	-5.489999894052744E-4	0.47582555	No	
+row_30	FAS	Fas cell surface death receptor [Source:HGNC Symbol;Acc:HGNC:11920]	6533	-0.05332599952816963	0.4385718	No	
+row_31	IFNG	interferon gamma [Source:HGNC Symbol;Acc:HGNC:5438]	6654	-0.06378699839115143	0.43278566	No	
+row_32	IL2	interleukin 2 [Source:HGNC Symbol;Acc:HGNC:6001]	6731	-0.09397400170564651	0.43164185	No	
+row_33	GAD2	glutamate decarboxylase 2 [Source:HGNC Symbol;Acc:HGNC:4093]	6827	-0.09603200107812881	0.4292035	No	
+row_34	IL1B	interleukin 1 beta [Source:HGNC Symbol;Acc:HGNC:5992]	6844	-0.09603200107812881	0.4325502	No	
+row_35	HSPD1	heat shock protein family D (Hsp60) member 1 [Source:HGNC Symbol;Acc:HGNC:5261]	7568	-0.22912000119686127	0.39038658	No	
+row_36	IL1A	interleukin 1 alpha [Source:HGNC Symbol;Acc:HGNC:5991]	9029	-0.22912000119686127	0.29425403	No	
+row_37	IL12B	interleukin 12B [Source:HGNC Symbol;Acc:HGNC:5970]	9911	-0.22912000119686127	0.24052042	No	
+row_38	GZMB	granzyme B [Source:HGNC Symbol;Acc:HGNC:4709]	11804	-0.3819409906864166	0.11994367	No	
+row_39	GAD1	glutamate decarboxylase 1 [Source:HGNC Symbol;Acc:HGNC:4092]	11956	-0.39228299260139465	0.12734328	No	

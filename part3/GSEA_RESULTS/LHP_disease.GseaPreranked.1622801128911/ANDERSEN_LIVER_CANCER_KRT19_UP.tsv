@@ -1,0 +1,34 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ZDHHC7	zinc finger DHHC-type palmitoyltransferase 7 [Source:HGNC Symbol;Acc:HGNC:18459]	720	2.8327879905700684	0.16983333	No	
+row_1	EPCAM	epithelial cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:11529]	3832	0.2695389986038208	-0.03668821	No	
+row_2	RPL13A	ribosomal protein L13a [Source:HGNC Symbol;Acc:HGNC:10304]	5923	-5.489999894052744E-4	-0.18961295	No	
+row_3	CTSV	cathepsin V [Source:HGNC Symbol;Acc:HGNC:2538]	6084	-5.489999894052744E-4	-0.2012803	No	
+row_4	TES	testin LIM domain protein [Source:HGNC Symbol;Acc:HGNC:14620]	6138	-5.489999894052744E-4	-0.20511626	No	
+row_5	ZSWIM1	zinc finger SWIM-type containing 1 [Source:HGNC Symbol;Acc:HGNC:16155]	6334	-5.489999894052744E-4	-0.21934526	No	
+row_6	CHKB	choline kinase beta [Source:HGNC Symbol;Acc:HGNC:1938]	7477	-0.22912000119686127	-0.28493008	No	
+row_7	RPS3A	ribosomal protein S3A [Source:HGNC Symbol;Acc:HGNC:10421]	8107	-0.22912000119686127	-0.31296822	No	
+row_8	KHDRBS1	KH RNA binding domain containing, signal transduction associated 1 [Source:HGNC Symbol;Acc:HGNC:18116]	8283	-0.22912000119686127	-0.30777797	No	
+row_9	MMP12	matrix metallopeptidase 12 [Source:HGNC Symbol;Acc:HGNC:7158]	8652	-0.22912000119686127	-0.31671345	No	
+row_10	IP6K2	inositol hexakisphosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:17313]	9357	-0.22912000119686127	-0.3502409	No	
+row_11	CCT2	chaperonin containing TCP1 subunit 2 [Source:HGNC Symbol;Acc:HGNC:1615]	9921	-0.22912000119686127	-0.3734485	Yes	
+row_12	RPIA	ribose 5-phosphate isomerase A [Source:HGNC Symbol;Acc:HGNC:10297]	9948	-0.22912000119686127	-0.35735285	Yes	
+row_13	DYNLT1	dynein light chain Tctex-type 1 [Source:HGNC Symbol;Acc:HGNC:11697]	10096	-0.23037999868392944	-0.35001427	Yes	
+row_14	RPP21	ribonuclease P/MRP subunit p21 [Source:HGNC Symbol;Acc:HGNC:21300]	10429	-0.3009659945964813	-0.35067102	Yes	
+row_15	CSTB	cystatin B [Source:HGNC Symbol;Acc:HGNC:2482]	10857	-0.33536601066589355	-0.35557854	Yes	
+row_16	RPL27A	ribosomal protein L27a [Source:HGNC Symbol;Acc:HGNC:10329]	10885	-0.3393380045890808	-0.3308979	Yes	
+row_17	RPL9	ribosomal protein L9 [Source:HGNC Symbol;Acc:HGNC:10369]	10939	-0.3393380045890808	-0.30812022	Yes	
+row_18	ARHGAP18	Rho GTPase activating protein 18 [Source:HGNC Symbol;Acc:HGNC:21035]	11383	-0.3582639992237091	-0.3124	Yes	
+row_19	APEX1	apurinic/apyrimidinic endodeoxyribonuclease 1 [Source:HGNC Symbol;Acc:HGNC:587]	11391	-0.3582639992237091	-0.28476885	Yes	
+row_20	NAP1L1	nucleosome assembly protein 1 like 1 [Source:HGNC Symbol;Acc:HGNC:7637]	11628	-0.3753179907798767	-0.27255857	Yes	
+row_21	RPL35A	ribosomal protein L35a [Source:HGNC Symbol;Acc:HGNC:10345]	11790	-0.37876999378204346	-0.25458783	Yes	
+row_22	RPS12	ribosomal protein S12 [Source:HGNC Symbol;Acc:HGNC:10385]	11793	-0.37876999378204346	-0.22497985	Yes	
+row_23	NCF2	neutrophil cytosolic factor 2 [Source:HGNC Symbol;Acc:HGNC:7661]	12098	-0.39228299260139465	-0.21641383	Yes	
+row_24	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	12107	-0.39228299260139465	-0.18618345	Yes	
+row_25	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	12280	-0.4231660068035126	-0.1655303	Yes	
+row_26	RPS17	ribosomal protein S17 [Source:HGNC Symbol;Acc:HGNC:10397]	12287	-0.4260309934616089	-0.13250245	Yes	
+row_27	NOP58	NOP58 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:29926]	12709	-0.43275201320648193	-0.12932065	Yes	
+row_28	RPS25	ribosomal protein S25 [Source:HGNC Symbol;Acc:HGNC:10413]	13429	-0.46675699949264526	-0.14527832	Yes	
+row_29	CBX3	chromobox 3 [Source:HGNC Symbol;Acc:HGNC:1553]	13530	-0.4821479916572571	-0.11472209	Yes	
+row_30	RPS18	ribosomal protein S18 [Source:HGNC Symbol;Acc:HGNC:10401]	13540	-0.4939959943294525	-0.07657482	Yes	
+row_31	RPS14	ribosomal protein S14 [Source:HGNC Symbol;Acc:HGNC:10387]	13571	-0.5084260106086731	-0.03883099	Yes	
+row_32	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	13655	-0.6089149713516235	0.0029276782	Yes	

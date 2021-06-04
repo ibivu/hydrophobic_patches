@@ -1,0 +1,35 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KRT19	keratin 19 [Source:HGNC Symbol;Acc:HGNC:6436]	3396	0.35970398783683777	-0.21494304	No	
+row_1	KRT18	keratin 18 [Source:HGNC Symbol;Acc:HGNC:6430]	3397	0.35970398783683777	-0.18131338	No	
+row_2	KRT17	keratin 17 [Source:HGNC Symbol;Acc:HGNC:6427]	3398	0.35970398783683777	-0.14768372	No	
+row_3	PSMB6	proteasome 20S subunit beta 6 [Source:HGNC Symbol;Acc:HGNC:9543]	3454	0.3487350046634674	-0.11910535	No	
+row_4	HAP1	huntingtin associated protein 1 [Source:HGNC Symbol;Acc:HGNC:4812]	3556	0.3242790102958679	-0.09618043	No	
+row_5	KRT8	keratin 8 [Source:HGNC Symbol;Acc:HGNC:6446]	3599	0.3242790102958679	-0.068936974	No	
+row_6	HP	haptoglobin [Source:HGNC Symbol;Acc:HGNC:5141]	4906	0.034876998513936996	-0.16126984	No	
+row_7	IGFBP3	insulin like growth factor binding protein 3 [Source:HGNC Symbol;Acc:HGNC:5472]	5043	0.034876998513936996	-0.16796373	No	
+row_8	CSF2	colony stimulating factor 2 [Source:HGNC Symbol;Acc:HGNC:2434]	6705	-0.0923909991979599	-0.28090397	No	
+row_9	MMP7	matrix metallopeptidase 7 [Source:HGNC Symbol;Acc:HGNC:7174]	6797	-0.09603200107812881	-0.27858648	No	
+row_10	RAC1	Rac family small GTPase 1 [Source:HGNC Symbol;Acc:HGNC:9801]	7026	-0.14936600625514984	-0.2813105	No	
+row_11	GSTP1	glutathione S-transferase pi 1 [Source:HGNC Symbol;Acc:HGNC:4638]	7209	-0.22351500391960144	-0.27373514	No	
+row_12	RABGGTB	Rab geranylgeranyltransferase subunit beta [Source:HGNC Symbol;Acc:HGNC:9796]	7254	-0.22912000119686127	-0.2555347	No	
+row_13	HSPB1	heat shock protein family B (small) member 1 [Source:HGNC Symbol;Acc:HGNC:5246]	7559	-0.22912000119686127	-0.25636518	No	
+row_14	FGR	FGR proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:3697]	7562	-0.22912000119686127	-0.23509057	No	
+row_15	DPF3	double PHD fingers 3 [Source:HGNC Symbol;Acc:HGNC:17427]	7890	-0.22912000119686127	-0.23760454	No	
+row_16	CCNE1	cyclin E1 [Source:HGNC Symbol;Acc:HGNC:1589]	8866	-0.22912000119686127	-0.28754935	No	
+row_17	ALDH1A1	aldehyde dehydrogenase 1 family member A1 [Source:HGNC Symbol;Acc:HGNC:402]	9482	-0.22912000119686127	-0.3111437	No	
+row_18	S100A2	S100 calcium binding protein A2 [Source:HGNC Symbol;Acc:HGNC:10492]	10180	-0.2669000029563904	-0.33720797	No	
+row_19	LGALS1	galectin 1 [Source:HGNC Symbol;Acc:HGNC:6561]	10849	-0.33536601066589355	-0.35474846	Yes	
+row_20	GSTM4	glutathione S-transferase mu 4 [Source:HGNC Symbol;Acc:HGNC:4636]	10865	-0.3393380045890808	-0.32412082	Yes	
+row_21	EEF1G	eukaryotic translation elongation factor 1 gamma [Source:HGNC Symbol;Acc:HGNC:3213]	11282	-0.3582639992237091	-0.3210752	Yes	
+row_22	PGK1	phosphoglycerate kinase 1 [Source:HGNC Symbol;Acc:HGNC:8896]	11761	-0.3753179907798767	-0.32097334	Yes	
+row_23	HCK	HCK proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:4840]	12428	-0.43275201320648193	-0.32926258	Yes	
+row_24	P4HB	prolyl 4-hydroxylase subunit beta [Source:HGNC Symbol;Acc:HGNC:8548]	12542	-0.43275201320648193	-0.2970746	Yes	
+row_25	EEF1A2	eukaryotic translation elongation factor 1 alpha 2 [Source:HGNC Symbol;Acc:HGNC:3192]	12603	-0.43275201320648193	-0.26100722	Yes	
+row_26	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	13062	-0.43275201320648193	-0.25407177	Yes	
+row_27	TUBB	tubulin beta class I [Source:HGNC Symbol;Acc:HGNC:20778]	13106	-0.43275201320648193	-0.21676008	Yes	
+row_28	EIF5A	eukaryotic translation initiation factor 5A [Source:HGNC Symbol;Acc:HGNC:3300]	13228	-0.4440020024776459	-0.18410587	Yes	
+row_29	RHOA	ras homolog family member A [Source:HGNC Symbol;Acc:HGNC:667]	13322	-0.4440020024776459	-0.14940217	Yes	
+row_30	FABP5	fatty acid binding protein 5 [Source:HGNC Symbol;Acc:HGNC:3560]	13341	-0.4440020024776459	-0.1092088	Yes	
+row_31	CDC42	cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	13416	-0.46675699949264526	-0.070986964	Yes	
+row_32	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	13516	-0.4821479916572571	-0.033156082	Yes	
+row_33	PRDX1	peroxiredoxin 1 [Source:HGNC Symbol;Acc:HGNC:9352]	13542	-0.4939959943294525	0.011198984	Yes	

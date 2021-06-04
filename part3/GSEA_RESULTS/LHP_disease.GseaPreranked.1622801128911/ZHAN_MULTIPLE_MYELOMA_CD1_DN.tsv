@@ -1,0 +1,34 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ATP6AP1	ATPase H+ transporting accessory protein 1 [Source:HGNC Symbol;Acc:HGNC:868]	36	2.857642889022827	0.10619981	Yes	
+row_1	UNC93B1	unc-93 homolog B1, TLR signaling regulator [Source:HGNC Symbol;Acc:HGNC:13481]	215	2.857642889022827	0.20200658	Yes	
+row_2	TRAM2	translocation associated membrane protein 2 [Source:HGNC Symbol;Acc:HGNC:16855]	643	2.857642889022827	0.27958897	Yes	
+row_3	UGCG	UDP-glucose ceramide glucosyltransferase [Source:HGNC Symbol;Acc:HGNC:12524]	732	2.8327879905700684	0.38103625	Yes	
+row_4	CMTM4	CKLF like MARVEL transmembrane domain containing 4 [Source:HGNC Symbol;Acc:HGNC:19175]	1373	2.5871970653533936	0.43272904	Yes	
+row_5	SCAMP5	secretory carrier membrane protein 5 [Source:HGNC Symbol;Acc:HGNC:30386]	1612	2.3096730709075928	0.5032747	Yes	
+row_6	UCP2	uncoupling protein 2 [Source:HGNC Symbol;Acc:HGNC:12518]	1675	2.2655019760131836	0.5850196	Yes	
+row_7	CD59	CD59 molecule (CD59 blood group) [Source:HGNC Symbol;Acc:HGNC:1689]	2187	1.1936349868774414	0.59307945	Yes	
+row_8	CD46	CD46 molecule [Source:HGNC Symbol;Acc:HGNC:6953]	2288	1.17283296585083	0.6304283	Yes	
+row_9	RAB3IP	RAB3A interacting protein [Source:HGNC Symbol;Acc:HGNC:16508]	3535	0.3242790102958679	0.5515834	No	
+row_10	SIK1	salt inducible kinase 1 [Source:HGNC Symbol;Acc:HGNC:11142]	3600	0.3242790102958679	0.5592496	No	
+row_11	SPINT1	serine peptidase inhibitor, Kunitz type 1 [Source:HGNC Symbol;Acc:HGNC:11246]	3612	0.3242790102958679	0.57079476	No	
+row_12	F11R	F11 receptor [Source:HGNC Symbol;Acc:HGNC:14685]	3772	0.2695389986038208	0.569423	No	
+row_13	CXXC5	CXXC finger protein 5 [Source:HGNC Symbol;Acc:HGNC:26943]	4815	0.06859300285577774	0.49577105	No	
+row_14	C1orf115	chromosome 1 open reading frame 115 [Source:HGNC Symbol;Acc:HGNC:25873]	4883	0.034876998513936996	0.4921956	No	
+row_15	ABHD6	abhydrolase domain containing 6, acylglycerol lipase [Source:HGNC Symbol;Acc:HGNC:21398]	4926	0.034876998513936996	0.49044994	No	
+row_16	BCL2L1	BCL2 like 1 [Source:HGNC Symbol;Acc:HGNC:992]	5083	0.034876998513936996	0.48036054	No	
+row_17	ECHDC2	enoyl-CoA hydratase domain containing 2 [Source:HGNC Symbol;Acc:HGNC:23408]	5184	0.034876998513936996	0.4743698	No	
+row_18	ST6GAL1	ST6 beta-galactoside alpha-2,6-sialyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10860]	5268	0.034876998513936996	0.4696233	No	
+row_19	STARD5	StAR related lipid transfer domain containing 5 [Source:HGNC Symbol;Acc:HGNC:18065]	6480	-0.04479699954390526	0.38269588	No	
+row_20	LAX1	lymphocyte transmembrane adaptor 1 [Source:HGNC Symbol;Acc:HGNC:26005]	7455	-0.22912000119686127	0.3201346	No	
+row_21	RAB3B	RAB3B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9778]	7671	-0.22912000119686127	0.3131248	No	
+row_22	FUT8	fucosyltransferase 8 [Source:HGNC Symbol;Acc:HGNC:4019]	7818	-0.22912000119686127	0.31116515	No	
+row_23	CPNE5	copine 5 [Source:HGNC Symbol;Acc:HGNC:2318]	8305	-0.22912000119686127	0.28432077	No	
+row_24	PRKCD	protein kinase C delta [Source:HGNC Symbol;Acc:HGNC:9399]	8735	-0.22912000119686127	0.26164827	No	
+row_25	GATM	glycine amidinotransferase [Source:HGNC Symbol;Acc:HGNC:4175]	8751	-0.22912000119686127	0.26927656	No	
+row_26	HES1	hes family bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:5192]	8795	-0.22912000119686127	0.2748555	No	
+row_27	CCDC125	coiled-coil domain containing 125 [Source:HGNC Symbol;Acc:HGNC:28924]	9540	-0.22912000119686127	0.229128	No	
+row_28	CPEB4	cytoplasmic polyadenylation element binding protein 4 [Source:HGNC Symbol;Acc:HGNC:21747]	10273	-0.29361799359321594	0.18673523	No	
+row_29	MINDY2	MINDY lysine 48 deubiquitinase 2 [Source:HGNC Symbol;Acc:HGNC:26954]	11368	-0.3582639992237091	0.12030962	No	
+row_30	DOK3	docking protein 3 [Source:HGNC Symbol;Acc:HGNC:24583]	11857	-0.39228299260139465	0.099533	No	
+row_31	SMURF1	SMAD specific E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:16807]	12680	-0.43275201320648193	0.055852078	No	
+row_32	CLIC2	chloride intracellular channel 2 [Source:HGNC Symbol;Acc:HGNC:2063]	13518	-0.4821479916572571	0.012954568	No	

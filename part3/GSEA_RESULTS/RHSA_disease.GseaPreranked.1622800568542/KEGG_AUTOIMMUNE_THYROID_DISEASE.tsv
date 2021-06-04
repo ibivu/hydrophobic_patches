@@ -1,0 +1,47 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TSHB	thyroid stimulating hormone subunit beta [Source:HGNC Symbol;Acc:HGNC:12372]	1146	1.2914730310440063	-0.019584952	Yes	
+row_1	CTLA4	cytotoxic T-lymphocyte associated protein 4 [Source:HGNC Symbol;Acc:HGNC:2505]	1342	1.1385869979858398	0.022880105	Yes	
+row_2	CD28	CD28 molecule [Source:HGNC Symbol;Acc:HGNC:1653]	1883	0.7354180216789246	0.01997522	Yes	
+row_3	HLA-DOA	major histocompatibility complex, class II, DO alpha [Source:HGNC Symbol;Acc:HGNC:4936]	2131	0.5659440159797668	0.03008842	Yes	
+row_4	HLA-DQA2	major histocompatibility complex, class II, DQ alpha 2 [Source:HGNC Symbol;Acc:HGNC:4943]	2211	0.5192170143127441	0.050180286	Yes	
+row_5	HLA-DMA	major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	2223	0.5106890201568604	0.07482878	Yes	
+row_6	CGA	glycoprotein hormones, alpha polypeptide [Source:HGNC Symbol;Acc:HGNC:1885]	2260	0.4848960041999817	0.09636016	Yes	
+row_7	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	2419	0.38568899035453796	0.10400903	Yes	
+row_8	HLA-DRA	major histocompatibility complex, class II, DR alpha [Source:HGNC Symbol;Acc:HGNC:4947]	2435	0.3742530047893524	0.12156408	Yes	
+row_9	IL5	interleukin 5 [Source:HGNC Symbol;Acc:HGNC:6016]	2697	0.2175859957933426	0.11328837	Yes	
+row_10	HLA-DOB	major histocompatibility complex, class II, DO beta [Source:HGNC Symbol;Acc:HGNC:4937]	2723	0.20026999711990356	0.12143896	Yes	
+row_11	HLA-DPA1	major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	2837	0.1443610042333603	0.12035598	Yes	
+row_12	IFNA16	interferon alpha 16 [Source:HGNC Symbol;Acc:HGNC:5421]	2893	0.12328000366687775	0.12247134	Yes	
+row_13	HLA-DRB4	major histocompatibility complex, class II, DR beta 4 [Source:HGNC Symbol;Acc:HGNC:4952]	2935	0.10356199741363525	0.124629535	Yes	
+row_14	IFNA8	interferon alpha 8 [Source:HGNC Symbol;Acc:HGNC:5429]	3084	0.04081999883055687	0.11582164	Yes	
+row_15	TSHR	thyroid stimulating hormone receptor [Source:HGNC Symbol;Acc:HGNC:12373]	3105	0.03355399891734123	0.116028875	Yes	
+row_16	HLA-DMB	major histocompatibility complex, class II, DM beta [Source:HGNC Symbol;Acc:HGNC:4935]	3208	-0.01538699958473444	0.109323286	Yes	
+row_17	IFNA5	interferon alpha 5 [Source:HGNC Symbol;Acc:HGNC:5426]	3390	-0.09551099687814713	0.10082378	Yes	
+row_18	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	3435	-0.11026699841022491	0.103096396	Yes	
+row_19	IFNA1	interferon alpha 1 [Source:HGNC Symbol;Acc:HGNC:5417]	3546	-0.1513810008764267	0.10258309	Yes	
+row_20	HLA-DRB3	major histocompatibility complex, class II, DR beta 3 [Source:HGNC Symbol;Acc:HGNC:4951]	3547	-0.15148499608039856	0.11013358	Yes	
+row_21	IFNA14	interferon alpha 14 [Source:HGNC Symbol;Acc:HGNC:5420]	3585	-0.1648070067167282	0.11563746	Yes	
+row_22	IFNA10	interferon alpha 10 [Source:HGNC Symbol;Acc:HGNC:5418]	3632	-0.1809149980545044	0.12128487	Yes	
+row_23	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1 [Source:HGNC Symbol;Acc:HGNC:4944]	3701	-0.20935900509357452	0.1267383	Yes	
+row_24	IFNA17	interferon alpha 17 [Source:HGNC Symbol;Acc:HGNC:5422]	3734	-0.22037599980831146	0.13537821	Yes	
+row_25	IFNA4	interferon alpha 4 [Source:HGNC Symbol;Acc:HGNC:5425]	3741	-0.22202399373054504	0.14600503	Yes	
+row_26	HLA-DRB5	major histocompatibility complex, class II, DR beta 5 [Source:HGNC Symbol;Acc:HGNC:4953]	3757	-0.22481200098991394	0.15611146	Yes	
+row_27	IFNA21	interferon alpha 21 [Source:HGNC Symbol;Acc:HGNC:5424]	3843	-0.25082799792289734	0.16238642	Yes	
+row_28	HLA-DPB1	major histocompatibility complex, class II, DP beta 1 [Source:HGNC Symbol;Acc:HGNC:4940]	3880	-0.25940099358558655	0.17267843	Yes	
+row_29	CD40LG	CD40 ligand [Source:HGNC Symbol;Acc:HGNC:11935]	3915	-0.26977699995040894	0.18363412	Yes	
+row_30	IFNA6	interferon alpha 6 [Source:HGNC Symbol;Acc:HGNC:5427]	3944	-0.27601999044418335	0.19534054	Yes	
+row_31	HLA-G	major histocompatibility complex, class I, G [Source:HGNC Symbol;Acc:HGNC:4964]	3974	-0.28542301058769226	0.20744239	Yes	
+row_32	IFNA7	interferon alpha 7 [Source:HGNC Symbol;Acc:HGNC:5428]	4216	-0.3578619956970215	0.20762368	Yes	
+row_33	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	4615	-0.4641540050506592	0.20160107	Yes	
+row_34	CD86	CD86 molecule [Source:HGNC Symbol;Acc:HGNC:1705]	4799	-0.5084940195083618	0.21353942	Yes	
+row_35	HLA-F	major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	4891	-0.5307360291481018	0.23332632	Yes	
+row_36	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	4903	-0.5331439971923828	0.25909403	Yes	
+row_37	CD80	CD80 molecule [Source:HGNC Symbol;Acc:HGNC:1700]	5045	-0.5616289973258972	0.27675772	Yes	
+row_38	HLA-C	major histocompatibility complex, class I, C [Source:HGNC Symbol;Acc:HGNC:4933]	5128	-0.5786769986152649	0.29959348	Yes	
+row_39	IL2	interleukin 2 [Source:HGNC Symbol;Acc:HGNC:6001]	5162	-0.5859429836273193	0.32638115	Yes	
+row_40	IL10	interleukin 10 [Source:HGNC Symbol;Acc:HGNC:5962]	5820	-0.7038990259170532	0.31333384	Yes	
+row_41	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	6029	-0.7351210117340088	0.3347365	Yes	
+row_42	PRF1	perforin 1 [Source:HGNC Symbol;Acc:HGNC:9360]	6975	-0.8634340167045593	0.30854198	Yes	
+row_43	FAS	Fas cell surface death receptor [Source:HGNC Symbol;Acc:HGNC:11920]	7037	-0.8716089725494385	0.34751686	Yes	
+row_44	GZMB	granzyme B [Source:HGNC Symbol;Acc:HGNC:4709]	11762	-1.3929049968719482	0.07086306	No	
+row_45	IL4	interleukin 4 [Source:HGNC Symbol;Acc:HGNC:6014]	11985	-1.4179550409317017	0.12527469	No	

@@ -1,0 +1,39 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	XKR8	XK related 8 [Source:HGNC Symbol;Acc:HGNC:25508]	255	2.857642889022827	0.051452357	Yes	
+row_1	HRH4	histamine receptor H4 [Source:HGNC Symbol;Acc:HGNC:17383]	606	2.857642889022827	0.09594908	Yes	
+row_2	PTAFR	platelet activating factor receptor [Source:HGNC Symbol;Acc:HGNC:9582]	655	2.8327879905700684	0.16194749	Yes	
+row_3	CXCR1	C-X-C motif chemokine receptor 1 [Source:HGNC Symbol;Acc:HGNC:6026]	725	2.8327879905700684	0.22640833	Yes	
+row_4	CXCR2	C-X-C motif chemokine receptor 2 [Source:HGNC Symbol;Acc:HGNC:6027]	727	2.8327879905700684	0.29584795	Yes	
+row_5	CCR3	C-C motif chemokine receptor 3 [Source:HGNC Symbol;Acc:HGNC:1604]	802	2.8327879905700684	0.3599427	Yes	
+row_6	OR2A4	olfactory receptor family 2 subfamily A member 4 [Source:HGNC Symbol;Acc:HGNC:14729]	1106	2.6395270824432373	0.40252838	Yes	
+row_7	OR6K6	olfactory receptor family 6 subfamily K member 6 [Source:HGNC Symbol;Acc:HGNC:15033]	1216	2.6395270824432373	0.45931816	Yes	
+row_8	OR11G2	olfactory receptor family 11 subfamily G member 2 [Source:HGNC Symbol;Acc:HGNC:15346]	1310	2.6395270824432373	0.51727945	Yes	
+row_9	MS4A2	membrane spanning 4-domains A2 [Source:HGNC Symbol;Acc:HGNC:7316]	1469	2.3458058834075928	0.563274	Yes	
+row_10	VMP1	vacuole membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:29559]	1593	2.315268039703369	0.6110819	Yes	
+row_11	KLRG1	killer cell lectin like receptor G1 [Source:HGNC Symbol;Acc:HGNC:6380]	1854	1.886715054512024	0.6383429	Yes	
+row_12	LIM2	lens intrinsic membrane protein 2 [Source:HGNC Symbol;Acc:HGNC:6610]	1864	1.8790620565414429	0.68379366	Yes	
+row_13	FCER1A	Fc fragment of IgE receptor Ia [Source:HGNC Symbol;Acc:HGNC:3609]	2729	0.562470018863678	0.6343363	No	
+row_14	JAML	junction adhesion molecule like [Source:HGNC Symbol;Acc:HGNC:19084]	2795	0.5503730177879333	0.64308256	No	
+row_15	FCGR3B	Fc fragment of IgG receptor IIIb [Source:HGNC Symbol;Acc:HGNC:3620]	2876	0.46377599239349365	0.64860564	No	
+row_16	CLEC4C	C-type lectin domain family 4 member C [Source:HGNC Symbol;Acc:HGNC:13258]	2991	0.46377599239349365	0.65163934	No	
+row_17	BFSP2	beaded filament structural protein 2 [Source:HGNC Symbol;Acc:HGNC:1041]	3223	0.35970398783683777	0.64355284	No	
+row_18	SIGLEC8	sialic acid binding Ig like lectin 8 [Source:HGNC Symbol;Acc:HGNC:10877]	3545	0.3242790102958679	0.6280075	No	
+row_19	CCL5	C-C motif chemokine ligand 5 [Source:HGNC Symbol;Acc:HGNC:10632]	3998	0.23298999667167664	0.6006306	No	
+row_20	SMIM27	small integral membrane protein 27 [Source:HGNC Symbol;Acc:HGNC:31420]	4138	0.18946200609207153	0.59510255	No	
+row_21	KLRB1	killer cell lectin like receptor B1 [Source:HGNC Symbol;Acc:HGNC:6373]	4424	0.1298699975013733	0.5774225	No	
+row_22	PLD4	phospholipase D family member 4 [Source:HGNC Symbol;Acc:HGNC:23792]	4857	0.034876998513936996	0.5466485	No	
+row_23	PRSS33	serine protease 33 [Source:HGNC Symbol;Acc:HGNC:30405]	5294	0.034876998513936996	0.51558167	No	
+row_24	SIRPB1	signal regulatory protein beta 1 [Source:HGNC Symbol;Acc:HGNC:15928]	5690	0.034876998513936996	0.48751673	No	
+row_25	TRIM49D1	tripartite motif containing 49D1 [Source:HGNC Symbol;Acc:HGNC:43973]	5841	-5.489999894052744E-4	0.47654763	No	
+row_26	TRIM51	tripartite motif-containing 51 [Source:HGNC Symbol;Acc:HGNC:19023]	6857	-0.09603200107812881	0.4045887	No	
+row_27	GNLY	granulysin [Source:HGNC Symbol;Acc:HGNC:4414]	7051	-0.14936600625514984	0.39412302	No	
+row_28	PADI6	peptidyl arginine deiminase 6 [Source:HGNC Symbol;Acc:HGNC:20449]	9487	-0.22912000119686127	0.22146153	No	
+row_29	CLC	Charcot-Leyden crystal galectin [Source:HGNC Symbol;Acc:HGNC:2014]	10444	-0.30455800890922546	0.15893938	No	
+row_30	GZMH	granzyme H [Source:HGNC Symbol;Acc:HGNC:4710]	10567	-0.3115389943122864	0.15765163	No	
+row_31	DOK2	docking protein 2 [Source:HGNC Symbol;Acc:HGNC:2991]	11090	-0.3582639992237091	0.1282236	No	
+row_32	CASP4	caspase 4 [Source:HGNC Symbol;Acc:HGNC:1505]	11508	-0.3582639992237091	0.106483355	No	
+row_33	GZMB	granzyme B [Source:HGNC Symbol;Acc:HGNC:4709]	11804	-0.3819409906864166	0.09425662	No	
+row_34	MTRNR2L1	MT-RNR2 like 1 [Source:HGNC Symbol;Acc:HGNC:37155]	12262	-0.41166800260543823	0.07089815	No	
+row_35	SH2D1B	SH2 domain containing 1B [Source:HGNC Symbol;Acc:HGNC:30416]	13203	-0.4440020024776459	0.01296924	No	
+row_36	IL4	interleukin 4 [Source:HGNC Symbol;Acc:HGNC:6014]	13419	-0.46675699949264526	0.008681143	No	
+row_37	MAP1LC3B2	microtubule associated protein 1 light chain 3 beta 2 [Source:HGNC Symbol;Acc:HGNC:34390]	13427	-0.46675699949264526	0.019622214	No	

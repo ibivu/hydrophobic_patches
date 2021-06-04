@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAL	mal, T cell differentiation protein [Source:HGNC Symbol;Acc:HGNC:6817]	30	2.7850210666656494	0.1539697	Yes	
+row_1	IFI27	interferon alpha inducible protein 27 [Source:HGNC Symbol;Acc:HGNC:5397]	45	2.603853940963745	0.29895058	Yes	
+row_2	TSPAN7	tetraspanin 7 [Source:HGNC Symbol;Acc:HGNC:11854]	1238	1.2233710289001465	0.28040707	Yes	
+row_3	EDNRB	endothelin receptor type B [Source:HGNC Symbol;Acc:HGNC:3180]	1621	0.9325559735298157	0.30477172	Yes	
+row_4	CST6	cystatin E/M [Source:HGNC Symbol;Acc:HGNC:2478]	2477	0.3434099853038788	0.26152298	No	
+row_5	MS4A1	membrane spanning 4-domains A1 [Source:HGNC Symbol;Acc:HGNC:7315]	2558	0.29710501432418823	0.27233398	No	
+row_6	LTB	lymphotoxin beta [Source:HGNC Symbol;Acc:HGNC:6711]	3023	0.0680989995598793	0.24223186	No	
+row_7	CCN2	cellular communication network factor 2 [Source:HGNC Symbol;Acc:HGNC:2500]	4489	-0.4314830005168915	0.15932767	No	
+row_8	AZGP1	alpha-2-glycoprotein 1, zinc-binding [Source:HGNC Symbol;Acc:HGNC:910]	5491	-0.6475110054016113	0.1224573	No	
+row_9	GALNT3	polypeptide N-acetylgalactosaminyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:4125]	6095	-0.7459179759025574	0.12020055	No	
+row_10	TSPY1	testis specific protein Y-linked 1 [Source:HGNC Symbol;Acc:HGNC:12381]	6387	-0.7899140119552612	0.14321944	No	
+row_11	LGALS3BP	galectin 3 binding protein [Source:HGNC Symbol;Acc:HGNC:6564]	6487	-0.8019329905509949	0.18094839	No	
+row_12	DUSP2	dual specificity phosphatase 2 [Source:HGNC Symbol;Acc:HGNC:3068]	8129	-1.0088540315628052	0.11755235	No	
+row_13	CRYBB1	crystallin beta B1 [Source:HGNC Symbol;Acc:HGNC:2397]	9190	-1.123170018196106	0.10304015	No	
+row_14	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	9608	-1.1635570526123047	0.1377989	No	
+row_15	GNAT1	G protein subunit alpha transducin 1 [Source:HGNC Symbol;Acc:HGNC:4393]	11509	-1.3629430532455444	0.07532336	No	
+row_16	IFIT3	interferon induced protein with tetratricopeptide repeats 3 [Source:HGNC Symbol;Acc:HGNC:5411]	12593	-1.5053839683532715	0.0805614	No	

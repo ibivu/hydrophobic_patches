@@ -1,0 +1,33 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TAX1BP1	Tax1 binding protein 1 [Source:HGNC Symbol;Acc:HGNC:11575]	681	1.3681750297546387	-0.012248301	No	
+row_1	DCLRE1C	DNA cross-link repair 1C [Source:HGNC Symbol;Acc:HGNC:17642]	1386	0.8575639724731445	-0.040208925	No	
+row_2	PRKCD	protein kinase C delta [Source:HGNC Symbol;Acc:HGNC:9399]	3599	0.1696310043334961	-0.19743355	No	
+row_3	HADHA	hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha [Source:HGNC Symbol;Acc:HGNC:4801]	3731	0.13686099648475647	-0.20326051	No	
+row_4	ARIH2	ariadne RBR E3 ubiquitin protein ligase 2 [Source:HGNC Symbol;Acc:HGNC:690]	5191	-0.22551900148391724	-0.3038413	No	
+row_5	CCN3	cellular communication network factor 3 [Source:HGNC Symbol;Acc:HGNC:7885]	5771	-0.34974899888038635	-0.33660603	No	
+row_6	PXMP2	peroxisomal membrane protein 2 [Source:HGNC Symbol;Acc:HGNC:9716]	6729	-0.5401840209960938	-0.3918025	No	
+row_7	CHMP4A	charged multivesicular body protein 4A [Source:HGNC Symbol;Acc:HGNC:20274]	6926	-0.5792890191078186	-0.39023077	No	
+row_8	MYLIP	myosin regulatory light chain interacting protein [Source:HGNC Symbol;Acc:HGNC:21155]	7017	-0.5962920188903809	-0.38043424	No	
+row_9	CHN2	chimerin 2 [Source:HGNC Symbol;Acc:HGNC:1944]	7024	-0.5971980094909668	-0.36446533	No	
+row_10	COX11	cytochrome c oxidase copper chaperone COX11 [Source:HGNC Symbol;Acc:HGNC:2261]	7193	-0.6267079710960388	-0.35954157	No	
+row_11	PHB	prohibitin [Source:HGNC Symbol;Acc:HGNC:8912]	7407	-0.6667140126228333	-0.35681197	No	
+row_12	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	7494	-0.6824650168418884	-0.3443551	No	
+row_13	KLRF1	killer cell lectin like receptor F1 [Source:HGNC Symbol;Acc:HGNC:13342]	8568	-0.8904970288276672	-0.39841616	No	
+row_14	DNAJA4	DnaJ heat shock protein family (Hsp40) member A4 [Source:HGNC Symbol;Acc:HGNC:14885]	9305	-1.0237360000610352	-0.42415312	No	
+row_15	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	9996	-1.154162049293518	-0.4429401	Yes	
+row_16	IFNA10	interferon alpha 10 [Source:HGNC Symbol;Acc:HGNC:5418]	10193	-1.1939029693603516	-0.4244818	Yes	
+row_17	DCTN3	dynactin subunit 3 [Source:HGNC Symbol;Acc:HGNC:2713]	10381	-1.2304630279541016	-0.40436035	Yes	
+row_18	CD59	CD59 molecule (CD59 blood group) [Source:HGNC Symbol;Acc:HGNC:1689]	10499	-1.2559950351715088	-0.37841445	Yes	
+row_19	RAB4A	RAB4A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9781]	11402	-1.4395370483398438	-0.40487596	Yes	
+row_20	UROD	uroporphyrinogen decarboxylase [Source:HGNC Symbol;Acc:HGNC:12591]	11526	-1.4647150039672852	-0.3736346	Yes	
+row_21	RPL10L	ribosomal protein L10 like [Source:HGNC Symbol;Acc:HGNC:17976]	12057	-1.576704978942871	-0.3691026	Yes	
+row_22	MRPL23	mitochondrial ribosomal protein L23 [Source:HGNC Symbol;Acc:HGNC:10322]	12119	-1.5907059907913208	-0.32986212	Yes	
+row_23	THY1	Thy-1 cell surface antigen [Source:HGNC Symbol;Acc:HGNC:11801]	12515	-1.667564034461975	-0.31295377	Yes	
+row_24	COX5B	cytochrome c oxidase subunit 5B [Source:HGNC Symbol;Acc:HGNC:2269]	12562	-1.676300048828125	-0.27026385	Yes	
+row_25	PNPLA4	patatin like phospholipase domain containing 4 [Source:HGNC Symbol;Acc:HGNC:24887]	12616	-1.6884100437164307	-0.22775349	Yes	
+row_26	RPL36	ribosomal protein L36 [Source:HGNC Symbol;Acc:HGNC:13631]	12966	-1.7653460502624512	-0.20479207	Yes	
+row_27	NUDT3	nudix hydrolase 3 [Source:HGNC Symbol;Acc:HGNC:8050]	12993	-1.7719099521636963	-0.15801154	Yes	
+row_28	RPL28	ribosomal protein L28 [Source:HGNC Symbol;Acc:HGNC:10330]	13327	-1.8831340074539185	-0.13064294	Yes	
+row_29	RPS14	ribosomal protein S14 [Source:HGNC Symbol;Acc:HGNC:10387]	13368	-1.8996479511260986	-0.08137739	Yes	
+row_30	POLR2I	RNA polymerase II subunit I [Source:HGNC Symbol;Acc:HGNC:9196]	13374	-1.902001976966858	-0.029485695	Yes	
+row_31	LSM7	LSM7 homolog, U6 small nuclear RNA and mRNA degradation associated [Source:HGNC Symbol;Acc:HGNC:20470]	13418	-1.9255599975585938	0.020272227	Yes	

@@ -1,0 +1,32 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FZD7	frizzled class receptor 7 [Source:HGNC Symbol;Acc:HGNC:4045]	300	2.857642889022827	0.13074757	Yes	
+row_1	FZD9	frizzled class receptor 9 [Source:HGNC Symbol;Acc:HGNC:4047]	301	2.857642889022827	0.28344902	Yes	
+row_2	FZD5	frizzled class receptor 5 [Source:HGNC Symbol;Acc:HGNC:4043]	1577	2.315268039703369	0.31386402	Yes	
+row_3	FZD4	frizzled class receptor 4 [Source:HGNC Symbol;Acc:HGNC:4042]	1578	2.315268039703369	0.43758306	Yes	
+row_4	FZD2	frizzled class receptor 2 [Source:HGNC Symbol;Acc:HGNC:4040]	2153	1.4030380249023438	0.4705509	Yes	
+row_5	FZD3	frizzled class receptor 3 [Source:HGNC Symbol;Acc:HGNC:4041]	2227	1.17283296585083	0.5278805	Yes	
+row_6	FZD8	frizzled class receptor 8 [Source:HGNC Symbol;Acc:HGNC:4046]	2228	1.17283296585083	0.59055215	Yes	
+row_7	FZD1	frizzled class receptor 1 [Source:HGNC Symbol;Acc:HGNC:4038]	2543	0.8244779706001282	0.6116307	Yes	
+row_8	FZD6	frizzled class receptor 6 [Source:HGNC Symbol;Acc:HGNC:4044]	2544	0.8244779706001282	0.65568763	Yes	
+row_9	WNT7B	Wnt family member 7B [Source:HGNC Symbol;Acc:HGNC:12787]	3828	0.2695389986038208	0.57620126	No	
+row_10	WNT5A	Wnt family member 5A [Source:HGNC Symbol;Acc:HGNC:12784]	3843	0.2695389986038208	0.5895799	No	
+row_11	WNT16	Wnt family member 16 [Source:HGNC Symbol;Acc:HGNC:16267]	4449	0.1298699975013733	0.5522459	No	
+row_12	WNT9B	Wnt family member 9B [Source:HGNC Symbol;Acc:HGNC:12779]	5167	0.034876998513936996	0.50163984	No	
+row_13	WNT7A	Wnt family member 7A [Source:HGNC Symbol;Acc:HGNC:12786]	5170	0.034876998513936996	0.5033572	No	
+row_14	WNT5B	Wnt family member 5B [Source:HGNC Symbol;Acc:HGNC:16265]	5230	0.034876998513936996	0.50090325	No	
+row_15	WNT2B	Wnt family member 2B [Source:HGNC Symbol;Acc:HGNC:12781]	5231	0.034876998513936996	0.50276697	No	
+row_16	WNT1	Wnt family member 1 [Source:HGNC Symbol;Acc:HGNC:12774]	5281	0.034876998513936996	0.5010448	No	
+row_17	WNT3A	Wnt family member 3A [Source:HGNC Symbol;Acc:HGNC:15983]	6066	-5.489999894052744E-4	0.44370133	No	
+row_18	WNT11	Wnt family member 11 [Source:HGNC Symbol;Acc:HGNC:12776]	6071	-5.489999894052744E-4	0.44343793	No	
+row_19	WNT6	Wnt family member 6 [Source:HGNC Symbol;Acc:HGNC:12785]	6088	-5.489999894052744E-4	0.4422964	No	
+row_20	WNT2	Wnt family member 2 [Source:HGNC Symbol;Acc:HGNC:12780]	6089	-5.489999894052744E-4	0.44232574	No	
+row_21	WNT3	Wnt family member 3 [Source:HGNC Symbol;Acc:HGNC:12782]	6090	-5.489999894052744E-4	0.44235507	No	
+row_22	WNT10A	Wnt family member 10A [Source:HGNC Symbol;Acc:HGNC:13829]	6798	-0.09603200107812881	0.39574865	No	
+row_23	WNT4	Wnt family member 4 [Source:HGNC Symbol;Acc:HGNC:12783]	6814	-0.09603200107812881	0.39978254	No	
+row_24	MAPK10	mitogen-activated protein kinase 10 [Source:HGNC Symbol;Acc:HGNC:6872]	7828	-0.22912000119686127	0.33789483	No	
+row_25	WNT10B	Wnt family member 10B [Source:HGNC Symbol;Acc:HGNC:12775]	8215	-0.22912000119686127	0.32189077	No	
+row_26	MAPK9	mitogen-activated protein kinase 9 [Source:HGNC Symbol;Acc:HGNC:6886]	9136	-0.22912000119686127	0.26680878	No	
+row_27	MAPK8	mitogen-activated protein kinase 8 [Source:HGNC Symbol;Acc:HGNC:6881]	9137	-0.22912000119686127	0.27905208	No	
+row_28	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	10042	-0.22912000119686127	0.22514097	No	
+row_29	DVL1	dishevelled segment polarity protein 1 [Source:HGNC Symbol;Acc:HGNC:3084]	10961	-0.34268900752067566	0.17627403	No	
+row_30	RHOA	ras homolog family member A [Source:HGNC Symbol;Acc:HGNC:667]	13322	-0.4440020024776459	0.027295813	No	

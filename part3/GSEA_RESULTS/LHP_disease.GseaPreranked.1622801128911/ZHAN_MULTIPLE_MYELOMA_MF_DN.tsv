@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC12A8	solute carrier family 12 member 8 [Source:HGNC Symbol;Acc:HGNC:15595]	193	2.857642889022827	0.13453314	Yes	
+row_1	SLC22A15	solute carrier family 22 member 15 [Source:HGNC Symbol;Acc:HGNC:20301]	594	2.857642889022827	0.25392583	Yes	
+row_2	APH1B	aph-1 homolog B, gamma-secretase subunit [Source:HGNC Symbol;Acc:HGNC:24080]	1432	2.50347900390625	0.3229324	Yes	
+row_3	SYNGR1	synaptogyrin 1 [Source:HGNC Symbol;Acc:HGNC:11498]	1539	2.3171958923339844	0.4357158	Yes	
+row_4	AIG1	androgen induced 1 [Source:HGNC Symbol;Acc:HGNC:21607]	1832	1.9833650588989258	0.5175294	Yes	
+row_5	TMEM170B	transmembrane protein 170B [Source:HGNC Symbol;Acc:HGNC:34244]	1950	1.7175649404525757	0.59831655	Yes	
+row_6	FAM3C	FAM3 metabolism regulating signaling molecule C [Source:HGNC Symbol;Acc:HGNC:18664]	2887	0.46377599239349365	0.55398023	No	
+row_7	AMIGO2	adhesion molecule with Ig like domain 2 [Source:HGNC Symbol;Acc:HGNC:24073]	3031	0.45469799637794495	0.5671735	No	
+row_8	DKK1	dickkopf WNT signaling pathway inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:2891]	3760	0.2695389986038208	0.52794695	No	
+row_9	CHST11	carbohydrate sulfotransferase 11 [Source:HGNC Symbol;Acc:HGNC:17422]	4466	0.1298699975013733	0.4831373	No	
+row_10	MOXD1	monooxygenase DBH like 1 [Source:HGNC Symbol;Acc:HGNC:21063]	4757	0.06859300285577774	0.46549416	No	
+row_11	ESRRG	estrogen related receptor gamma [Source:HGNC Symbol;Acc:HGNC:3474]	6181	-5.489999894052744E-4	0.36144137	No	
+row_12	ALDH2	aldehyde dehydrogenase 2 family member [Source:HGNC Symbol;Acc:HGNC:404]	6750	-0.09603200107812881	0.32489204	No	
+row_13	RAD17	RAD17 checkpoint clamp loader component [Source:HGNC Symbol;Acc:HGNC:9807]	7844	-0.22912000119686127	0.25686604	No	
+row_14	CAMK1D	calcium/calmodulin dependent protein kinase ID [Source:HGNC Symbol;Acc:HGNC:19341]	8613	-0.22912000119686127	0.21261126	No	
+row_15	KLHL42	kelch like family member 42 [Source:HGNC Symbol;Acc:HGNC:29252]	8864	-0.22912000119686127	0.20624414	No	
+row_16	STXBP6	syntaxin binding protein 6 [Source:HGNC Symbol;Acc:HGNC:19666]	9456	-0.22912000119686127	0.17493552	No	
+row_17	TNFAIP8	TNF alpha induced protein 8 [Source:HGNC Symbol;Acc:HGNC:17260]	10438	-0.3009659945964813	0.11883876	No	
+row_18	MOB1B	MOB kinase activator 1B [Source:HGNC Symbol;Acc:HGNC:29801]	10483	-0.31007200479507446	0.1317499	No	
+row_19	STRBP	spermatid perinuclear RNA binding protein [Source:HGNC Symbol;Acc:HGNC:16462]	10948	-0.34268900752067566	0.11563801	No	
+row_20	PRKCA	protein kinase C alpha [Source:HGNC Symbol;Acc:HGNC:9393]	11287	-0.3582639992237091	0.10955221	No	
+row_21	SEC62	SEC62 homolog, preprotein translocation factor [Source:HGNC Symbol;Acc:HGNC:11846]	12247	-0.4101009964942932	0.06074159	No	
+row_22	BRSK1	BR serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:18994]	12418	-0.43275201320648193	0.07081842	No	
+row_23	ZNF275	zinc finger protein 275 [Source:HGNC Symbol;Acc:HGNC:13069]	13117	-0.43275201320648193	0.042276166	No	

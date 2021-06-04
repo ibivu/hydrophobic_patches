@@ -1,0 +1,24 @@
+producer_class	xtools.gsea.GseaPreranked
+producer_timestamp	1622800026501
+param	rpt_label	THSA_skin
+param	rnd_seed	timestamp
+param	set_min	15
+param	chip	ftp.broadinstitute.org://pub/gsea/annotations_versioned/Human_UniProt_IDs_MSigDB.v7.2.chip
+param	zip_report	false
+param	create_svgs	false
+param	scoring_scheme	weighted
+param	rnk	/Users/deagogishvili/Documents/GitHub/hydrophobic_patches/part3/MATERIALS/GSEA/RANKED_GENE_LIST/THSA_GSEA_cs.rnk
+param	norm	meandiv
+param	out	/Users/deagogishvili/Documents/GitHub/hydrophobic_patches/part3/GSEA_RESULTS
+param	mode	Max_probe
+param	include_only_symbols	true
+param	help	false
+param	set_max	1000
+param	gmx	/Users/deagogishvili/Documents/GitHub/hydrophobic_patches/part3/MATERIALS/GSEA/GENE_SETS/skin_tissue_enriched.gmx
+param	make_sets	true
+param	plot_top_x	20
+param	gui	false
+param	nperm	1000
+param	collapse	Collapse
+
+file	/Users/deagogishvili/Documents/GitHub/hydrophobic_patches/part3/GSEA_RESULTS/THSA_skin.GseaPreranked.1622800026501/index.html

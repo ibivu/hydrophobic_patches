@@ -1,0 +1,31 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC34A2	solute carrier family 34 member 2 [Source:HGNC Symbol;Acc:HGNC:11020]	76	2.857642889022827	0.119407505	Yes	
+row_1	CTLA4	cytotoxic T-lymphocyte associated protein 4 [Source:HGNC Symbol;Acc:HGNC:2505]	1499	2.3458058834075928	0.11793905	Yes	
+row_2	CHRNA1	cholinergic receptor nicotinic alpha 1 subunit [Source:HGNC Symbol;Acc:HGNC:1955]	1587	2.315268039703369	0.21282282	Yes	
+row_3	CD81	CD81 molecule [Source:HGNC Symbol;Acc:HGNC:1701]	1627	2.3096730709075928	0.31097427	Yes	
+row_4	ICOS	inducible T cell costimulator [Source:HGNC Symbol;Acc:HGNC:5351]	1744	2.080699920654297	0.393478	Yes	
+row_5	MS4A1	membrane spanning 4-domains A1 [Source:HGNC Symbol;Acc:HGNC:7315]	1765	2.0757930278778076	0.48279187	Yes	
+row_6	CHRNE	cholinergic receptor nicotinic epsilon subunit [Source:HGNC Symbol;Acc:HGNC:1966]	2149	1.4030380249023438	0.51612294	Yes	
+row_7	CHRND	cholinergic receptor nicotinic delta subunit [Source:HGNC Symbol;Acc:HGNC:1965]	2222	1.17283296585083	0.56214404	Yes	
+row_8	CHRNB1	cholinergic receptor nicotinic beta 1 subunit [Source:HGNC Symbol;Acc:HGNC:1961]	2246	1.17283296585083	0.61175066	Yes	
+row_9	HLA-DPA1	major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	2891	0.46377599239349365	0.584908	No	
+row_10	SGCG	sarcoglycan gamma [Source:HGNC Symbol;Acc:HGNC:10809]	2948	0.46377599239349365	0.6010918	No	
+row_11	HPS4	HPS4 biogenesis of lysosomal organelles complex 3 subunit 2 [Source:HGNC Symbol;Acc:HGNC:15844]	3648	0.3242790102958679	0.56412417	No	
+row_12	TNFSF12	TNF superfamily member 12 [Source:HGNC Symbol;Acc:HGNC:11927]	4093	0.2255460023880005	0.5414982	No	
+row_13	CSF2RA	colony stimulating factor 2 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:2435]	4225	0.16358700394630432	0.53906626	No	
+row_14	FKRP	fukutin related protein [Source:HGNC Symbol;Acc:HGNC:17997]	4271	0.16358700394630432	0.5429273	No	
+row_15	HLA-DPB1	major histocompatibility complex, class II, DP beta 1 [Source:HGNC Symbol;Acc:HGNC:4940]	4402	0.1298699975013733	0.53909403	No	
+row_16	GLB1	galactosidase beta 1 [Source:HGNC Symbol;Acc:HGNC:4298]	4803	0.06859300285577774	0.512824	No	
+row_17	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	5091	0.034876998513936996	0.4933482	No	
+row_18	GALNS	galactosamine (N-acetyl)-6-sulfatase [Source:HGNC Symbol;Acc:HGNC:4122]	5201	0.034876998513936996	0.48689744	No	
+row_19	PRTN3	proteinase 3 [Source:HGNC Symbol;Acc:HGNC:9495]	5558	0.034876998513936996	0.4623726	No	
+row_20	SELENON	selenoprotein N [Source:HGNC Symbol;Acc:HGNC:15999]	6607	-0.06231499835848808	0.38841105	No	
+row_21	PRKCD	protein kinase C delta [Source:HGNC Symbol;Acc:HGNC:9399]	8735	-0.22912000119686127	0.24278906	No	
+row_22	RAPSN	receptor associated protein of the synapse [Source:HGNC Symbol;Acc:HGNC:9863]	8969	-0.22912000119686127	0.23575918	No	
+row_23	HPS1	HPS1 biogenesis of lysosomal organelles complex 3 subunit 1 [Source:HGNC Symbol;Acc:HGNC:5163]	10400	-0.29361799359321594	0.14396027	No	
+row_24	ACP5	acid phosphatase 5, tartrate resistant [Source:HGNC Symbol;Acc:HGNC:124]	10519	-0.3115389943122864	0.14894974	No	
+row_25	DKC1	dyskerin pseudouridine synthase 1 [Source:HGNC Symbol;Acc:HGNC:2890]	11032	-0.3582639992237091	0.12715189	No	
+row_26	GZF1	GDNF inducible zinc finger protein 1 [Source:HGNC Symbol;Acc:HGNC:15808]	11121	-0.3582639992237091	0.13637994	No	
+row_27	DNASE1L3	deoxyribonuclease 1 like 3 [Source:HGNC Symbol;Acc:HGNC:2959]	11625	-0.3753179907798767	0.11598646	No	
+row_28	STAC3	SH3 and cysteine rich domain 3 [Source:HGNC Symbol;Acc:HGNC:28423]	11704	-0.3753179907798767	0.12669206	No	
+row_29	FRG1	FSHD region gene 1 [Source:HGNC Symbol;Acc:HGNC:3954]	12378	-0.43275201320648193	0.0963706	No	

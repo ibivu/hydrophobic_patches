@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	JUN	Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]	4846	-0.5194780230522156	-0.32769874	No	
+row_1	MYC	MYC proto-oncogene, bHLH transcription factor [Source:HGNC Symbol;Acc:HGNC:7553]	8406	-1.040526032447815	-0.53473014	No	
+row_2	RAF1	Raf-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:9829]	9337	-1.1371389627456665	-0.5446659	Yes	
+row_3	MAPK8	mitogen-activated protein kinase 8 [Source:HGNC Symbol;Acc:HGNC:6881]	10032	-1.209272027015686	-0.53366965	Yes	
+row_4	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	10248	-1.2311420440673828	-0.48654503	Yes	
+row_5	CRKL	CRK like proto-oncogene, adaptor protein [Source:HGNC Symbol;Acc:HGNC:2363]	10704	-1.2761950492858887	-0.4546634	Yes	
+row_6	STAT5A	signal transducer and activator of transcription 5A [Source:HGNC Symbol;Acc:HGNC:11366]	11003	-1.3059619665145874	-0.40978667	Yes	
+row_7	STAT5B	signal transducer and activator of transcription 5B [Source:HGNC Symbol;Acc:HGNC:11367]	11159	-1.3216010332107544	-0.3536592	Yes	
+row_8	MAP2K4	mitogen-activated protein kinase kinase 4 [Source:HGNC Symbol;Acc:HGNC:6844]	11585	-1.371319055557251	-0.31472945	Yes	
+row_9	MAP2K1	mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	12036	-1.4250739812850952	-0.2748833	Yes	
+row_10	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	12155	-1.4411300420761108	-0.20995039	Yes	
+row_11	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	12234	-1.4510680437088013	-0.14158647	Yes	
+row_12	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	12805	-1.541509985923767	-0.10456849	Yes	
+row_13	HRAS	HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	13071	-1.5986720323562622	-0.04233916	Yes	
+row_14	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	13443	-1.7216579914093018	0.01841963	Yes	

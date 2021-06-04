@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EDNRB	endothelin receptor type B [Source:HGNC Symbol;Acc:HGNC:3180]	574	2.857642889022827	0.16316575	Yes	
+row_1	TSPAN7	tetraspanin 7 [Source:HGNC Symbol;Acc:HGNC:11854]	1692	2.2560670375823975	0.24345317	Yes	
+row_2	MS4A1	membrane spanning 4-domains A1 [Source:HGNC Symbol;Acc:HGNC:7315]	1765	2.0757930278778076	0.3871946	Yes	
+row_3	MAL	mal, T cell differentiation protein [Source:HGNC Symbol;Acc:HGNC:6817]	1865	1.8790620565414429	0.5148404	Yes	
+row_4	IFI27	interferon alpha inducible protein 27 [Source:HGNC Symbol;Acc:HGNC:5397]	2044	1.5162049531936646	0.6106643	Yes	
+row_5	CST6	cystatin E/M [Source:HGNC Symbol;Acc:HGNC:2478]	2409	1.008978009223938	0.65648085	Yes	
+row_6	LTB	lymphotoxin beta [Source:HGNC Symbol;Acc:HGNC:6711]	2890	0.46377599239349365	0.6546814	No	
+row_7	GALNT3	polypeptide N-acetylgalactosaminyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:4125]	3561	0.3242790102958679	0.62897867	No	
+row_8	AZGP1	alpha-2-glycoprotein 1, zinc-binding [Source:HGNC Symbol;Acc:HGNC:910]	5649	0.034876998513936996	0.4789126	No	
+row_9	CCN2	cellular communication network factor 2 [Source:HGNC Symbol;Acc:HGNC:2500]	5674	0.034876998513936996	0.4796616	No	
+row_10	TSPY1	testis specific protein Y-linked 1 [Source:HGNC Symbol;Acc:HGNC:12381]	6023	-5.489999894052744E-4	0.45426056	No	
+row_11	LGALS3BP	galectin 3 binding protein [Source:HGNC Symbol;Acc:HGNC:6564]	6169	-5.489999894052744E-4	0.44369978	No	
+row_12	DUSP2	dual specificity phosphatase 2 [Source:HGNC Symbol;Acc:HGNC:3068]	7947	-0.22912000119686127	0.33023936	No	
+row_13	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	8862	-0.22912000119686127	0.27986833	No	
+row_14	CRYBB1	crystallin beta B1 [Source:HGNC Symbol;Acc:HGNC:2397]	9205	-0.22912000119686127	0.27131325	No	
+row_15	GNAT1	G protein subunit alpha transducin 1 [Source:HGNC Symbol;Acc:HGNC:4393]	11534	-0.3582639992237091	0.12684233	No	
+row_16	IFIT3	interferon induced protein with tetratricopeptide repeats 3 [Source:HGNC Symbol;Acc:HGNC:5411]	12521	-0.43275201320648193	0.08582493	No	

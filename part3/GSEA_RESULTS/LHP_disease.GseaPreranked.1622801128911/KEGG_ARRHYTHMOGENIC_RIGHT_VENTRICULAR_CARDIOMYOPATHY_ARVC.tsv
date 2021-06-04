@@ -1,0 +1,29 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CACNG6	calcium voltage-gated channel auxiliary subunit gamma 6 [Source:HGNC Symbol;Acc:HGNC:13625]	1397	2.539612054824829	0.009402948	Yes	
+row_1	CACNG7	calcium voltage-gated channel auxiliary subunit gamma 7 [Source:HGNC Symbol;Acc:HGNC:13626]	1530	2.3171958923339844	0.10158296	Yes	
+row_2	CACNG5	calcium voltage-gated channel auxiliary subunit gamma 5 [Source:HGNC Symbol;Acc:HGNC:1409]	1531	2.3171958923339844	0.20342056	Yes	
+row_3	CACNG4	calcium voltage-gated channel auxiliary subunit gamma 4 [Source:HGNC Symbol;Acc:HGNC:1408]	1591	2.315268039703369	0.3008568	Yes	
+row_4	GJA1	gap junction protein alpha 1 [Source:HGNC Symbol;Acc:HGNC:4274]	1605	2.315268039703369	0.40165854	Yes	
+row_5	CACNG1	calcium voltage-gated channel auxiliary subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:1405]	1698	2.2560670375823975	0.49407858	Yes	
+row_6	CACNG2	calcium voltage-gated channel auxiliary subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:1406]	2006	1.608855962753296	0.54232436	Yes	
+row_7	CACNG8	calcium voltage-gated channel auxiliary subunit gamma 8 [Source:HGNC Symbol;Acc:HGNC:13628]	2257	1.17283296585083	0.57557786	Yes	
+row_8	CACNG3	calcium voltage-gated channel auxiliary subunit gamma 3 [Source:HGNC Symbol;Acc:HGNC:1407]	2496	0.8817219734191895	0.5969154	Yes	
+row_9	SGCA	sarcoglycan alpha [Source:HGNC Symbol;Acc:HGNC:10805]	2829	0.5333669781684875	0.5960659	Yes	
+row_10	SGCG	sarcoglycan gamma [Source:HGNC Symbol;Acc:HGNC:10809]	2948	0.46377599239349365	0.6078149	Yes	
+row_11	ITGB5	integrin subunit beta 5 [Source:HGNC Symbol;Acc:HGNC:6160]	3649	0.3242790102958679	0.570852	No	
+row_12	ITGB8	integrin subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:6163]	3650	0.3242790102958679	0.58510363	No	
+row_13	LEF1	lymphoid enhancer binding factor 1 [Source:HGNC Symbol;Acc:HGNC:6551]	3712	0.27150100469589233	0.59257275	No	
+row_14	DES	desmin [Source:HGNC Symbol;Acc:HGNC:2770]	4002	0.22879600524902344	0.5814837	No	
+row_15	ITGB6	integrin subunit beta 6 [Source:HGNC Symbol;Acc:HGNC:6161]	4048	0.22879600524902344	0.58824664	No	
+row_16	SGCD	sarcoglycan delta [Source:HGNC Symbol;Acc:HGNC:10807]	4505	0.1298699975013733	0.56059164	No	
+row_17	SGCB	sarcoglycan beta [Source:HGNC Symbol;Acc:HGNC:10806]	5401	0.034876998513936996	0.49664304	No	
+row_18	ITGB3	integrin subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:6156]	7159	-0.1995760053396225	0.37686568	No	
+row_19	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	7606	-0.22912000119686127	0.35430422	No	
+row_20	JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	7940	-0.22912000119686127	0.34001026	No	
+row_21	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	8340	-0.22912000119686127	0.3208875	No	
+row_22	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	9716	-0.22912000119686127	0.23035707	No	
+row_23	ITGB7	integrin subunit beta 7 [Source:HGNC Symbol;Acc:HGNC:6162]	9719	-0.22912000119686127	0.24028026	No	
+row_24	TCF7L2	transcription factor 7 like 2 [Source:HGNC Symbol;Acc:HGNC:11641]	9858	-0.22912000119686127	0.2402532	No	
+row_25	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	10042	-0.22912000119686127	0.23693377	No	
+row_26	CACNB3	calcium voltage-gated channel auxiliary subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:1403]	10631	-0.3115389943122864	0.20760529	No	
+row_27	CACNB4	calcium voltage-gated channel auxiliary subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:1404]	11665	-0.3753179907798767	0.148522	No	

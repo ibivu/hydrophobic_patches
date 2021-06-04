@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ID1	inhibitor of DNA binding 1, HLH protein [Source:HGNC Symbol;Acc:HGNC:5360]	2652	0.6939809918403625	-0.044200394	No	
+row_1	ID2	inhibitor of DNA binding 2 [Source:HGNC Symbol;Acc:HGNC:5361]	4364	0.1298699975013733	-0.14126012	No	
+row_2	ATF5	activating transcription factor 5 [Source:HGNC Symbol;Acc:HGNC:790]	6843	-0.09603200107812881	-0.30167958	Yes	
+row_3	GADD45B	growth arrest and DNA damage inducible beta [Source:HGNC Symbol;Acc:HGNC:4096]	7060	-0.14936600625514984	-0.2852597	Yes	
+row_4	PLAU	plasminogen activator, urokinase [Source:HGNC Symbol;Acc:HGNC:9052]	7282	-0.22912000119686127	-0.2520077	Yes	
+row_5	RAB20	RAB20, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:18260]	7699	-0.22912000119686127	-0.23300903	Yes	
+row_6	MIDN	midnolin [Source:HGNC Symbol;Acc:HGNC:16298]	7810	-0.22912000119686127	-0.19164358	Yes	
+row_7	SKIL	SKI like proto-oncogene [Source:HGNC Symbol;Acc:HGNC:10897]	9262	-0.22912000119686127	-0.24829729	Yes	
+row_8	S100A6	S100 calcium binding protein A6 [Source:HGNC Symbol;Acc:HGNC:10496]	10194	-0.2783910036087036	-0.25631762	Yes	
+row_9	SQSTM1	sequestosome 1 [Source:HGNC Symbol;Acc:HGNC:11280]	10624	-0.3115389943122864	-0.22049695	Yes	
+row_10	GZF1	GDNF inducible zinc finger protein 1 [Source:HGNC Symbol;Acc:HGNC:15808]	11121	-0.3582639992237091	-0.17949812	Yes	
+row_11	DDIT3	DNA damage inducible transcript 3 [Source:HGNC Symbol;Acc:HGNC:2726]	11258	-0.3582639992237091	-0.11218543	Yes	
+row_12	NDRG1	N-myc downstream regulated 1 [Source:HGNC Symbol;Acc:HGNC:7679]	12771	-0.43275201320648193	-0.12938814	Yes	
+row_13	DNAJB1	DnaJ heat shock protein family (Hsp40) member B1 [Source:HGNC Symbol;Acc:HGNC:5270]	13359	-0.4458169937133789	-0.07616157	Yes	
+row_14	GABARAPL1	GABA type A receptor associated protein like 1 [Source:HGNC Symbol;Acc:HGNC:4068]	13431	-0.46675699949264526	0.019296885	Yes	

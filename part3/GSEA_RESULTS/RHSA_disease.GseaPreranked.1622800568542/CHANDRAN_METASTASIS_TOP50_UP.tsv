@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GRINA	glutamate ionotropic receptor NMDA type subunit associated protein 1 [Source:HGNC Symbol;Acc:HGNC:4589]	1949	0.6852869987487793	-0.1188967	No	
+row_1	UGT2B15	UDP glucuronosyltransferase family 2 member B15 [Source:HGNC Symbol;Acc:HGNC:12546]	3702	-0.2094620019197464	-0.23981078	No	
+row_2	H2AZ2	H2A.Z variant histone 2 [Source:HGNC Symbol;Acc:HGNC:20664]	5057	-0.564706027507782	-0.31935057	No	
+row_3	MSI2	musashi RNA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:18585]	6383	-0.7892119884490967	-0.38901883	No	
+row_4	DENND11	DENN domain containing 11 [Source:HGNC Symbol;Acc:HGNC:29472]	6763	-0.8385800123214722	-0.38779032	No	
+row_5	ENTR1	endosome associated trafficking regulator 1 [Source:HGNC Symbol;Acc:HGNC:10667]	8066	-1.000959038734436	-0.44846642	No	
+row_6	PABPC1	poly(A) binding protein cytoplasmic 1 [Source:HGNC Symbol;Acc:HGNC:8554]	8308	-1.0297930240631104	-0.43054324	No	
+row_7	HSPD1	heat shock protein family D (Hsp60) member 1 [Source:HGNC Symbol;Acc:HGNC:5261]	8820	-1.0821349620819092	-0.4305615	No	
+row_8	CELF1	CUGBP Elav-like family member 1 [Source:HGNC Symbol;Acc:HGNC:2549]	9695	-1.171125054359436	-0.45405832	Yes	
+row_9	GIT1	GIT ArfGAP 1 [Source:HGNC Symbol;Acc:HGNC:4272]	9741	-1.175766944885254	-0.41675997	Yes	
+row_10	GNL3L	G protein nucleolar 3 like [Source:HGNC Symbol;Acc:HGNC:25553]	9989	-1.2041349411010742	-0.39325702	Yes	
+row_11	METTL2B	methyltransferase like 2B [Source:HGNC Symbol;Acc:HGNC:18272]	10101	-1.214843988418579	-0.35943705	Yes	
+row_12	PCBP2	poly(rC) binding protein 2 [Source:HGNC Symbol;Acc:HGNC:8648]	10232	-1.228909969329834	-0.3265212	Yes	
+row_13	AK4	adenylate kinase 4 [Source:HGNC Symbol;Acc:HGNC:363]	10385	-1.2454160451889038	-0.29464462	Yes	
+row_14	DDX17	DEAD-box helicase 17 [Source:HGNC Symbol;Acc:HGNC:2740]	10894	-1.295375943183899	-0.287082	Yes	
+row_15	RALA	RAS like proto-oncogene A [Source:HGNC Symbol;Acc:HGNC:9839]	11161	-1.3216379880905151	-0.26091233	Yes	
+row_16	EIF1AX	eukaryotic translation initiation factor 1A X-linked [Source:HGNC Symbol;Acc:HGNC:3250]	12002	-1.420151948928833	-0.27332538	Yes	
+row_17	TUBA1B	tubulin alpha 1b [Source:HGNC Symbol;Acc:HGNC:18809]	12418	-1.4772889614105225	-0.2526805	Yes	
+row_18	ZNF605	zinc finger protein 605 [Source:HGNC Symbol;Acc:HGNC:28068]	12441	-1.4800050258636475	-0.20319702	Yes	
+row_19	ZNF587	zinc finger protein 587 [Source:HGNC Symbol;Acc:HGNC:30955]	12740	-1.530184030532837	-0.17216848	Yes	
+row_20	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	12805	-1.541509985923767	-0.12363368	Yes	
+row_21	YY1	YY1 transcription factor [Source:HGNC Symbol;Acc:HGNC:12856]	13337	-1.6760070323944092	-0.10461319	Yes	
+row_22	SOD1	superoxide dismutase 1 [Source:HGNC Symbol;Acc:HGNC:11179]	13536	-1.7852269411087036	-0.057465866	Yes	
+row_23	HSP90AA1	heat shock protein 90 alpha family class A member 1 [Source:HGNC Symbol;Acc:HGNC:5253]	13659	-1.9993770122528076	0.0026331374	Yes	

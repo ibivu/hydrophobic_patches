@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC38A1	solute carrier family 38 member 1 [Source:HGNC Symbol;Acc:HGNC:13447]	169	2.857642889022827	0.20298286	Yes	
+row_1	CXCR4	C-X-C motif chemokine receptor 4 [Source:HGNC Symbol;Acc:HGNC:2561]	723	2.8327879905700684	0.3760164	Yes	
+row_2	TSPAN3	tetraspanin 3 [Source:HGNC Symbol;Acc:HGNC:17752]	1513	2.3171958923339844	0.49294198	Yes	
+row_3	TM4SF1	transmembrane 4 L six family member 1 [Source:HGNC Symbol;Acc:HGNC:11853]	1878	1.833570957183838	0.6044978	Yes	
+row_4	ETV5	ETS variant transcription factor 5 [Source:HGNC Symbol;Acc:HGNC:3494]	3522	0.3242790102958679	0.50880533	No	
+row_5	F3	coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]	3753	0.2695389986038208	0.5123	No	
+row_6	PPT1	palmitoyl-protein thioesterase 1 [Source:HGNC Symbol;Acc:HGNC:9325]	4353	0.1298699975013733	0.47829032	No	
+row_7	IGFBP3	insulin like growth factor binding protein 3 [Source:HGNC Symbol;Acc:HGNC:5472]	5043	0.034876998513936996	0.43054193	No	
+row_8	CTSC	cathepsin C [Source:HGNC Symbol;Acc:HGNC:2528]	5275	0.034876998513936996	0.41628045	No	
+row_9	RGS1	regulator of G protein signaling 1 [Source:HGNC Symbol;Acc:HGNC:9991]	5490	0.034876998513936996	0.4032619	No	
+row_10	SPHK1	sphingosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:11240]	5902	-5.489999894052744E-4	0.37325284	No	
+row_11	DDIT4	DNA damage inducible transcript 4 [Source:HGNC Symbol;Acc:HGNC:24944]	8639	-0.22912000119686127	0.19047444	No	
+row_12	ARPC2	actin related protein 2/3 complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:705]	9710	-0.22912000119686127	0.12950638	No	
+row_13	PKM	pyruvate kinase M1/2 [Source:HGNC Symbol;Acc:HGNC:9021]	10962	-0.34268900752067566	0.06386248	No	
+row_14	ALDOA	aldolase, fructose-bisphosphate A [Source:HGNC Symbol;Acc:HGNC:414]	11047	-0.3582639992237091	0.084717974	No	
+row_15	PLOD2	procollagen-lysine,2-oxoglutarate 5-dioxygenase 2 [Source:HGNC Symbol;Acc:HGNC:9082]	11056	-0.3582639992237091	0.111130245	No	
+row_16	PFKFB3	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3 [Source:HGNC Symbol;Acc:HGNC:8874]	11307	-0.3582639992237091	0.11984857	No	
+row_17	RGS2	regulator of G protein signaling 2 [Source:HGNC Symbol;Acc:HGNC:9998]	11359	-0.3582639992237091	0.14311688	No	
+row_18	RALA	RAS like proto-oncogene A [Source:HGNC Symbol;Acc:HGNC:9839]	11584	-0.366364985704422	0.15434667	No	

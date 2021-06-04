@@ -1,0 +1,41 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CD28	CD28 molecule [Source:HGNC Symbol;Acc:HGNC:1653]	1883	0.7354180216789246	-0.09881171	Yes	
+row_1	HLA-DOA	major histocompatibility complex, class II, DO alpha [Source:HGNC Symbol;Acc:HGNC:4936]	2131	0.5659440159797668	-0.08682758	Yes	
+row_2	HLA-DQA2	major histocompatibility complex, class II, DQ alpha 2 [Source:HGNC Symbol;Acc:HGNC:4943]	2211	0.5192170143127441	-0.06502402	Yes	
+row_3	HLA-DMA	major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	2223	0.5106890201568604	-0.038694084	Yes	
+row_4	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	2419	0.38568899035453796	-0.032479957	Yes	
+row_5	HLA-DRA	major histocompatibility complex, class II, DR alpha [Source:HGNC Symbol;Acc:HGNC:4947]	2435	0.3742530047893524	-0.013692457	Yes	
+row_6	HLA-DOB	major histocompatibility complex, class II, DO beta [Source:HGNC Symbol;Acc:HGNC:4937]	2723	0.20026999711990356	-0.024067525	Yes	
+row_7	HLA-DPA1	major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	2837	0.1443610042333603	-0.02467166	Yes	
+row_8	KLRD1	killer cell lectin like receptor D1 [Source:HGNC Symbol;Acc:HGNC:6378]	2868	0.13482800126075745	-0.019704416	Yes	
+row_9	HLA-DRB4	major histocompatibility complex, class II, DR beta 4 [Source:HGNC Symbol;Acc:HGNC:4952]	2935	0.10356199741363525	-0.019034695	Yes	
+row_10	HLA-DMB	major histocompatibility complex, class II, DM beta [Source:HGNC Symbol;Acc:HGNC:4935]	3208	-0.01538699958473444	-0.038135093	Yes	
+row_11	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	3435	-0.11026699841022491	-0.048825562	Yes	
+row_12	HLA-DRB3	major histocompatibility complex, class II, DR beta 3 [Source:HGNC Symbol;Acc:HGNC:4951]	3547	-0.15148499608039856	-0.04890471	Yes	
+row_13	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	3635	-0.18321600556373596	-0.045540363	Yes	
+row_14	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1 [Source:HGNC Symbol;Acc:HGNC:4944]	3701	-0.20935900509357452	-0.039175894	Yes	
+row_15	KIR2DL5A	killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 5A [Source:HGNC Symbol;Acc:HGNC:16345]	3727	-0.2165910005569458	-0.029498039	Yes	
+row_16	HLA-DRB5	major histocompatibility complex, class II, DR beta 5 [Source:HGNC Symbol;Acc:HGNC:4953]	3757	-0.22481200098991394	-0.019676274	Yes	
+row_17	KIR3DL2	killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 2 [Source:HGNC Symbol;Acc:HGNC:6339]	3875	-0.2586759924888611	-0.014499199	Yes	
+row_18	HLA-DPB1	major histocompatibility complex, class II, DP beta 1 [Source:HGNC Symbol;Acc:HGNC:4940]	3880	-0.25940099358558655	-0.0010088508	Yes	
+row_19	HLA-G	major histocompatibility complex, class I, G [Source:HGNC Symbol;Acc:HGNC:4964]	3974	-0.28542301058769226	0.007346894	Yes	
+row_20	KIR2DL3	killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 3 [Source:HGNC Symbol;Acc:HGNC:6331]	4048	-0.3041999936103821	0.01816491	Yes	
+row_21	KIR2DL1	killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 1 [Source:HGNC Symbol;Acc:HGNC:6329]	4152	-0.3344919979572296	0.028395655	Yes	
+row_22	KIR2DL2	killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 2 [Source:HGNC Symbol;Acc:HGNC:6330]	4509	-0.43630900979042053	0.025509786	Yes	
+row_23	KLRC1	killer cell lectin like receptor C1 [Source:HGNC Symbol;Acc:HGNC:6374]	4606	-0.4626300036907196	0.043061733	Yes	
+row_24	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	4615	-0.4641540050506592	0.06713871	Yes	
+row_25	CD86	CD86 molecule [Source:HGNC Symbol;Acc:HGNC:1705]	4799	-0.5084940195083618	0.08075681	Yes	
+row_26	KIR3DL1	killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 1 [Source:HGNC Symbol;Acc:HGNC:6338]	4854	-0.5217459797859192	0.104525454	Yes	
+row_27	HLA-F	major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	4891	-0.5307360291481018	0.13008988	Yes	
+row_28	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	4903	-0.5331439971923828	0.15761296	Yes	
+row_29	CD80	CD80 molecule [Source:HGNC Symbol;Acc:HGNC:1700]	5045	-0.5616289973258972	0.17712995	Yes	
+row_30	HLA-C	major histocompatibility complex, class I, C [Source:HGNC Symbol;Acc:HGNC:4933]	5128	-0.5786769986152649	0.20187324	Yes	
+row_31	IL2	interleukin 2 [Source:HGNC Symbol;Acc:HGNC:6001]	5162	-0.5859429836273193	0.23059078	Yes	
+row_32	IL6	interleukin 6 [Source:HGNC Symbol;Acc:HGNC:6018]	5815	-0.703029990196228	0.22020166	Yes	
+row_33	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	6029	-0.7351210117340088	0.24366474	Yes	
+row_34	IFNG	interferon gamma [Source:HGNC Symbol;Acc:HGNC:5438]	6346	-0.7833409905433655	0.26214752	Yes	
+row_35	PRF1	perforin 1 [Source:HGNC Symbol;Acc:HGNC:9360]	6975	-0.8634340167045593	0.26203892	Yes	
+row_36	FAS	Fas cell surface death receptor [Source:HGNC Symbol;Acc:HGNC:11920]	7037	-0.8716089725494385	0.30388492	Yes	
+row_37	IL1B	interleukin 1 beta [Source:HGNC Symbol;Acc:HGNC:5992]	7249	-0.9024310111999512	0.33638448	Yes	
+row_38	IL1A	interleukin 1 alpha [Source:HGNC Symbol;Acc:HGNC:5991]	9544	-1.1571300029754639	0.22988376	No	
+row_39	GZMB	granzyme B [Source:HGNC Symbol;Acc:HGNC:4709]	11762	-1.3929049968719482	0.14154948	No	

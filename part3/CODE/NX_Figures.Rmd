@@ -1,0 +1,65 @@
+```{r}
+#install.packages("IRdisplay")
+library(readr)
+library(dplyr)
+library(ggplot2)
+#library(tidyverse)
+library(plotly)
+library(IRdisplay)
+library(ggsignif)
+```
+
+
+```{r}
+highest_NX <- read_csv("/Users/deagogishvili/Desktop/PublicationFiles2/MATERIALS/NX_highest.csv")
+median_NX <- read_csv("/Users/deagogishvili/Desktop/PublicationFiles2/MATERIALS/NX_highest.csv")
+```
+
+```{r}
+# THSA 
+p<-ggplot(highest_NX, aes(x=Expression, y=THSA, color=Expression)) +
+  geom_violin(trim=FALSE)  
+p + geom_boxplot(width=0.1) + theme(axis.title.x = element_blank())+
+  geom_signif(comparisons = list(c("A", "J")),  map_signif_level=TRUE) + geom_boxplot(width=0.1) + theme(axis.title.x = element_blank())+ theme_grey(base_size = 14) + theme_grey(base_size = 14)+scale_color_brewer(palette="RdGy")
+
+# RHSA
+
+p<-ggplot(highest_NX, aes(x=Expression, y=RHSA, color=Expression)) +
+  geom_violin(trim=FALSE)
+p + geom_boxplot(width=0.1) + theme(axis.title.x = element_blank())+
+  geom_signif(comparisons = list(c("A", "J")),  map_signif_level=TRUE) + geom_boxplot(width=0.1) + theme(axis.title.x = element_blank())+ theme_grey(base_size = 14)+scale_color_brewer(palette="RdGy")
+
+# LHPSA
+
+p<-ggplot(highest_NX, aes(x=Expression, y=LHPSA, color=Expression)) +
+  geom_violin(trim=FALSE)
+p + geom_boxplot(width=0.1) + theme(axis.title.x = element_blank())+
+  geom_signif(comparisons = list(c("A", "J")),  map_signif_level=TRUE) + geom_boxplot(width=0.1) + theme(axis.title.x = element_blank())+ theme_grey(base_size = 14)+scale_color_brewer(palette="RdGy")
+```
+
+
+
+```{r}
+# THSA 
+p<-ggplot(median_NX, aes(x=Expression, y=THSA, color=Expression)) +
+  geom_violin(trim=FALSE)  
+p + geom_boxplot(width=0.1) + theme(axis.title.x = element_blank())+
+  geom_signif(comparisons = list(c("A", "J")),  map_signif_level=TRUE) + geom_boxplot(width=0.1) + theme(axis.title.x = element_blank())+ theme_grey(base_size = 14) + theme_grey(base_size = 14)+scale_color_brewer(palette="RdGy")
+
+# RHSA
+
+p<-ggplot(median_NX, aes(x=Expression, y=RHSA, color=Expression)) +
+  geom_violin(trim=FALSE)
+p + geom_boxplot(width=0.1) + theme(axis.title.x = element_blank())+
+  geom_signif(comparisons = list(c("A", "J")),  map_signif_level=TRUE) + geom_boxplot(width=0.1) + theme(axis.title.x = element_blank())+ theme_grey(base_size = 14)+scale_color_brewer(palette="RdGy")
+
+# LHPSA
+
+p<-ggplot(median_NX, aes(x=Expression, y=LHPSA, color=Expression)) +
+  geom_violin(trim=FALSE)
+p + geom_boxplot(width=0.1) + theme(axis.title.x = element_blank())+
+  geom_signif(comparisons = list(c("A", "J")),  map_signif_level=TRUE) + geom_boxplot(width=0.1) + theme(axis.title.x = element_blank())+ theme_grey(base_size = 14)+scale_color_brewer(palette="RdGy")
+```
+
+```
+

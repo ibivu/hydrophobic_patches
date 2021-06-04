@@ -1,0 +1,42 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC22A6	solute carrier family 22 member 6 [Source:HGNC Symbol;Acc:HGNC:10970]	49	2.857642889022827	0.040816754	Yes	
+row_1	SLC22A2	solute carrier family 22 member 2 [Source:HGNC Symbol;Acc:HGNC:10966]	52	2.857642889022827	0.085075475	Yes	
+row_2	SLC47A2	solute carrier family 47 member 2 [Source:HGNC Symbol;Acc:HGNC:26439]	73	2.857642889022827	0.128016	Yes	
+row_3	SLC34A1	solute carrier family 34 member 1 [Source:HGNC Symbol;Acc:HGNC:11019]	77	2.857642889022827	0.17220148	Yes	
+row_4	SLC7A13	solute carrier family 7 member 13 [Source:HGNC Symbol;Acc:HGNC:23092]	79	2.857642889022827	0.21653342	Yes	
+row_5	SLC5A10	solute carrier family 5 member 10 [Source:HGNC Symbol;Acc:HGNC:23155]	134	2.857642889022827	0.25698403	Yes	
+row_6	SLC13A1	solute carrier family 13 member 1 [Source:HGNC Symbol;Acc:HGNC:10916]	145	2.857642889022827	0.30065688	Yes	
+row_7	SLC13A3	solute carrier family 13 member 3 [Source:HGNC Symbol;Acc:HGNC:14430]	147	2.857642889022827	0.34498882	Yes	
+row_8	SLC6A18	solute carrier family 6 member 18 [Source:HGNC Symbol;Acc:HGNC:26441]	219	2.857642889022827	0.38419443	Yes	
+row_9	SLC17A3	solute carrier family 17 member 3 [Source:HGNC Symbol;Acc:HGNC:10931]	519	2.857642889022827	0.40670288	Yes	
+row_10	SLC5A2	solute carrier family 5 member 2 [Source:HGNC Symbol;Acc:HGNC:11037]	536	2.857642889022827	0.44993633	Yes	
+row_11	SLC22A12	solute carrier family 22 member 12 [Source:HGNC Symbol;Acc:HGNC:17989]	591	2.857642889022827	0.49038693	Yes	
+row_12	SLC22A13	solute carrier family 22 member 13 [Source:HGNC Symbol;Acc:HGNC:8494]	592	2.857642889022827	0.5347921	Yes	
+row_13	SLC22A24	solute carrier family 22 member 24 [Source:HGNC Symbol;Acc:HGNC:28542]	601	2.857642889022827	0.57861143	Yes	
+row_14	OR2T2	olfactory receptor family 2 subfamily T member 2 [Source:HGNC Symbol;Acc:HGNC:14725]	1056	2.6395270824432373	0.5863794	Yes	
+row_15	OR2T10	olfactory receptor family 2 subfamily T member 10 [Source:HGNC Symbol;Acc:HGNC:19573]	1165	2.6395270824432373	0.6194861	Yes	
+row_16	CLTRN	collectrin, amino acid transport regulator [Source:HGNC Symbol;Acc:HGNC:29437]	1500	2.3458058834075928	0.6314779	Yes	
+row_17	AQP6	aquaporin 6 [Source:HGNC Symbol;Acc:HGNC:639]	1533	2.3171958923339844	0.6651415	Yes	
+row_18	PTH1R	parathyroid hormone 1 receptor [Source:HGNC Symbol;Acc:HGNC:9608]	1566	2.315268039703369	0.69877523	Yes	
+row_19	SLCO4C1	solute carrier organic anion transporter family member 4C1 [Source:HGNC Symbol;Acc:HGNC:23612]	1598	2.315268039703369	0.7324822	Yes	
+row_20	NOX4	NADPH oxidase 4 [Source:HGNC Symbol;Acc:HGNC:7891]	2004	1.608855962753296	0.7278229	Yes	
+row_21	TMEM174	transmembrane protein 174 [Source:HGNC Symbol;Acc:HGNC:28187]	2015	1.6030529737472534	0.7520005	Yes	
+row_22	TRPV5	transient receptor potential cation channel subfamily V member 5 [Source:HGNC Symbol;Acc:HGNC:3145]	2251	1.17283296585083	0.75301546	Yes	
+row_23	NAT8	N-acetyltransferase 8 (putative) [Source:HGNC Symbol;Acc:HGNC:18069]	2356	1.0707299709320068	0.7620374	Yes	
+row_24	KCNJ1	potassium inwardly rectifying channel subfamily J member 1 [Source:HGNC Symbol;Acc:HGNC:6255]	2477	0.8817219734191895	0.76695055	Yes	
+row_25	FXYD4	FXYD domain containing ion transport regulator 4 [Source:HGNC Symbol;Acc:HGNC:4028]	2526	0.8429930210113525	0.77653474	Yes	
+row_26	NPHS2	NPHS2 stomatin family member, podocin [Source:HGNC Symbol;Acc:HGNC:13394]	3211	0.35970398783683777	0.73203266	No	
+row_27	UMOD	uromodulin [Source:HGNC Symbol;Acc:HGNC:12559]	3301	0.35970398783683777	0.7311044	No	
+row_28	UGT1A9	UDP glucuronosyltransferase family 1 member A9 [Source:HGNC Symbol;Acc:HGNC:12541]	3707	0.30325499176979065	0.7061572	No	
+row_29	CLEC18B	C-type lectin domain family 18 member B [Source:HGNC Symbol;Acc:HGNC:33849]	4210	0.16358700394630432	0.6719361	No	
+row_30	CLEC18A	C-type lectin domain family 18 member A [Source:HGNC Symbol;Acc:HGNC:30388]	4311	0.1298699975013733	0.66663086	No	
+row_31	LYG1	lysozyme g1 [Source:HGNC Symbol;Acc:HGNC:27014]	4546	0.1298699975013733	0.6515123	No	
+row_32	CRYAA	crystallin alpha A [Source:HGNC Symbol;Acc:HGNC:2388]	5320	0.034876998513936996	0.595445	No	
+row_33	CRYAA2	crystallin alpha A2 [Source:HGNC Symbol;Acc:HGNC:51901]	5514	0.034876998513936996	0.5818529	No	
+row_34	FMO1	flavin containing dimethylaniline monoxygenase 1 [Source:HGNC Symbol;Acc:HGNC:3769]	5702	0.034876998513936996	0.56870025	No	
+row_35	GALNT14	polypeptide N-acetylgalactosaminyltransferase 14 [Source:HGNC Symbol;Acc:HGNC:22946]	5773	0.0331679992377758	0.56408936	No	
+row_36	REN	renin [Source:HGNC Symbol;Acc:HGNC:9958]	6097	-5.489999894052744E-4	0.54044354	No	
+row_37	ATP6V0D2	ATPase H+ transporting V0 subunit d2 [Source:HGNC Symbol;Acc:HGNC:18266]	7719	-0.22912000119686127	0.42529276	No	
+row_38	KLHDC7A	kelch domain containing 7A [Source:HGNC Symbol;Acc:HGNC:26791]	8418	-0.22912000119686127	0.37773627	No	
+row_39	CYP27B1	cytochrome P450 family 27 subfamily B member 1 [Source:HGNC Symbol;Acc:HGNC:2606]	8946	-0.22912000119686127	0.34270266	No	
+row_40	MIOX	myo-inositol oxygenase [Source:HGNC Symbol;Acc:HGNC:14522]	10835	-0.32233700156211853	0.20944712	No	

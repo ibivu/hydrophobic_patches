@@ -1,0 +1,44 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC6A5	solute carrier family 6 member 5 [Source:HGNC Symbol;Acc:HGNC:11051]	9	3.5899579524993896	0.09155702	Yes	
+row_1	ANO10	anoctamin 10 [Source:HGNC Symbol;Acc:HGNC:25519]	274	1.9647270441055298	0.12268908	Yes	
+row_2	PSEN1	presenilin 1 [Source:HGNC Symbol;Acc:HGNC:9508]	570	1.496377944946289	0.13951997	Yes	
+row_3	OPTN	optineurin [Source:HGNC Symbol;Acc:HGNC:17142]	781	1.2798099517822266	0.15701357	Yes	
+row_4	GLRB	glycine receptor beta [Source:HGNC Symbol;Acc:HGNC:4329]	835	1.2334680557250977	0.18481605	Yes	
+row_5	SLC52A3	solute carrier family 52 member 3 [Source:HGNC Symbol;Acc:HGNC:16187]	844	1.2270790338516235	0.21575041	Yes	
+row_6	GLRA1	glycine receptor alpha 1 [Source:HGNC Symbol;Acc:HGNC:4326]	912	1.1718510389328003	0.24094471	Yes	
+row_7	LRSAM1	leucine rich repeat and sterile alpha motif containing 1 [Source:HGNC Symbol;Acc:HGNC:25135]	1135	1.0138449668884277	0.25072747	Yes	
+row_8	SLC52A2	solute carrier family 52 member 2 [Source:HGNC Symbol;Acc:HGNC:30224]	1629	0.7379140257835388	0.23357318	No	
+row_9	ELOVL4	ELOVL fatty acid elongase 4 [Source:HGNC Symbol;Acc:HGNC:14415]	1915	0.6309450268745422	0.2289059	No	
+row_10	FXR1	FMR1 autosomal homolog 1 [Source:HGNC Symbol;Acc:HGNC:4023]	2088	0.5627509951591492	0.23076348	No	
+row_11	GPHN	gephyrin [Source:HGNC Symbol;Acc:HGNC:15465]	2336	0.4856509864330292	0.22514726	No	
+row_12	GRN	granulin precursor [Source:HGNC Symbol;Acc:HGNC:4601]	2344	0.48313599824905396	0.237045	No	
+row_13	KCNK9	potassium two pore domain channel subfamily K member 9 [Source:HGNC Symbol;Acc:HGNC:6283]	2423	0.462242990732193	0.24320573	No	
+row_14	PRPH	peripherin [Source:HGNC Symbol;Acc:HGNC:9461]	2609	0.405472993850708	0.24007109	No	
+row_15	AIFM1	apoptosis inducing factor mitochondria associated 1 [Source:HGNC Symbol;Acc:HGNC:8768]	3304	0.24266700446605682	0.19547322	No	
+row_16	HEXB	hexosaminidase subunit beta [Source:HGNC Symbol;Acc:HGNC:4879]	3914	0.08804500102996826	0.15312928	No	
+row_17	NOP56	NOP56 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:15911]	4048	0.050898998975753784	0.1446953	No	
+row_18	TBK1	TANK binding kinase 1 [Source:HGNC Symbol;Acc:HGNC:11584]	4118	0.0335099995136261	0.14050224	No	
+row_19	TARDBP	TAR DNA binding protein [Source:HGNC Symbol;Acc:HGNC:11571]	4447	-0.04726000130176544	0.117692195	No	
+row_20	SQSTM1	sequestosome 1 [Source:HGNC Symbol;Acc:HGNC:11280]	5144	-0.21526099741458893	0.072243854	No	
+row_21	SLC25A21	solute carrier family 25 member 21 [Source:HGNC Symbol;Acc:HGNC:14411]	5249	-0.2409449964761734	0.070815705	No	
+row_22	TOE1	target of EGR1, exonuclease [Source:HGNC Symbol;Acc:HGNC:15954]	5531	-0.29879599809646606	0.0579094	No	
+row_23	PSAP	prosaposin [Source:HGNC Symbol;Acc:HGNC:9498]	5694	-0.33392998576164246	0.054621626	No	
+row_24	PNPLA2	patatin like phospholipase domain containing 2 [Source:HGNC Symbol;Acc:HGNC:30802]	5731	-0.34048399329185486	0.060730945	No	
+row_25	RMND1	required for meiotic nuclear division 1 homolog [Source:HGNC Symbol;Acc:HGNC:21176]	6209	-0.4409019947052002	0.03711914	No	
+row_26	C9orf72	C9orf72-SMCR8 complex subunit [Source:HGNC Symbol;Acc:HGNC:28337]	6282	-0.4539619982242584	0.043506615	No	
+row_27	TMEM106B	transmembrane protein 106B [Source:HGNC Symbol;Acc:HGNC:22407]	6321	-0.46208900213241577	0.05259315	No	
+row_28	ATXN3	ataxin 3 [Source:HGNC Symbol;Acc:HGNC:7106]	7257	-0.6366009712219238	4.625758E-4	No	
+row_29	EXOSC9	exosome component 9 [Source:HGNC Symbol;Acc:HGNC:9137]	7474	-0.6791219711303711	0.002086667	No	
+row_30	ATAD1	ATPase family AAA domain containing 1 [Source:HGNC Symbol;Acc:HGNC:25903]	8580	-0.8918560147285461	-0.05593858	No	
+row_31	ASAH1	N-acylsphingosine amidohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:735]	8758	-0.9226589798927307	-0.045202173	No	
+row_32	SCO2	synthesis of cytochrome C oxidase 2 [Source:HGNC Symbol;Acc:HGNC:10604]	8822	-0.9358890056610107	-0.025776109	No	
+row_33	VAPB	VAMP associated protein B and C [Source:HGNC Symbol;Acc:HGNC:12649]	8824	-0.9359419941902161	-0.0018075594	No	
+row_34	GLA	galactosidase alpha [Source:HGNC Symbol;Acc:HGNC:4296]	9632	-1.0832409858703613	-0.033089943	No	
+row_35	CHMP2B	charged multivesicular body protein 2B [Source:HGNC Symbol;Acc:HGNC:24537]	9731	-1.099722981452942	-0.012018972	No	
+row_36	VRK1	VRK serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:12718]	9736	-1.100635051727295	0.01596036	No	
+row_37	EXOSC3	exosome component 3 [Source:HGNC Symbol;Acc:HGNC:17944]	10295	-1.2127130031585693	0.0062415088	No	
+row_38	HSPB1	heat shock protein family B (small) member 1 [Source:HGNC Symbol;Acc:HGNC:5246]	11508	-1.461832046508789	-0.044979714	No	
+row_39	UCHL1	ubiquitin C-terminal hydrolase L1 [Source:HGNC Symbol;Acc:HGNC:12513]	13423	-1.927569031715393	-0.13565469	No	
+row_40	PFN1	profilin 1 [Source:HGNC Symbol;Acc:HGNC:8881]	13447	-1.941586971282959	-0.08746524	No	
+row_41	HINT1	histidine triad nucleotide binding protein 1 [Source:HGNC Symbol;Acc:HGNC:4912]	13453	-1.9460010528564453	-0.037844006	No	
+row_42	SOD1	superoxide dismutase 1 [Source:HGNC Symbol;Acc:HGNC:11179]	13664	-2.160438060760498	0.0022705148	No	

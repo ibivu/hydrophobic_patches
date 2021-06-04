@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC7A11	solute carrier family 7 member 11 [Source:HGNC Symbol;Acc:HGNC:11059]	80	2.857642889022827	0.12852724	Yes	
+row_1	SLC38A1	solute carrier family 38 member 1 [Source:HGNC Symbol;Acc:HGNC:13447]	169	2.857642889022827	0.25646958	Yes	
+row_2	STEAP1	STEAP family member 1 [Source:HGNC Symbol;Acc:HGNC:11378]	493	2.857642889022827	0.36722976	Yes	
+row_3	SLC25A40	solute carrier family 25 member 40 [Source:HGNC Symbol;Acc:HGNC:29680]	1388	2.539612054824829	0.42128608	Yes	
+row_4	GPAT3	glycerol-3-phosphate acyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:28157]	1609	2.315268039703369	0.5140728	Yes	
+row_5	CLDN23	claudin 23 [Source:HGNC Symbol;Acc:HGNC:17591]	1802	2.0241570472717285	0.59521765	Yes	
+row_6	LITAF	lipopolysaccharide induced TNF factor [Source:HGNC Symbol;Acc:HGNC:16841]	2118	1.4168059825897217	0.6388095	Yes	
+row_7	CXCL2	C-X-C motif chemokine ligand 2 [Source:HGNC Symbol;Acc:HGNC:4603]	2454	0.9099119901657104	0.6571031	Yes	
+row_8	CXCL8	C-X-C motif chemokine ligand 8 [Source:HGNC Symbol;Acc:HGNC:6025]	2842	0.4675680100917816	0.65079415	No	
+row_9	TNFAIP6	TNF alpha induced protein 6 [Source:HGNC Symbol;Acc:HGNC:11898]	4549	0.1298699975013733	0.5321661	No	
+row_10	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	6485	-0.04479699954390526	0.39279425	No	
+row_11	MYLIP	myosin regulatory light chain interacting protein [Source:HGNC Symbol;Acc:HGNC:21155]	8139	-0.22912000119686127	0.28270844	No	
+row_12	KYNU	kynureninase [Source:HGNC Symbol;Acc:HGNC:6469]	9657	-0.22912000119686127	0.18256633	No	
+row_13	PMAIP1	phorbol-12-myristate-13-acetate-induced protein 1 [Source:HGNC Symbol;Acc:HGNC:9108]	10143	-0.24670900404453278	0.15870647	No	
+row_14	DBF4	DBF4 zinc finger [Source:HGNC Symbol;Acc:HGNC:17364]	11747	-0.3753179907798767	0.05915118	No	
+row_15	IFIT2	interferon induced protein with tetratricopeptide repeats 2 [Source:HGNC Symbol;Acc:HGNC:5409]	12522	-0.43275201320648193	0.022909353	No	
+row_16	CRIP1	cysteine rich protein 1 [Source:HGNC Symbol;Acc:HGNC:2360]	13210	-0.4440020024776459	-0.006442416	No	
+row_17	CSTA	cystatin A [Source:HGNC Symbol;Acc:HGNC:2481]	13268	-0.4440020024776459	0.010268549	No	
+row_18	FABP5	fatty acid binding protein 5 [Source:HGNC Symbol;Acc:HGNC:3560]	13341	-0.4440020024776459	0.025882782	No	

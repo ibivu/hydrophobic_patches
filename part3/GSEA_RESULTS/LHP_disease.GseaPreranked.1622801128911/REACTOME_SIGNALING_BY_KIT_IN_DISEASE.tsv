@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT3	signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	8813	-0.22912000119686127	-0.6087062	No	
+row_1	STAT5A	signal transducer and activator of transcription 5A [Source:HGNC Symbol;Acc:HGNC:11366]	10685	-0.3115389943122864	-0.6971794	Yes	
+row_2	STAT5B	signal transducer and activator of transcription 5B [Source:HGNC Symbol;Acc:HGNC:11367]	10686	-0.3115389943122864	-0.6488835	Yes	
+row_3	YES1	YES proto-oncogene 1, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:12841]	10993	-0.3582639992237091	-0.61571264	Yes	
+row_4	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	11674	-0.3753179907798767	-0.6072372	Yes	
+row_5	LYN	LYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6735]	11896	-0.39228299260139465	-0.56257915	Yes	
+row_6	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	11981	-0.39228299260139465	-0.50790644	Yes	
+row_7	PIK3R3	phosphoinositide-3-kinase regulatory subunit 3 [Source:HGNC Symbol;Acc:HGNC:8981]	11984	-0.39228299260139465	-0.44723964	Yes	
+row_8	FYN	FYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:4037]	12403	-0.43275201320648193	-0.41070852	Yes	
+row_9	LCK	LCK proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6524]	12512	-0.43275201320648193	-0.35151657	Yes	
+row_10	PIK3R2	phosphoinositide-3-kinase regulatory subunit 2 [Source:HGNC Symbol;Acc:HGNC:8980]	12765	-0.43275201320648193	-0.30285096	Yes	
+row_11	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	12766	-0.43275201320648193	-0.23576428	Yes	
+row_12	NRAS	NRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:7989]	13263	-0.4440020024776459	-0.2031909	Yes	
+row_13	KRAS	KRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:6407]	13461	-0.46675699949264526	-0.14523323	Yes	
+row_14	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	13497	-0.4821479916572571	-0.073047504	Yes	
+row_15	HRAS	HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	13615	-0.5640959739685059	0.0058479244	Yes	

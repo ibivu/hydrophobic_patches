@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BCL2	BCL2 apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:990]	2852	0.46377599239349365	-0.10995236	No	
+row_1	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	3874	0.2695389986038208	-0.12730406	No	
+row_2	TNFSF10	TNF superfamily member 10 [Source:HGNC Symbol;Acc:HGNC:11925]	4484	0.1298699975013733	-0.14422521	No	
+row_3	CD274	CD274 molecule [Source:HGNC Symbol;Acc:HGNC:17635]	4512	0.1298699975013733	-0.11858383	No	
+row_4	BAX	BCL2 associated X, apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:959]	4624	0.1298699975013733	-0.099085495	No	
+row_5	BCL2L1	BCL2 like 1 [Source:HGNC Symbol;Acc:HGNC:992]	5083	0.034876998513936996	-0.12516338	No	
+row_6	TRAF2	TNF receptor associated factor 2 [Source:HGNC Symbol;Acc:HGNC:12032]	5812	0.0331679992377758	-0.17135017	No	
+row_7	FAS	Fas cell surface death receptor [Source:HGNC Symbol;Acc:HGNC:11920]	6533	-0.05332599952816963	-0.21266544	No	
+row_8	SOD2	superoxide dismutase 2 [Source:HGNC Symbol;Acc:HGNC:11180]	6677	-0.06378699839115143	-0.2095594	No	
+row_9	BIRC5	baculoviral IAP repeat containing 5 [Source:HGNC Symbol;Acc:HGNC:593]	7056	-0.14936600625514984	-0.20544147	No	
+row_10	GADD45B	growth arrest and DNA damage inducible beta [Source:HGNC Symbol;Acc:HGNC:4096]	7060	-0.14936600625514984	-0.17389925	No	
+row_11	FTH1	ferritin heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:3976]	7713	-0.22912000119686127	-0.17286025	No	
+row_12	TP53	tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998]	9389	-0.22912000119686127	-0.24663477	Yes	
+row_13	BIRC2	baculoviral IAP repeat containing 2 [Source:HGNC Symbol;Acc:HGNC:590]	9899	-0.22912000119686127	-0.23513795	Yes	
+row_14	BIRC3	baculoviral IAP repeat containing 3 [Source:HGNC Symbol;Acc:HGNC:591]	9900	-0.22912000119686127	-0.1864172	Yes	
+row_15	AFP	alpha fetoprotein [Source:HGNC Symbol;Acc:HGNC:317]	9971	-0.22912000119686127	-0.14281568	Yes	
+row_16	TRAF1	TNF receptor associated factor 1 [Source:HGNC Symbol;Acc:HGNC:12031]	10014	-0.22912000119686127	-0.09716646	Yes	
+row_17	BCL2A1	BCL2 related protein A1 [Source:HGNC Symbol;Acc:HGNC:991]	10193	-0.27594199776649475	-0.05150676	Yes	
+row_18	XIAP	X-linked inhibitor of apoptosis [Source:HGNC Symbol;Acc:HGNC:592]	10544	-0.3115389943122864	-0.010856231	Yes	
+row_19	CFLAR	CASP8 and FADD like apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:1876]	10954	-0.34268900752067566	0.03210337	Yes	
+row_20	TNFAIP3	TNF alpha induced protein 3 [Source:HGNC Symbol;Acc:HGNC:11896]	11402	-0.3582639992237091	0.075595886	Yes	
+row_21	CASP8	caspase 8 [Source:HGNC Symbol;Acc:HGNC:1509]	13112	-0.43275201320648193	0.042635795	Yes	

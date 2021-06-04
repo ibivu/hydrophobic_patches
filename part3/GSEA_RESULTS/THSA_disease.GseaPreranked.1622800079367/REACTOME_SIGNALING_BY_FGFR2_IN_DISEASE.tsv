@@ -1,0 +1,35 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	4635	-0.09702400118112564	-0.33709815	No	
+row_1	NCBP1	nuclear cap binding protein subunit 1 [Source:HGNC Symbol;Acc:HGNC:7658]	4694	-0.1128619983792305	-0.33882624	No	
+row_2	FGF23	fibroblast growth factor 23 [Source:HGNC Symbol;Acc:HGNC:3680]	5347	-0.25810301303863525	-0.3807931	No	
+row_3	FGF5	fibroblast growth factor 5 [Source:HGNC Symbol;Acc:HGNC:3683]	7183	-0.6255859732627869	-0.5011542	No	
+row_4	FGF6	fibroblast growth factor 6 [Source:HGNC Symbol;Acc:HGNC:3684]	7910	-0.7597619891166687	-0.5373485	No	
+row_5	FGF10	fibroblast growth factor 10 [Source:HGNC Symbol;Acc:HGNC:3666]	8365	-0.8528739809989929	-0.5515568	Yes	
+row_6	FGF4	fibroblast growth factor 4 [Source:HGNC Symbol;Acc:HGNC:3682]	8419	-0.8617569804191589	-0.5362155	Yes	
+row_7	FGF3	fibroblast growth factor 3 [Source:HGNC Symbol;Acc:HGNC:3681]	8744	-0.9184960126876831	-0.53944474	Yes	
+row_8	FGF8	fibroblast growth factor 8 [Source:HGNC Symbol;Acc:HGNC:3686]	8991	-0.9662690162658691	-0.53589916	Yes	
+row_9	FGF2	fibroblast growth factor 2 [Source:HGNC Symbol;Acc:HGNC:3676]	9146	-0.9926419854164124	-0.5250314	Yes	
+row_10	FGF7	fibroblast growth factor 7 [Source:HGNC Symbol;Acc:HGNC:3685]	9307	-1.0240240097045898	-0.51390284	Yes	
+row_11	FGF18	fibroblast growth factor 18 [Source:HGNC Symbol;Acc:HGNC:3674]	10153	-1.1847970485687256	-0.54932743	Yes	
+row_12	FGF20	fibroblast growth factor 20 [Source:HGNC Symbol;Acc:HGNC:3677]	10495	-1.254402995109558	-0.54630893	Yes	
+row_13	POLR2C	RNA polymerase II subunit C [Source:HGNC Symbol;Acc:HGNC:9189]	10634	-1.283682942390442	-0.5277786	Yes	
+row_14	POLR2F	RNA polymerase II subunit F [Source:HGNC Symbol;Acc:HGNC:9193]	10871	-1.3285750150680542	-0.5154202	Yes	
+row_15	FGF17	fibroblast growth factor 17 [Source:HGNC Symbol;Acc:HGNC:3673]	11087	-1.3731260299682617	-0.500531	Yes	
+row_16	FGF16	fibroblast growth factor 16 [Source:HGNC Symbol;Acc:HGNC:3672]	11170	-1.3923319578170776	-0.4754784	Yes	
+row_17	FGF22	fibroblast growth factor 22 [Source:HGNC Symbol;Acc:HGNC:3679]	11225	-1.4026960134506226	-0.44814518	Yes	
+row_18	GTF2F2	general transcription factor IIF subunit 2 [Source:HGNC Symbol;Acc:HGNC:4653]	11346	-1.4300240278244019	-0.42503333	Yes	
+row_19	FGF9	fibroblast growth factor 9 [Source:HGNC Symbol;Acc:HGNC:3687]	11380	-1.4367460012435913	-0.39540353	Yes	
+row_20	NCBP2	nuclear cap binding protein subunit 2 [Source:HGNC Symbol;Acc:HGNC:7659]	11966	-1.5533080101013184	-0.40357798	Yes	
+row_21	POLR2H	RNA polymerase II subunit H [Source:HGNC Symbol;Acc:HGNC:9195]	12209	-1.609009027481079	-0.38540393	Yes	
+row_22	POLR2G	RNA polymerase II subunit G [Source:HGNC Symbol;Acc:HGNC:9194]	12419	-1.6505110263824463	-0.36388877	Yes	
+row_23	POLR2D	RNA polymerase II subunit D [Source:HGNC Symbol;Acc:HGNC:9191]	12454	-1.6580040454864502	-0.3293972	Yes	
+row_24	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	12851	-1.7407289743423462	-0.3195574	Yes	
+row_25	POLR2E	RNA polymerase II subunit E [Source:HGNC Symbol;Acc:HGNC:9192]	13050	-1.782565951347351	-0.29429173	Yes	
+row_26	NRAS	NRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:7989]	13088	-1.7977110147476196	-0.25690374	Yes	
+row_27	POLR2J	RNA polymerase II subunit J [Source:HGNC Symbol;Acc:HGNC:9197]	13194	-1.8300100564956665	-0.22377264	Yes	
+row_28	KRAS	KRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:6407]	13198	-1.8317240476608276	-0.18313737	Yes	
+row_29	POLR2L	RNA polymerase II subunit L [Source:HGNC Symbol;Acc:HGNC:9199]	13325	-1.8825080394744873	-0.15037248	Yes	
+row_30	POLR2I	RNA polymerase II subunit I [Source:HGNC Symbol;Acc:HGNC:9196]	13374	-1.902001976966858	-0.111463524	Yes	
+row_31	HRAS	HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	13425	-1.9290900230407715	-0.072096795	Yes	
+row_32	FGF1	fibroblast growth factor 1 [Source:HGNC Symbol;Acc:HGNC:3665]	13508	-1.9788340330123901	-0.03396283	Yes	
+row_33	POLR2K	RNA polymerase II subunit K [Source:HGNC Symbol;Acc:HGNC:9198]	13647	-2.1331229209899902	0.003513439	Yes	

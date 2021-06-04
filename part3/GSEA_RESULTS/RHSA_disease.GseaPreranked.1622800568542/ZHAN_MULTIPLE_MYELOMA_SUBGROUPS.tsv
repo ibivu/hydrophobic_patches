@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	C1D	C1D nuclear receptor corepressor [Source:HGNC Symbol;Acc:HGNC:29911]	3638	-0.18479900062084198	-0.25994143	No	
+row_1	PSMD14	proteasome 26S subunit, non-ATPase 14 [Source:HGNC Symbol;Acc:HGNC:16889]	5186	-0.5894579887390137	-0.35347602	No	
+row_2	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide [Source:HGNC Symbol;Acc:HGNC:11160]	5228	-0.5970119833946228	-0.3366071	No	
+row_3	CKS1B	CDC28 protein kinase regulatory subunit 1B [Source:HGNC Symbol;Acc:HGNC:19083]	5453	-0.6420699954032898	-0.3316237	No	
+row_4	EIF2B1	eukaryotic translation initiation factor 2B subunit alpha [Source:HGNC Symbol;Acc:HGNC:3257]	7153	-0.888804018497467	-0.4263141	No	
+row_5	UBE2V2	ubiquitin conjugating enzyme E2 V2 [Source:HGNC Symbol;Acc:HGNC:12495]	7517	-0.9347500205039978	-0.42175746	No	
+row_6	CSNK2B	casein kinase 2 beta [Source:HGNC Symbol;Acc:HGNC:2460]	7690	-0.9578719735145569	-0.40246123	No	
+row_7	DFFA	DNA fragmentation factor subunit alpha [Source:HGNC Symbol;Acc:HGNC:2772]	9103	-1.1131689548492432	-0.46869323	Yes	
+row_8	XRCC6	X-ray repair cross complementing 6 [Source:HGNC Symbol;Acc:HGNC:4055]	9193	-1.1233869791030884	-0.43781808	Yes	
+row_9	TYMS	thymidylate synthetase [Source:HGNC Symbol;Acc:HGNC:12441]	9461	-1.1492290496826172	-0.41910222	Yes	
+row_10	CCT4	chaperonin containing TCP1 subunit 4 [Source:HGNC Symbol;Acc:HGNC:1617]	10452	-1.2524549961090088	-0.44983298	Yes	
+row_11	POLD2	DNA polymerase delta 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9176]	10602	-1.2668499946594238	-0.4185721	Yes	
+row_12	MTIF2	mitochondrial translational initiation factor 2 [Source:HGNC Symbol;Acc:HGNC:7441]	10662	-1.272428035736084	-0.38054278	Yes	
+row_13	EIF2S1	eukaryotic translation initiation factor 2 subunit alpha [Source:HGNC Symbol;Acc:HGNC:3265]	11879	-1.4050509929656982	-0.42272547	Yes	
+row_14	FNTA	farnesyltransferase, CAAX box, alpha [Source:HGNC Symbol;Acc:HGNC:3782]	11932	-1.4112939834594727	-0.37956288	Yes	
+row_15	FKBP1A	FKBP prolyl isomerase 1A [Source:HGNC Symbol;Acc:HGNC:3711]	12488	-1.4869229793548584	-0.37067398	Yes	
+row_16	EZH2	enhancer of zeste 2 polycomb repressive complex 2 subunit [Source:HGNC Symbol;Acc:HGNC:3527]	13028	-1.5888899564743042	-0.35722148	Yes	
+row_17	CDC6	cell division cycle 6 [Source:HGNC Symbol;Acc:HGNC:1744]	13104	-1.6055020093917847	-0.3092782	Yes	
+row_18	ACO2	aconitase 2 [Source:HGNC Symbol;Acc:HGNC:118]	13262	-1.65134596824646	-0.26580694	Yes	
+row_19	PRIM1	DNA primase subunit 1 [Source:HGNC Symbol;Acc:HGNC:9369]	13416	-1.7077629566192627	-0.22016564	Yes	
+row_20	UGP2	UDP-glucose pyrophosphorylase 2 [Source:HGNC Symbol;Acc:HGNC:12527]	13428	-1.7123780250549316	-0.16398455	Yes	
+row_21	EWSR1	EWS RNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3508]	13467	-1.7331650257110596	-0.10908655	Yes	
+row_22	RANBP1	RAN binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9847]	13581	-1.8202669620513916	-0.05677557	Yes	
+row_23	SUMO1	small ubiquitin like modifier 1 [Source:HGNC Symbol;Acc:HGNC:12502]	13642	-1.9544249773025513	0.0038765485	Yes	

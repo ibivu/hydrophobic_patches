@@ -1,0 +1,36 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RAF1	Raf-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:9829]	2033	0.5820419788360596	-0.12907799	No	
+row_1	GATA4	GATA binding protein 4 [Source:HGNC Symbol;Acc:HGNC:4173]	2307	0.4934149980545044	-0.13232782	No	
+row_2	NKX2-5	NK2 homeobox 5 [Source:HGNC Symbol;Acc:HGNC:2488]	4093	0.039758000522851944	-0.26164338	No	
+row_3	CAMK4	calcium/calmodulin dependent protein kinase IV [Source:HGNC Symbol;Acc:HGNC:1464]	4127	0.031575001776218414	-0.26298815	No	
+row_4	F2	coagulation factor II, thrombin [Source:HGNC Symbol;Acc:HGNC:3535]	4336	-0.019718000665307045	-0.27754524	No	
+row_5	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	4635	-0.09702400118112564	-0.2960686	No	
+row_6	RPS6KB1	ribosomal protein S6 kinase B1 [Source:HGNC Symbol;Acc:HGNC:10436]	4698	-0.11330600082874298	-0.29676434	No	
+row_7	AGT	angiotensinogen [Source:HGNC Symbol;Acc:HGNC:333]	4806	-0.13542400300502777	-0.30000398	No	
+row_8	CAMK1G	calcium/calmodulin dependent protein kinase IG [Source:HGNC Symbol;Acc:HGNC:14585]	5525	-0.29750001430511475	-0.34247273	No	
+row_9	PPP3CB	protein phosphatase 3 catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9315]	6897	-0.5737329721450806	-0.4233734	No	
+row_10	PRKAR2B	protein kinase cAMP-dependent type II regulatory subunit beta [Source:HGNC Symbol;Acc:HGNC:9392]	6945	-0.5827860236167908	-0.4070488	No	
+row_11	PPP3CA	protein phosphatase 3 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9314]	7636	-0.7114080190658569	-0.4334303	Yes	
+row_12	PPP3CC	protein phosphatase 3 catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:9316]	7722	-0.7252359986305237	-0.4150562	Yes	
+row_13	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	8040	-0.7857760190963745	-0.41161153	Yes	
+row_14	MAPK8	mitogen-activated protein kinase 8 [Source:HGNC Symbol;Acc:HGNC:6881]	8298	-0.8376960158348083	-0.40201396	Yes	
+row_15	PRKAR1B	protein kinase cAMP-dependent type I regulatory subunit beta [Source:HGNC Symbol;Acc:HGNC:9390]	8335	-0.847540020942688	-0.37590507	Yes	
+row_16	PRKAR1A	protein kinase cAMP-dependent type I regulatory subunit alpha [Source:HGNC Symbol;Acc:HGNC:9388]	8431	-0.8632990121841431	-0.3535806	Yes	
+row_17	PRKAR2A	protein kinase cAMP-dependent type II regulatory subunit alpha [Source:HGNC Symbol;Acc:HGNC:9391]	8539	-0.8850409984588623	-0.33139715	Yes	
+row_18	GSK3B	glycogen synthase kinase 3 beta [Source:HGNC Symbol;Acc:HGNC:4617]	9088	-0.9818620085716248	-0.33821175	Yes	
+row_19	CAMK1	calcium/calmodulin dependent protein kinase I [Source:HGNC Symbol;Acc:HGNC:1459]	9091	-0.9819689989089966	-0.3050549	Yes	
+row_20	FGF2	fibroblast growth factor 2 [Source:HGNC Symbol;Acc:HGNC:3676]	9146	-0.9926419854164124	-0.27534255	Yes	
+row_21	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	9481	-1.06045401096344	-0.26382667	Yes	
+row_22	EDN1	endothelin 1 [Source:HGNC Symbol;Acc:HGNC:3176]	9554	-1.0702370405197144	-0.2328003	Yes	
+row_23	ELSPBP1	epididymal sperm binding protein 1 [Source:HGNC Symbol;Acc:HGNC:14417]	9679	-1.0912879705429077	-0.20486647	Yes	
+row_24	MAP2K1	mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	9886	-1.133923053741455	-0.18148917	Yes	
+row_25	CSNK1A1	casein kinase 1 alpha 1 [Source:HGNC Symbol;Acc:HGNC:2451]	9994	-1.1533039808273315	-0.15020765	Yes	
+row_26	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	9996	-1.154162049293518	-0.111137725	Yes	
+row_27	ACTA1	actin alpha 1, skeletal muscle [Source:HGNC Symbol;Acc:HGNC:129]	9999	-1.1546419858932495	-0.07212472	Yes	
+row_28	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	10108	-1.1748369932174683	-0.04018612	Yes	
+row_29	PRKACB	protein kinase cAMP-activated catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9381]	10175	-1.190940022468567	-0.004626948	Yes	
+row_30	PRKACG	protein kinase cAMP-activated catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:9382]	10449	-1.244372010231018	0.017591733	Yes	
+row_31	MAPK14	mitogen-activated protein kinase 14 [Source:HGNC Symbol;Acc:HGNC:6876]	10635	-1.2837090492248535	0.047586218	Yes	
+row_32	CTF1	cardiotrophin 1 [Source:HGNC Symbol;Acc:HGNC:2499]	10730	-1.3020700216293335	0.08486471	Yes	
+row_33	HRAS	HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	13425	-1.9290900230407715	-0.04691438	Yes	
+row_34	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	13485	-1.9639079570770264	0.0153722195	Yes	

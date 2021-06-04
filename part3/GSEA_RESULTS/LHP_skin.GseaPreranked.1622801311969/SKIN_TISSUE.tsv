@@ -1,0 +1,70 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	OPN1MW2	opsin 1, medium wave sensitive 2 [Source:HGNC Symbol;Acc:HGNC:26952]	751	2.8327879905700684	0.07350751	Yes	
+row_1	CLEC2A	C-type lectin domain family 2 member A [Source:HGNC Symbol;Acc:HGNC:24191]	2132	1.4168059825897217	0.036566027	Yes	
+row_2	IGFL3	IGF like family member 3 [Source:HGNC Symbol;Acc:HGNC:32930]	2405	1.008978009223938	0.062416855	Yes	
+row_3	CST6	cystatin E/M [Source:HGNC Symbol;Acc:HGNC:2478]	2409	1.008978009223938	0.10800791	Yes	
+row_4	KRTAP19-1	keratin associated protein 19-1 [Source:HGNC Symbol;Acc:HGNC:18936]	2637	0.710303008556366	0.123600096	Yes	
+row_5	KRTAP12-2	keratin associated protein 12-2 [Source:HGNC Symbol;Acc:HGNC:20530]	2643	0.6967179775238037	0.15486667	Yes	
+row_6	KRTAP4-8	keratin associated protein 4-8 [Source:HGNC Symbol;Acc:HGNC:17230]	2884	0.46377599239349365	0.15831165	Yes	
+row_7	KRTAP4-5	keratin associated protein 4-5 [Source:HGNC Symbol;Acc:HGNC:18899]	2885	0.46377599239349365	0.17936873	Yes	
+row_8	KRT35	keratin 35 [Source:HGNC Symbol;Acc:HGNC:6453]	3086	0.45469799637794495	0.1853369	Yes	
+row_9	KRT82	keratin 82 [Source:HGNC Symbol;Acc:HGNC:6459]	3090	0.45469799637794495	0.20576167	Yes	
+row_10	KRTAP16-1	keratin associated protein 16-1 [Source:HGNC Symbol;Acc:HGNC:18916]	3284	0.35970398783683777	0.20793045	Yes	
+row_11	KRT27	keratin 27 [Source:HGNC Symbol;Acc:HGNC:30841]	3390	0.35970398783683777	0.21655701	Yes	
+row_12	KRT38	keratin 38 [Source:HGNC Symbol;Acc:HGNC:6456]	3392	0.35970398783683777	0.23281546	Yes	
+row_13	KRT37	keratin 37 [Source:HGNC Symbol;Acc:HGNC:6455]	3393	0.35970398783683777	0.24914731	Yes	
+row_14	KRT83	keratin 83 [Source:HGNC Symbol;Acc:HGNC:6460]	3412	0.35970398783683777	0.26415825	Yes	
+row_15	NKPD1	NTPase KAP family P-loop domain containing 1 [Source:HGNC Symbol;Acc:HGNC:24739]	3415	0.35970398783683777	0.28034332	Yes	
+row_16	KRTAP4-7	keratin associated protein 4-7 [Source:HGNC Symbol;Acc:HGNC:18898]	3452	0.3487350046634674	0.29353532	Yes	
+row_17	KRT25	keratin 25 [Source:HGNC Symbol;Acc:HGNC:30839]	3635	0.3242790102958679	0.29490292	Yes	
+row_18	KRT39	keratin 39 [Source:HGNC Symbol;Acc:HGNC:32971]	3636	0.3242790102958679	0.30962634	Yes	
+row_19	KRT77	keratin 77 [Source:HGNC Symbol;Acc:HGNC:20411]	3640	0.3242790102958679	0.3241296	Yes	
+row_20	KRTAP10-4	keratin associated protein 10-4 [Source:HGNC Symbol;Acc:HGNC:20521]	3698	0.30325499176979065	0.3337156	Yes	
+row_21	KRTAP9-7	keratin associated protein 9-7 [Source:HGNC Symbol;Acc:HGNC:18915]	3785	0.2695389986038208	0.3396426	Yes	
+row_22	KRTAP9-3	keratin associated protein 9-3 [Source:HGNC Symbol;Acc:HGNC:16927]	3786	0.2695389986038208	0.35188067	Yes	
+row_23	KRTAP4-4	keratin associated protein 4-4 [Source:HGNC Symbol;Acc:HGNC:16928]	3810	0.2695389986038208	0.36243087	Yes	
+row_24	KRTAP10-9	keratin associated protein 10-9 [Source:HGNC Symbol;Acc:HGNC:22971]	3823	0.2695389986038208	0.3737883	Yes	
+row_25	KRTAP10-10	keratin associated protein 10-10 [Source:HGNC Symbol;Acc:HGNC:22972]	3835	0.2695389986038208	0.3852191	Yes	
+row_26	KRTAP10-8	keratin associated protein 10-8 [Source:HGNC Symbol;Acc:HGNC:20525]	4078	0.2255460023880005	0.37770084	Yes	
+row_27	KRTAP4-2	keratin associated protein 4-2 [Source:HGNC Symbol;Acc:HGNC:18900]	4130	0.18986499309539795	0.38257882	Yes	
+row_28	KRTAP8-1	keratin associated protein 8-1 [Source:HGNC Symbol;Acc:HGNC:18935]	4173	0.17905600368976593	0.38762647	Yes	
+row_29	KRTAP6-1	keratin associated protein 6-1 [Source:HGNC Symbol;Acc:HGNC:18931]	4175	0.17905600368976593	0.39568287	Yes	
+row_30	KRTAP19-4	keratin associated protein 19-4 [Source:HGNC Symbol;Acc:HGNC:18939]	4180	0.17905600368976593	0.40351912	Yes	
+row_31	KRTAP19-7	keratin associated protein 19-7 [Source:HGNC Symbol;Acc:HGNC:18942]	4181	0.17905600368976593	0.4116489	Yes	
+row_32	KRTAP12-1	keratin associated protein 12-1 [Source:HGNC Symbol;Acc:HGNC:20529]	4199	0.17283600568771362	0.41824877	Yes	
+row_33	KRTAP20-2	keratin associated protein 20-2 [Source:HGNC Symbol;Acc:HGNC:18944]	4278	0.14962099492549896	0.41931817	Yes	
+row_34	KRTAP19-5	keratin associated protein 19-5 [Source:HGNC Symbol;Acc:HGNC:18940]	4282	0.14962099492549896	0.42589134	Yes	
+row_35	KRTAP9-2	keratin associated protein 9-2 [Source:HGNC Symbol;Acc:HGNC:16926]	4354	0.1298699975013733	0.42657766	Yes	
+row_36	LIPM	lipase family member M [Source:HGNC Symbol;Acc:HGNC:23455]	4400	0.1298699975013733	0.42917195	Yes	
+row_37	LIPK	lipase family member K [Source:HGNC Symbol;Acc:HGNC:23444]	4401	0.1298699975013733	0.43506852	Yes	
+row_38	KRTAP10-12	keratin associated protein 10-12 [Source:HGNC Symbol;Acc:HGNC:20533]	4444	0.1298699975013733	0.43788296	Yes	
+row_39	KRTAP9-6	keratin associated protein 9-6 [Source:HGNC Symbol;Acc:HGNC:18914]	4648	0.0824659988284111	0.4267303	No	
+row_40	KRTAP4-1	keratin associated protein 4-1 [Source:HGNC Symbol;Acc:HGNC:18907]	4650	0.0824659988284111	0.43040118	No	
+row_41	C1orf68	chromosome 1 open reading frame 68 [Source:HGNC Symbol;Acc:HGNC:29468]	5194	0.034876998513936996	0.39213735	No	
+row_42	ASPRV1	aspartic peptidase retroviral like 1 [Source:HGNC Symbol;Acc:HGNC:26321]	5378	0.034876998513936996	0.38029167	No	
+row_43	WFDC5	WAP four-disulfide core domain 5 [Source:HGNC Symbol;Acc:HGNC:20477]	5437	0.034876998513936996	0.37761894	No	
+row_44	KRT33B	keratin 33B [Source:HGNC Symbol;Acc:HGNC:6451]	5807	0.0331679992377758	0.3520463	No	
+row_45	KRTAP24-1	keratin associated protein 24-1 [Source:HGNC Symbol;Acc:HGNC:33902]	6064	-5.489999894052744E-4	0.333285	No	
+row_46	IL37	interleukin 37 [Source:HGNC Symbol;Acc:HGNC:15563]	6571	-0.05332599952816963	0.29857403	No	
+row_47	KRTAP1-5	keratin associated protein 1-5 [Source:HGNC Symbol;Acc:HGNC:16777]	6704	-0.0923909991979599	0.29308227	No	
+row_48	KRTAP2-4	keratin associated protein 2-4 [Source:HGNC Symbol;Acc:HGNC:18891]	6709	-0.0923909991979599	0.2969836	No	
+row_49	KRTAP2-3	keratin associated protein 2-3 [Source:HGNC Symbol;Acc:HGNC:18906]	6710	-0.0923909991979599	0.3011785	No	
+row_50	KRTAP2-1	keratin associated protein 2-1 [Source:HGNC Symbol;Acc:HGNC:16775]	6711	-0.0923909991979599	0.30537337	No	
+row_51	KRTAP1-1	keratin associated protein 1-1 [Source:HGNC Symbol;Acc:HGNC:16772]	6893	-0.11170800030231476	0.29716286	No	
+row_52	KRTAP2-2	keratin associated protein 2-2 [Source:HGNC Symbol;Acc:HGNC:18905]	6974	-0.14475500583648682	0.29786456	No	
+row_53	CCL27	C-C motif chemokine ligand 27 [Source:HGNC Symbol;Acc:HGNC:10626]	6975	-0.14475500583648682	0.30443695	No	
+row_54	KRTAP23-1	keratin associated protein 23-1 [Source:HGNC Symbol;Acc:HGNC:18928]	7065	-0.1494709998369217	0.3046923	No	
+row_55	KRT33A	keratin 33A [Source:HGNC Symbol;Acc:HGNC:6450]	7164	-0.1995760053396225	0.30656216	No	
+row_56	ALOXE3	arachidonate lipoxygenase 3 [Source:HGNC Symbol;Acc:HGNC:13743]	8762	-0.22912000119686127	0.19977123	No	
+row_57	KRT2	keratin 2 [Source:HGNC Symbol;Acc:HGNC:6439]	9114	-0.22912000119686127	0.18441641	No	
+row_58	KRT1	keratin 1 [Source:HGNC Symbol;Acc:HGNC:6412]	9115	-0.22912000119686127	0.19481927	No	
+row_59	KRT10	keratin 10 [Source:HGNC Symbol;Acc:HGNC:6413]	9647	-0.22912000119686127	0.16625538	No	
+row_60	SERPINA12	serpin family A member 12 [Source:HGNC Symbol;Acc:HGNC:18359]	9789	-0.22912000119686127	0.16631114	No	
+row_61	KRTAP1-4	keratin associated protein 1-4 [Source:HGNC Symbol;Acc:HGNC:18904]	10100	-0.23037999868392944	0.15402226	No	
+row_62	KRTAP3-1	keratin associated protein 3-1 [Source:HGNC Symbol;Acc:HGNC:16778]	10109	-0.23037999868392944	0.16389526	No	
+row_63	MT4	metallothionein 4 [Source:HGNC Symbol;Acc:HGNC:18705]	10248	-0.28593799471855164	0.16675092	No	
+row_64	FABP9	fatty acid binding protein 9 [Source:HGNC Symbol;Acc:HGNC:3563]	10478	-0.30455800890922546	0.16377407	No	
+row_65	GAN	gigaxonin [Source:HGNC Symbol;Acc:HGNC:4137]	10523	-0.3115389943122864	0.17469017	No	
+row_66	FAM25G	family with sequence similarity 25 member G [Source:HGNC Symbol;Acc:HGNC:23590]	10831	-0.3208869993686676	0.16673078	No	
+row_67	NEU2	neuraminidase 2 [Source:HGNC Symbol;Acc:HGNC:7759]	10992	-0.3582639992237091	0.17125584	No	
+row_68	CASP14	caspase 14 [Source:HGNC Symbol;Acc:HGNC:1502]	13643	-0.5952630043029785	0.0038160486	No	

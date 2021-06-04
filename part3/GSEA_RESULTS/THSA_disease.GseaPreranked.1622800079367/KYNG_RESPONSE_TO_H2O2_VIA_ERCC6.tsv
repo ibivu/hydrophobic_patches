@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CUX1	cut like homeobox 1 [Source:HGNC Symbol;Acc:HGNC:2557]	862	1.213109016418457	0.004766787	No	
+row_1	FLOT2	flotillin 2 [Source:HGNC Symbol;Acc:HGNC:3758]	4137	0.029746999964118004	-0.23288131	No	
+row_2	TRIM58	tripartite motif containing 58 [Source:HGNC Symbol;Acc:HGNC:24150]	4586	-0.08692199736833572	-0.2607713	No	
+row_3	CKMT2	creatine kinase, mitochondrial 2 [Source:HGNC Symbol;Acc:HGNC:1996]	8406	-0.8602250218391418	-0.49185857	No	
+row_4	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	9569	-1.0728060007095337	-0.51685846	Yes	
+row_5	UNG	uracil DNA glycosylase [Source:HGNC Symbol;Acc:HGNC:12572]	10154	-1.1850470304489136	-0.49333927	Yes	
+row_6	CTSS	cathepsin S [Source:HGNC Symbol;Acc:HGNC:2545]	10248	-1.2033510208129883	-0.4329083	Yes	
+row_7	CDC34	cell division cycle 34, ubiqiutin conjugating enzyme [Source:HGNC Symbol;Acc:HGNC:1734]	10399	-1.2343829870224	-0.37491	Yes	
+row_8	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	10644	-1.2848210334777832	-0.32096466	Yes	
+row_9	RCC1	regulator of chromosome condensation 1 [Source:HGNC Symbol;Acc:HGNC:1913]	11044	-1.3651700019836426	-0.27386	Yes	
+row_10	CRYAB	crystallin alpha B [Source:HGNC Symbol;Acc:HGNC:2389]	11682	-1.496914029121399	-0.23679143	Yes	
+row_11	DNAJB1	DnaJ heat shock protein family (Hsp40) member B1 [Source:HGNC Symbol;Acc:HGNC:5270]	12093	-1.584285020828247	-0.1782493	Yes	
+row_12	RPL21	ribosomal protein L21 [Source:HGNC Symbol;Acc:HGNC:10313]	12410	-1.6493769884109497	-0.109199755	Yes	
+row_13	OAZ2	ornithine decarboxylase antizyme 2 [Source:HGNC Symbol;Acc:HGNC:8096]	12446	-1.6558849811553955	-0.01924719	Yes	
+row_14	RPL31	ribosomal protein L31 [Source:HGNC Symbol;Acc:HGNC:10334]	13506	-1.977316975593567	0.013814783	Yes	

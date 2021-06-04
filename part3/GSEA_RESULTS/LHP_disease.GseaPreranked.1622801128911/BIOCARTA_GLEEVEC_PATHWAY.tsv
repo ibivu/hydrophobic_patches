@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	JUN	Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]	4704	0.06859300285577774	-0.32983285	No	
+row_1	MYC	MYC proto-oncogene, bHLH transcription factor [Source:HGNC Symbol;Acc:HGNC:7553]	8212	-0.22912000119686127	-0.5394042	Yes	
+row_2	RAF1	Raf-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:9829]	8715	-0.22912000119686127	-0.52932787	Yes	
+row_3	MAPK8	mitogen-activated protein kinase 8 [Source:HGNC Symbol;Acc:HGNC:6881]	9137	-0.22912000119686127	-0.51333094	Yes	
+row_4	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	9141	-0.22912000119686127	-0.46678066	Yes	
+row_5	CRKL	CRK like proto-oncogene, adaptor protein [Source:HGNC Symbol;Acc:HGNC:2363]	10316	-0.29361799359321594	-0.49265775	Yes	
+row_6	STAT5A	signal transducer and activator of transcription 5A [Source:HGNC Symbol;Acc:HGNC:11366]	10685	-0.3115389943122864	-0.4559629	Yes	
+row_7	STAT5B	signal transducer and activator of transcription 5B [Source:HGNC Symbol;Acc:HGNC:11367]	10686	-0.3115389943122864	-0.3923694	Yes	
+row_8	MAP2K4	mitogen-activated protein kinase kinase 4 [Source:HGNC Symbol;Acc:HGNC:6844]	11296	-0.3582639992237091	-0.36375237	Yes	
+row_9	MAP2K1	mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	11688	-0.3753179907798767	-0.31571966	Yes	
+row_10	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	11910	-0.39228299260139465	-0.25179794	Yes	
+row_11	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	11981	-0.39228299260139465	-0.17683901	Yes	
+row_12	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	12766	-0.43275201320648193	-0.14580844	Yes	
+row_13	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	13497	-0.4821479916572571	-0.100747734	Yes	
+row_14	HRAS	HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	13615	-0.5640959739685059	0.0058474154	Yes	

@@ -1,0 +1,24 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EXTL2	exostosin like glycosyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:3516]	2740	0.562470018863678	-0.1138009	No	
+row_1	DCBLD2	discoidin, CUB and LCCL domain containing 2 [Source:HGNC Symbol;Acc:HGNC:24627]	3220	0.35970398783683777	-0.09345587	No	
+row_2	INO80C	INO80 complex subunit C [Source:HGNC Symbol;Acc:HGNC:26994]	4430	0.1298699975013733	-0.16188441	No	
+row_3	DHRS1	dehydrogenase/reductase 1 [Source:HGNC Symbol;Acc:HGNC:16445]	4440	0.1298699975013733	-0.14254875	No	
+row_4	MMAB	metabolism of cobalamin associated B [Source:HGNC Symbol;Acc:HGNC:19331]	5118	0.034876998513936996	-0.18669297	No	
+row_5	CA12	carbonic anhydrase 12 [Source:HGNC Symbol;Acc:HGNC:1371]	5601	0.034876998513936996	-0.2165755	No	
+row_6	RRM2	ribonucleotide reductase regulatory subunit M2 [Source:HGNC Symbol;Acc:HGNC:10452]	5837	-5.489999894052744E-4	-0.23367813	No	
+row_7	FANCL	FA complementation group L [Source:HGNC Symbol;Acc:HGNC:20748]	8041	-0.22912000119686127	-0.35952485	Yes	
+row_8	CSTF3	cleavage stimulation factor subunit 3 [Source:HGNC Symbol;Acc:HGNC:2485]	8074	-0.22912000119686127	-0.32659146	Yes	
+row_9	LIPG	lipase G, endothelial type [Source:HGNC Symbol;Acc:HGNC:6623]	8116	-0.22912000119686127	-0.29431632	Yes	
+row_10	TIA1	TIA1 cytotoxic granule associated RNA binding protein [Source:HGNC Symbol;Acc:HGNC:11802]	8826	-0.22912000119686127	-0.3108966	Yes	
+row_11	CSNK1A1	casein kinase 1 alpha 1 [Source:HGNC Symbol;Acc:HGNC:2451]	9076	-0.22912000119686127	-0.2938339	Yes	
+row_12	FERMT1	fermitin family member 1 [Source:HGNC Symbol;Acc:HGNC:15889]	9873	-0.22912000119686127	-0.31677708	Yes	
+row_13	LSS	lanosterol synthase [Source:HGNC Symbol;Acc:HGNC:6708]	11154	-0.3582639992237091	-0.35523638	Yes	
+row_14	ZNF12	zinc finger protein 12 [Source:HGNC Symbol;Acc:HGNC:12902]	11256	-0.3582639992237091	-0.3074673	Yes	
+row_15	TNFAIP3	TNF alpha induced protein 3 [Source:HGNC Symbol;Acc:HGNC:11896]	11402	-0.3582639992237091	-0.26291627	Yes	
+row_16	CASP1	caspase 1 [Source:HGNC Symbol;Acc:HGNC:1499]	11509	-0.3582639992237091	-0.2155129	Yes	
+row_17	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	11674	-0.3753179907798767	-0.16972594	Yes	
+row_18	ARIH1	ariadne RBR E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:689]	12008	-0.39228299260139465	-0.1336873	Yes	
+row_19	MARK3	microtubule affinity regulating kinase 3 [Source:HGNC Symbol;Acc:HGNC:6897]	12016	-0.39228299260139465	-0.07380605	Yes	
+row_20	ORC2	origin recognition complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:8488]	12154	-0.4101009964942932	-0.02068944	Yes	
+row_21	DMTF1	cyclin D binding myb like transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:14603]	12307	-0.43275201320648193	0.034817304	Yes	
+row_22	SERPINB2	serpin family B member 2 [Source:HGNC Symbol;Acc:HGNC:8584]	12462	-0.43275201320648193	0.090177774	Yes	

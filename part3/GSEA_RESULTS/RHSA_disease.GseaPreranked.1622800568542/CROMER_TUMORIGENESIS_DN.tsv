@@ -1,0 +1,41 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLN	sarcolipin [Source:HGNC Symbol;Acc:HGNC:11089]	8	3.233513116836548	0.07587395	Yes	
+row_1	EMP1	epithelial membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:3333]	29	2.797600030899048	0.14056155	Yes	
+row_2	MAL	mal, T cell differentiation protein [Source:HGNC Symbol;Acc:HGNC:6817]	30	2.7850210666656494	0.20641626	Yes	
+row_3	AQP3	aquaporin 3 (Gill blood group) [Source:HGNC Symbol;Acc:HGNC:636]	746	1.653939962387085	0.19316745	Yes	
+row_4	SMAGP	small cell adhesion glycoprotein [Source:HGNC Symbol;Acc:HGNC:26918]	1096	1.3365579843521118	0.19921522	Yes	
+row_5	PSCA	prostate stem cell antigen [Source:HGNC Symbol;Acc:HGNC:9500]	1357	1.125802993774414	0.20679675	Yes	
+row_6	TFF3	trefoil factor 3 [Source:HGNC Symbol;Acc:HGNC:11757]	1525	1.006127953529358	0.21835864	Yes	
+row_7	SLURP1	secreted LY6/PLAUR domain containing 1 [Source:HGNC Symbol;Acc:HGNC:18746]	1573	0.9686170220375061	0.23782088	Yes	
+row_8	COX6A2	cytochrome c oxidase subunit 6A2 [Source:HGNC Symbol;Acc:HGNC:2279]	2208	0.5217689871788025	0.20373216	No	
+row_9	APOD	apolipoprotein D [Source:HGNC Symbol;Acc:HGNC:612]	2896	0.12166500091552734	0.15630151	No	
+row_10	MSMB	microseminoprotein beta [Source:HGNC Symbol;Acc:HGNC:7372]	2968	0.08657199889421463	0.15314941	No	
+row_11	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1 [Source:HGNC Symbol;Acc:HGNC:4944]	3701	-0.20935900509357452	0.10449711	No	
+row_12	PLA2G2A	phospholipase A2 group IIA [Source:HGNC Symbol;Acc:HGNC:9031]	3802	-0.2391429990530014	0.102829106	No	
+row_13	UGT1A4	UDP glucuronosyltransferase family 1 member A4 [Source:HGNC Symbol;Acc:HGNC:12536]	3947	-0.2763330042362213	0.09881847	No	
+row_14	CLEC3B	C-type lectin domain family 3 member B [Source:HGNC Symbol;Acc:HGNC:11891]	3986	-0.2883929908275604	0.10285516	No	
+row_15	PTGDS	prostaglandin D2 synthase [Source:HGNC Symbol;Acc:HGNC:9592]	4757	-0.4975830018520355	0.058235556	No	
+row_16	S100P	S100 calcium binding protein P [Source:HGNC Symbol;Acc:HGNC:10504]	4973	-0.5488759875297546	0.055470306	No	
+row_17	KRT15	keratin 15 [Source:HGNC Symbol;Acc:HGNC:6421]	4975	-0.5491639971733093	0.06838263	No	
+row_18	KRT13	keratin 13 [Source:HGNC Symbol;Acc:HGNC:6415]	5182	-0.5889719724655151	0.06722454	No	
+row_19	KRT4	keratin 4 [Source:HGNC Symbol;Acc:HGNC:6441]	5783	-0.6981260180473328	0.039795723	No	
+row_20	IL1RN	interleukin 1 receptor antagonist [Source:HGNC Symbol;Acc:HGNC:6000]	5812	-0.7023540139198303	0.05435323	No	
+row_21	PTN	pleiotrophin [Source:HGNC Symbol;Acc:HGNC:9630]	6067	-0.741998016834259	0.05329866	No	
+row_22	MYL1	myosin light chain 1 [Source:HGNC Symbol;Acc:HGNC:7582]	6735	-0.8331940174102783	0.024157397	No	
+row_23	SFRP1	secreted frizzled related protein 1 [Source:HGNC Symbol;Acc:HGNC:10776]	7351	-0.9142130017280579	7.3976326E-4	No	
+row_24	NUCB2	nucleobindin 2 [Source:HGNC Symbol;Acc:HGNC:8044]	7635	-0.9518449902534485	0.0025236355	No	
+row_25	CEACAM6	CEA cell adhesion molecule 6 [Source:HGNC Symbol;Acc:HGNC:1818]	7712	-0.9600329995155334	0.019659292	No	
+row_26	CEACAM1	CEA cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:1814]	8133	-1.0090219974517822	0.012762953	No	
+row_27	PGD	phosphogluconate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:8891]	8704	-1.0710350275039673	-0.003651206	No	
+row_28	HOPX	HOP homeobox [Source:HGNC Symbol;Acc:HGNC:24961]	9032	-1.1054600477218628	-0.0014569735	No	
+row_29	ADH7	alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide [Source:HGNC Symbol;Acc:HGNC:256]	9072	-1.1106300354003906	0.021949138	No	
+row_30	GMDS	GDP-mannose 4,6-dehydratase [Source:HGNC Symbol;Acc:HGNC:4369]	9669	-1.1688129901885986	0.005943116	No	
+row_31	GNE	glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase [Source:HGNC Symbol;Acc:HGNC:23657]	9717	-1.1729700565338135	0.030237501	No	
+row_32	CEACAM5	CEA cell adhesion molecule 5 [Source:HGNC Symbol;Acc:HGNC:1817]	10276	-1.2339930534362793	0.018555388	No	
+row_33	ECM1	extracellular matrix protein 1 [Source:HGNC Symbol;Acc:HGNC:3153]	10526	-1.2608540058135986	0.030135848	No	
+row_34	FHL1	four and a half LIM domains 1 [Source:HGNC Symbol;Acc:HGNC:3702]	11062	-1.3118350505828857	0.02197863	No	
+row_35	TGM3	transglutaminase 3 [Source:HGNC Symbol;Acc:HGNC:11779]	11425	-1.3536620140075684	0.027478881	No	
+row_36	ALDH3A1	aldehyde dehydrogenase 3 family member A1 [Source:HGNC Symbol;Acc:HGNC:405]	11468	-1.3581990003585815	0.056519337	No	
+row_37	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	11638	-1.3774739503860474	0.076715626	No	
+row_38	SELENBP1	selenium binding protein 1 [Source:HGNC Symbol;Acc:HGNC:10719]	11725	-1.3877099752426147	0.10323187	No	
+row_39	SCEL	sciellin [Source:HGNC Symbol;Acc:HGNC:10573]	13466	-1.731958031654358	0.016769292	No	

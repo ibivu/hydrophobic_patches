@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRNP	prion protein [Source:HGNC Symbol;Acc:HGNC:9449]	2744	0.562470018863678	-0.11335725	No	
+row_1	BCL2	BCL2 apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:990]	2852	0.46377599239349365	-0.04921067	No	
+row_2	EBF1	EBF transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:3126]	3361	0.35970398783683777	-0.030535812	No	
+row_3	CREB1	cAMP responsive element binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2345]	4816	0.06859300285577774	-0.12620893	No	
+row_4	RXRA	retinoid X receptor alpha [Source:HGNC Symbol;Acc:HGNC:10477]	7807	-0.22912000119686127	-0.30928442	No	
+row_5	TBP	TATA-box binding protein [Source:HGNC Symbol;Acc:HGNC:11588]	8722	-0.22912000119686127	-0.34056112	Yes	
+row_6	STAT3	signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	8813	-0.22912000119686127	-0.3115863	Yes	
+row_7	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	9139	-0.22912000119686127	-0.29979482	Yes	
+row_8	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	9141	-0.22912000119686127	-0.26431227	Yes	
+row_9	PAX5	paired box 5 [Source:HGNC Symbol;Acc:HGNC:8619]	9250	-0.22912000119686127	-0.2366536	Yes	
+row_10	CASP12	caspase 12 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:19004]	9341	-0.22912000119686127	-0.20767877	Yes	
+row_11	BATF	basic leucine zipper ATF-like transcription factor [Source:HGNC Symbol;Acc:HGNC:958]	10041	-0.22912000119686127	-0.22323449	Yes	
+row_12	IRF4	interferon regulatory factor 4 [Source:HGNC Symbol;Acc:HGNC:6119]	10760	-0.3115389943122864	-0.22738943	Yes	
+row_13	SPI1	Spi-1 proto-oncogene [Source:HGNC Symbol;Acc:HGNC:11241]	10777	-0.3115389943122864	-0.18021357	Yes	
+row_14	CASP3	caspase 3 [Source:HGNC Symbol;Acc:HGNC:1504]	12094	-0.39228299260139465	-0.21556458	Yes	
+row_15	RFX5	regulatory factor X5 [Source:HGNC Symbol;Acc:HGNC:9986]	12201	-0.4101009964942932	-0.15967436	Yes	
+row_16	HSPA5	heat shock protein family A (Hsp70) member 5 [Source:HGNC Symbol;Acc:HGNC:5238]	12389	-0.43275201320648193	-0.106191866	Yes	
+row_17	FYN	FYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:4037]	12403	-0.43275201320648193	-0.039986342	Yes	
+row_18	CTCF	CCCTC-binding factor [Source:HGNC Symbol;Acc:HGNC:13723]	12632	-0.43275201320648193	0.010498207	Yes	
+row_19	PDIA3	protein disulfide isomerase family A member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	12866	-0.43275201320648193	0.060617153	Yes	

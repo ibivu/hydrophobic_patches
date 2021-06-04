@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LBR	lamin B receptor [Source:HGNC Symbol;Acc:HGNC:6518]	2635	0.24473600089550018	-0.18314865	No	
+row_1	IKBKG	inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [Source:HGNC Symbol;Acc:HGNC:5961]	5143	-0.5810850262641907	-0.34380767	No	
+row_2	CDK5R1	cyclin dependent kinase 5 regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:1775]	6189	-0.7613019943237305	-0.390514	No	
+row_3	H2AX	H2A.X variant histone [Source:HGNC Symbol;Acc:HGNC:4739]	6560	-0.8136540055274963	-0.3858131	No	
+row_4	RNF8	ring finger protein 8 [Source:HGNC Symbol;Acc:HGNC:10071]	8488	-1.0493110418319702	-0.48577946	Yes	
+row_5	HSPB1	heat shock protein family B (small) member 1 [Source:HGNC Symbol;Acc:HGNC:5246]	8528	-1.0525180101394653	-0.4475484	Yes	
+row_6	AURKB	aurora kinase B [Source:HGNC Symbol;Acc:HGNC:11390]	8612	-1.0623869895935059	-0.4121499	Yes	
+row_7	CEP63	centrosomal protein 63 [Source:HGNC Symbol;Acc:HGNC:25815]	9463	-1.1496280431747437	-0.42943797	Yes	
+row_8	PPM1D	protein phosphatase, Mg2+/Mn2+ dependent 1D [Source:HGNC Symbol;Acc:HGNC:9277]	9935	-1.1974420547485352	-0.41714284	Yes	
+row_9	G6PD	glucose-6-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4057]	10160	-1.221688985824585	-0.3858378	Yes	
+row_10	STK11	serine/threonine kinase 11 [Source:HGNC Symbol;Acc:HGNC:11389]	10391	-1.2460180521011353	-0.3540219	Yes	
+row_11	NBN	nibrin [Source:HGNC Symbol;Acc:HGNC:7652]	10399	-1.2468830347061157	-0.30586395	Yes	
+row_12	KAT5	lysine acetyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:5275]	10577	-1.2648149728775024	-0.2694384	Yes	
+row_13	DCLRE1C	DNA cross-link repair 1C [Source:HGNC Symbol;Acc:HGNC:17642]	10675	-1.2737970352172852	-0.2268117	Yes	
+row_14	PRKAA1	protein kinase AMP-activated catalytic subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:9376]	10686	-1.2743020057678223	-0.17780288	Yes	
+row_15	CHEK1	checkpoint kinase 1 [Source:HGNC Symbol;Acc:HGNC:1925]	10755	-1.2814610004425049	-0.13275623	Yes	
+row_16	CDK5	cyclin dependent kinase 5 [Source:HGNC Symbol;Acc:HGNC:1774]	11684	-1.382902979850769	-0.14664307	Yes	
+row_17	CDK1	cyclin dependent kinase 1 [Source:HGNC Symbol;Acc:HGNC:1722]	11806	-1.3979270458221436	-0.100926355	Yes	
+row_18	PTPA	protein phosphatase 2 phosphatase activator [Source:HGNC Symbol;Acc:HGNC:9308]	12207	-1.4478410482406616	-0.073665015	Yes	
+row_19	MRE11	MRE11 homolog, double strand break repair nuclease [Source:HGNC Symbol;Acc:HGNC:7230]	12792	-1.5390199422836304	-0.056300864	Yes	
+row_20	PPP5C	protein phosphatase 5 catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9322]	12896	-1.5604369640350342	-0.002924487	Yes	
+row_21	CHEK2	checkpoint kinase 2 [Source:HGNC Symbol;Acc:HGNC:16627]	12951	-1.5700290203094482	0.05440974	Yes	

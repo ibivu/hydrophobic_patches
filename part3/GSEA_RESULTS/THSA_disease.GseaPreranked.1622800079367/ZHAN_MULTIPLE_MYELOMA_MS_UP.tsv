@@ -1,0 +1,26 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FZD8	frizzled class receptor 8 [Source:HGNC Symbol;Acc:HGNC:4046]	243	2.0447349548339844	0.11231613	Yes	
+row_1	MARK1	microtubule affinity regulating kinase 1 [Source:HGNC Symbol;Acc:HGNC:6896]	716	1.336709976196289	0.16283523	Yes	
+row_2	DTNA	dystrobrevin alpha [Source:HGNC Symbol;Acc:HGNC:3057]	744	1.3070859909057617	0.24402021	Yes	
+row_3	FZD2	frizzled class receptor 2 [Source:HGNC Symbol;Acc:HGNC:4040]	913	1.1707350015640259	0.30621642	Yes	
+row_4	RAI2	retinoic acid induced 2 [Source:HGNC Symbol;Acc:HGNC:9835]	1111	1.0313470363616943	0.35742316	Yes	
+row_5	CLGN	calmegin [Source:HGNC Symbol;Acc:HGNC:2060]	1144	1.0096149444580078	0.41931656	Yes	
+row_6	ZNF503	zinc finger protein 503 [Source:HGNC Symbol;Acc:HGNC:23589]	1320	0.8996850252151489	0.4637559	Yes	
+row_7	SLC22A17	solute carrier family 22 member 17 [Source:HGNC Symbol;Acc:HGNC:23095]	1501	0.8055989742279053	0.5018435	Yes	
+row_8	PBX1	PBX homeobox 1 [Source:HGNC Symbol;Acc:HGNC:8632]	2371	0.47401300072669983	0.46843615	No	
+row_9	RUNDC3B	RUN domain containing 3B [Source:HGNC Symbol;Acc:HGNC:30286]	3928	0.08437599986791611	0.35998678	No	
+row_10	BACE2	beta-secretase 2 [Source:HGNC Symbol;Acc:HGNC:934]	3972	0.07100699841976166	0.36135906	No	
+row_11	BEND7	BEN domain containing 7 [Source:HGNC Symbol;Acc:HGNC:23514]	4184	0.01874000020325184	0.34711722	No	
+row_12	CDYL2	chromodomain Y like 2 [Source:HGNC Symbol;Acc:HGNC:23030]	4226	0.010130999609827995	0.34476274	No	
+row_13	TMEM176B	transmembrane protein 176B [Source:HGNC Symbol;Acc:HGNC:29596]	4241	0.006364999804645777	0.34414363	No	
+row_14	KLHL13	kelch like family member 13 [Source:HGNC Symbol;Acc:HGNC:22931]	4335	-0.019687000662088394	0.33859342	No	
+row_15	VWA5A	von Willebrand factor A domain containing 5A [Source:HGNC Symbol;Acc:HGNC:6658]	4350	-0.02317499928176403	0.33904383	No	
+row_16	TMEM176A	transmembrane protein 176A [Source:HGNC Symbol;Acc:HGNC:24930]	4374	-0.02794799953699112	0.33913955	No	
+row_17	TRIM58	tripartite motif containing 58 [Source:HGNC Symbol;Acc:HGNC:24150]	4586	-0.08692199736833572	0.3292356	No	
+row_18	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	5635	-0.3239400088787079	0.27318683	No	
+row_19	PPM1H	protein phosphatase, Mg2+/Mn2+ dependent 1H [Source:HGNC Symbol;Acc:HGNC:18583]	5868	-0.36994999647140503	0.2797537	No	
+row_20	CLEC11A	C-type lectin domain containing 11A [Source:HGNC Symbol;Acc:HGNC:10576]	6948	-0.5830950140953064	0.23792544	No	
+row_21	RNF32	ring finger protein 32 [Source:HGNC Symbol;Acc:HGNC:17118]	7424	-0.6688380241394043	0.24573345	No	
+row_22	TEAD1	TEA domain transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:11714]	8301	-0.8389099836349487	0.2350297	No	
+row_23	SERPINE2	serpin family E member 2 [Source:HGNC Symbol;Acc:HGNC:8951]	9901	-1.1364359855651855	0.19036959	No	
+row_24	CST3	cystatin C [Source:HGNC Symbol;Acc:HGNC:2475]	11064	-1.3686840534210205	0.19245115	No	

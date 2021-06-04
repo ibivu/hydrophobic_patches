@@ -1,0 +1,43 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CUX1	cut like homeobox 1 [Source:HGNC Symbol;Acc:HGNC:2557]	862	1.213109016418457	-0.03866101	No	
+row_1	STAT3	signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	1870	0.6439070105552673	-0.09942349	No	
+row_2	STAT5A	signal transducer and activator of transcription 5A [Source:HGNC Symbol;Acc:HGNC:11366]	2195	0.5257319808006287	-0.11254781	No	
+row_3	STAT5B	signal transducer and activator of transcription 5B [Source:HGNC Symbol;Acc:HGNC:11367]	2385	0.4708389937877655	-0.1168922	No	
+row_4	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	3253	0.2565700113773346	-0.17521459	No	
+row_5	ERLIN2	ER lipid raft associated 2 [Source:HGNC Symbol;Acc:HGNC:1356]	3808	0.11679299920797348	-0.21343283	No	
+row_6	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	4635	-0.09702400118112564	-0.27197078	No	
+row_7	NCBP1	nuclear cap binding protein subunit 1 [Source:HGNC Symbol;Acc:HGNC:7658]	4694	-0.1128619983792305	-0.273942	No	
+row_8	FGF23	fibroblast growth factor 23 [Source:HGNC Symbol;Acc:HGNC:3680]	5347	-0.25810301303863525	-0.31648713	No	
+row_9	BAG4	BAG cochaperone 4 [Source:HGNC Symbol;Acc:HGNC:940]	6871	-0.5687689781188965	-0.41655642	No	
+row_10	FGF5	fibroblast growth factor 5 [Source:HGNC Symbol;Acc:HGNC:3683]	7183	-0.6255859732627869	-0.4267144	No	
+row_11	FGF6	fibroblast growth factor 6 [Source:HGNC Symbol;Acc:HGNC:3684]	7910	-0.7597619891166687	-0.4645598	No	
+row_12	FGF10	fibroblast growth factor 10 [Source:HGNC Symbol;Acc:HGNC:3666]	8365	-0.8528739809989929	-0.48060608	Yes	
+row_13	FGF4	fibroblast growth factor 4 [Source:HGNC Symbol;Acc:HGNC:3682]	8419	-0.8617569804191589	-0.46710446	Yes	
+row_14	FGF3	fibroblast growth factor 3 [Source:HGNC Symbol;Acc:HGNC:3681]	8744	-0.9184960126876831	-0.472306	Yes	
+row_15	FGFR1OP2	FGFR1 oncogene partner 2 [Source:HGNC Symbol;Acc:HGNC:23098]	8860	-0.9433770179748535	-0.46169877	Yes	
+row_16	FGF8	fibroblast growth factor 8 [Source:HGNC Symbol;Acc:HGNC:3686]	8991	-0.9662690162658691	-0.45172834	Yes	
+row_17	FGF2	fibroblast growth factor 2 [Source:HGNC Symbol;Acc:HGNC:3676]	9146	-0.9926419854164124	-0.44298366	Yes	
+row_18	FGF7	fibroblast growth factor 7 [Source:HGNC Symbol;Acc:HGNC:3685]	9307	-1.0240240097045898	-0.43404534	Yes	
+row_19	FGF18	fibroblast growth factor 18 [Source:HGNC Symbol;Acc:HGNC:3674]	10153	-1.1847970485687256	-0.47203243	Yes	
+row_20	FGF20	fibroblast growth factor 20 [Source:HGNC Symbol;Acc:HGNC:3677]	10495	-1.254402995109558	-0.47170314	Yes	
+row_21	POLR2C	RNA polymerase II subunit C [Source:HGNC Symbol;Acc:HGNC:9189]	10634	-1.283682942390442	-0.45591578	Yes	
+row_22	POLR2F	RNA polymerase II subunit F [Source:HGNC Symbol;Acc:HGNC:9193]	10871	-1.3285750150680542	-0.44640025	Yes	
+row_23	FGF17	fibroblast growth factor 17 [Source:HGNC Symbol;Acc:HGNC:3673]	11087	-1.3731260299682617	-0.43444806	Yes	
+row_24	FGF16	fibroblast growth factor 16 [Source:HGNC Symbol;Acc:HGNC:3672]	11170	-1.3923319578170776	-0.4123677	Yes	
+row_25	FGF22	fibroblast growth factor 22 [Source:HGNC Symbol;Acc:HGNC:3679]	11225	-1.4026960134506226	-0.38802758	Yes	
+row_26	GTF2F2	general transcription factor IIF subunit 2 [Source:HGNC Symbol;Acc:HGNC:4653]	11346	-1.4300240278244019	-0.36796996	Yes	
+row_27	FGF9	fibroblast growth factor 9 [Source:HGNC Symbol;Acc:HGNC:3687]	11380	-1.4367460012435913	-0.341405	Yes	
+row_28	NCBP2	nuclear cap binding protein subunit 2 [Source:HGNC Symbol;Acc:HGNC:7659]	11966	-1.5533080101013184	-0.35291648	Yes	
+row_29	POLR2H	RNA polymerase II subunit H [Source:HGNC Symbol;Acc:HGNC:9195]	12209	-1.609009027481079	-0.3381835	Yes	
+row_30	POLR2G	RNA polymerase II subunit G [Source:HGNC Symbol;Acc:HGNC:9194]	12419	-1.6505110263824463	-0.32019648	Yes	
+row_31	POLR2D	RNA polymerase II subunit D [Source:HGNC Symbol;Acc:HGNC:9191]	12454	-1.6580040454864502	-0.28924158	Yes	
+row_32	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	12851	-1.7407289743423462	-0.28313032	Yes	
+row_33	POLR2E	RNA polymerase II subunit E [Source:HGNC Symbol;Acc:HGNC:9192]	13050	-1.782565951347351	-0.26167387	Yes	
+row_34	NRAS	NRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:7989]	13088	-1.7977110147476196	-0.22812052	Yes	
+row_35	POLR2J	RNA polymerase II subunit J [Source:HGNC Symbol;Acc:HGNC:9197]	13194	-1.8300100564956665	-0.19889586	Yes	
+row_36	KRAS	KRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:6407]	13198	-1.8317240476608276	-0.1621663	Yes	
+row_37	POLR2L	RNA polymerase II subunit L [Source:HGNC Symbol;Acc:HGNC:9199]	13325	-1.8825080394744873	-0.13342066	Yes	
+row_38	POLR2I	RNA polymerase II subunit I [Source:HGNC Symbol;Acc:HGNC:9196]	13374	-1.902001976966858	-0.09856919	Yes	
+row_39	HRAS	HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	13425	-1.9290900230407715	-0.06331778	Yes	
+row_40	FGF1	fibroblast growth factor 1 [Source:HGNC Symbol;Acc:HGNC:3665]	13508	-1.9788340330123901	-0.02940658	Yes	
+row_41	POLR2K	RNA polymerase II subunit K [Source:HGNC Symbol;Acc:HGNC:9198]	13647	-2.1331229209899902	0.0035155595	Yes	

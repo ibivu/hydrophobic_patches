@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT3	signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	9888	-1.1912699937820435	-0.6713244	Yes	
+row_1	NRAS	NRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:7989]	10301	-1.235908031463623	-0.6480296	Yes	
+row_2	STAT5A	signal transducer and activator of transcription 5A [Source:HGNC Symbol;Acc:HGNC:11366]	11003	-1.3059619665145874	-0.6428331	Yes	
+row_3	STAT5B	signal transducer and activator of transcription 5B [Source:HGNC Symbol;Acc:HGNC:11367]	11159	-1.3216010332107544	-0.5970484	Yes	
+row_4	YES1	YES proto-oncogene 1, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:12841]	11571	-1.3700950145721436	-0.56788146	Yes	
+row_5	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	11880	-1.4050559997558594	-0.52967435	Yes	
+row_6	KRAS	KRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:6407]	12029	-1.4244379997253418	-0.47893372	Yes	
+row_7	LYN	LYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6735]	12209	-1.4480700492858887	-0.42943788	Yes	
+row_8	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	12234	-1.4510680437088013	-0.36848205	Yes	
+row_9	PIK3R3	phosphoinositide-3-kinase regulatory subunit 3 [Source:HGNC Symbol;Acc:HGNC:8981]	12298	-1.4600880146026611	-0.3099873	Yes	
+row_10	FYN	FYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:4037]	12716	-1.5258519649505615	-0.27452764	Yes	
+row_11	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	12805	-1.541509985923767	-0.21434161	Yes	
+row_12	LCK	LCK proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6524]	12892	-1.5599420070648193	-0.15321279	Yes	
+row_13	PIK3R2	phosphoinositide-3-kinase regulatory subunit 2 [Source:HGNC Symbol;Acc:HGNC:8980]	12984	-1.5780739784240723	-0.09166587	Yes	
+row_14	HRAS	HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	13071	-1.5986720323562622	-0.028863277	Yes	
+row_15	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	13443	-1.7216579914093018	0.01842102	Yes	

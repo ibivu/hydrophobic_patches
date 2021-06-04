@@ -1,0 +1,42 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PSMB6	proteasome 20S subunit beta 6 [Source:HGNC Symbol;Acc:HGNC:9543]	3454	0.3487350046634674	-0.21867983	No	
+row_1	PSMB3	proteasome 20S subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:9540]	3849	0.2695389986038208	-0.22104798	No	
+row_2	PSMB4	proteasome 20S subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:9541]	4087	0.2255460023880005	-0.2162414	No	
+row_3	PSME3	proteasome activator subunit 3 [Source:HGNC Symbol;Acc:HGNC:9570]	5241	0.034876998513936996	-0.2972522	No	
+row_4	PSMB2	proteasome 20S subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:9539]	5260	0.034876998513936996	-0.2951433	No	
+row_5	PSMB10	proteasome 20S subunit beta 10 [Source:HGNC Symbol;Acc:HGNC:9538]	5347	0.034876998513936996	-0.29801422	No	
+row_6	PSMD14	proteasome 26S subunit, non-ATPase 14 [Source:HGNC Symbol;Acc:HGNC:16889]	5493	0.034876998513936996	-0.3052059	No	
+row_7	FBXO21	F-box protein 21 [Source:HGNC Symbol;Acc:HGNC:13592]	5726	0.0331679992377758	-0.31893685	No	
+row_8	PSMA5	proteasome 20S subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:9534]	6078	-5.489999894052744E-4	-0.34458777	No	
+row_9	PSMB8	proteasome 20S subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:9545]	6080	-5.489999894052744E-4	-0.34460706	No	
+row_10	UBE2C	ubiquitin conjugating enzyme E2 C [Source:HGNC Symbol;Acc:HGNC:15937]	6668	-0.06378699839115143	-0.38132706	No	
+row_11	CDC34	cell division cycle 34, ubiqiutin conjugating enzyme [Source:HGNC Symbol;Acc:HGNC:1734]	6757	-0.09603200107812881	-0.37833518	No	
+row_12	SIAH2	siah E3 ubiquitin protein ligase 2 [Source:HGNC Symbol;Acc:HGNC:10858]	6838	-0.09603200107812881	-0.37475744	No	
+row_13	UBE2R2	ubiquitin conjugating enzyme E2 R2 [Source:HGNC Symbol;Acc:HGNC:19907]	7460	-0.22912000119686127	-0.39772123	No	
+row_14	CDC20	cell division cycle 20 [Source:HGNC Symbol;Acc:HGNC:1723]	7607	-0.22912000119686127	-0.38589925	No	
+row_15	UBR7	ubiquitin protein ligase E3 component n-recognin 7 [Source:HGNC Symbol;Acc:HGNC:20344]	8038	-0.22912000119686127	-0.39487547	No	
+row_16	PSMD8	proteasome 26S subunit, non-ATPase 8 [Source:HGNC Symbol;Acc:HGNC:9566]	8460	-0.22912000119686127	-0.4031926	Yes	
+row_17	PSME1	proteasome activator subunit 1 [Source:HGNC Symbol;Acc:HGNC:9568]	8466	-0.22912000119686127	-0.38104475	Yes	
+row_18	PSMA4	proteasome 20S subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:9533]	8484	-0.22912000119686127	-0.35977563	Yes	
+row_19	PSMA1	proteasome 20S subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:9530]	8486	-0.22912000119686127	-0.33733484	Yes	
+row_20	PSMC5	proteasome 26S subunit, ATPase 5 [Source:HGNC Symbol;Acc:HGNC:9552]	8492	-0.22912000119686127	-0.31518695	Yes	
+row_21	PSMC3	proteasome 26S subunit, ATPase 3 [Source:HGNC Symbol;Acc:HGNC:9549]	8494	-0.22912000119686127	-0.29274613	Yes	
+row_22	USP10	ubiquitin specific peptidase 10 [Source:HGNC Symbol;Acc:HGNC:12608]	8620	-0.22912000119686127	-0.27938622	Yes	
+row_23	USP18	ubiquitin specific peptidase 18 [Source:HGNC Symbol;Acc:HGNC:12616]	8623	-0.22912000119686127	-0.25701863	Yes	
+row_24	SIAH1	siah E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:10857]	8949	-0.22912000119686127	-0.2583054	Yes	
+row_25	UBE2T	ubiquitin conjugating enzyme E2 T [Source:HGNC Symbol;Acc:HGNC:25009]	9048	-0.22912000119686127	-0.2429682	Yes	
+row_26	UBA3	ubiquitin like modifier activating enzyme 3 [Source:HGNC Symbol;Acc:HGNC:12470]	10297	-0.29361799359321594	-0.30551147	Yes	
+row_27	SQSTM1	sequestosome 1 [Source:HGNC Symbol;Acc:HGNC:11280]	10624	-0.3115389943122864	-0.2987727	Yes	
+row_28	USP46	ubiquitin specific peptidase 46 [Source:HGNC Symbol;Acc:HGNC:20075]	10638	-0.3115389943122864	-0.26911193	Yes	
+row_29	PSMD10	proteasome 26S subunit, non-ATPase 10 [Source:HGNC Symbol;Acc:HGNC:9555]	10909	-0.3393380045890808	-0.2555405	Yes	
+row_30	PSMD3	proteasome 26S subunit, non-ATPase 3 [Source:HGNC Symbol;Acc:HGNC:9560]	11224	-0.3582639992237091	-0.24333157	Yes	
+row_31	PSMA7	proteasome 20S subunit alpha 7 [Source:HGNC Symbol;Acc:HGNC:9536]	11228	-0.3582639992237091	-0.20834713	Yes	
+row_32	UBE2Q2	ubiquitin conjugating enzyme E2 Q2 [Source:HGNC Symbol;Acc:HGNC:19248]	11830	-0.39228299260139465	-0.21381335	Yes	
+row_33	USP14	ubiquitin specific peptidase 14 [Source:HGNC Symbol;Acc:HGNC:12612]	11945	-0.39228299260139465	-0.18361497	Yes	
+row_34	ARIH1	ariadne RBR E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:689]	12008	-0.39228299260139465	-0.14960848	Yes	
+row_35	PSMD12	proteasome 26S subunit, non-ATPase 12 [Source:HGNC Symbol;Acc:HGNC:9557]	12275	-0.42283400893211365	-0.12753952	Yes	
+row_36	USP1	ubiquitin specific peptidase 1 [Source:HGNC Symbol;Acc:HGNC:12607]	12276	-0.42283400893211365	-0.08599052	Yes	
+row_37	USP39	ubiquitin specific peptidase 39 [Source:HGNC Symbol;Acc:HGNC:20071]	12682	-0.43275201320648193	-0.073126405	Yes	
+row_38	UBE2D2	ubiquitin conjugating enzyme E2 D2 [Source:HGNC Symbol;Acc:HGNC:12475]	13206	-0.4440020024776459	-0.06779836	Yes	
+row_39	UBE2G1	ubiquitin conjugating enzyme E2 G1 [Source:HGNC Symbol;Acc:HGNC:12482]	13212	-0.4440020024776459	-0.024535488	Yes	
+row_40	UCHL3	ubiquitin C-terminal hydrolase L3 [Source:HGNC Symbol;Acc:HGNC:12515]	13680	-0.6089149713516235	0.0010984867	Yes	
