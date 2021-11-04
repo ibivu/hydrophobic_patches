@@ -11,8 +11,8 @@ library(ggsignif)
 
 
 ```{r}
-highest_NX <- read_csv("/Users/deagogishvili/Desktop/PublicationFiles2/MATERIALS/NX_highest.csv")
-median_NX <- read_csv("/Users/deagogishvili/Desktop/PublicationFiles2/MATERIALS/NX_highest.csv")
+highest_NX <- read_csv("/Users/deagogishvili/Documents/GitHub/hydrophobic_patches/part3/MATERIALS/NX_highest.csv")
+median_NX <- read_csv("/Users/deagogishvili/Documents/GitHub/hydrophobic_patches/part3/MATERIALS/NX_median.csv")
 ```
 
 ```{r}
