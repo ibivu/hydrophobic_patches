@@ -5,10 +5,10 @@
 #SBATCH -e hydrophobic_patches.err
 #SBATCH -o hydrophobic_patches.out
 
-module load 2019
+#module load 2019
 #module load biopython
-module load Miniconda3
-source activate biopython
+#module load Miniconda3
+#source activate biopython
 
 echo "preparing files"
 cd <...working_directory...>
