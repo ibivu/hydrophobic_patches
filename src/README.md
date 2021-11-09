@@ -31,9 +31,9 @@ First fill in the root directory in the config.yml file
 #### modeling
 
 * TFM models are created in TFM.R since Cubist regression is an R methods
-* all other models are created in model.py
+* all other models are created in model.py (this is also where the hyperparameters are optimized). The final models used in the paper are stored in the root/models directory
 
 #### molpatch
 
-* calculate_patches_pisite_atom.py and calculate_patches_pisite_res.py are used to find the largest patch from PDB structures.
+* calculate_patches_pisite_atom.py and calculate_patches_pisite_res.py: MolPatch finds the largest patch from PDB structures for the atom- and residue-based method, respectively.
 * PiSITE parser can be used to check what part of the patch are protein interacting residues
