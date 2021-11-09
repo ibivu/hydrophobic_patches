@@ -16,7 +16,7 @@ This directory has three main subdirectories.
 
 ## How to use
 
-First fill in the root directory in the config.yml file
+First fill in the root directory in the config.yml file. Run the scripts in the following order (or use the 'run_workflow.sh' in the root directory):
 
 #### preparation
 
