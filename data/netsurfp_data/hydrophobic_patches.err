@@ -1,0 +1,12 @@
+/home/juami/.conda/envs/biopython/lib/python3.6/site-packages/sklearn/utils/deprecation.py:143: FutureWarning: The sklearn.ensemble.forest module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.ensemble. Anything that cannot be imported from sklearn.ensemble is now part of the private API.
+  warnings.warn(message, FutureWarning)
+/home/juami/.conda/envs/biopython/lib/python3.6/site-packages/sklearn/utils/deprecation.py:143: FutureWarning: The sklearn.tree.tree module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.tree. Anything that cannot be imported from sklearn.tree is now part of the private API.
+  warnings.warn(message, FutureWarning)
+/home/juami/.conda/envs/biopython/lib/python3.6/site-packages/sklearn/base.py:334: UserWarning: Trying to unpickle estimator DecisionTreeRegressor from version 0.21.2 when using version 0.23.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/juami/.conda/envs/biopython/lib/python3.6/site-packages/sklearn/base.py:334: UserWarning: Trying to unpickle estimator RandomForestRegressor from version 0.21.2 when using version 0.23.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/juami/.conda/envs/biopython/lib/python3.6/site-packages/sklearn/utils/deprecation.py:143: FutureWarning: The sklearn.metrics.scorer module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.metrics. Anything that cannot be imported from sklearn.metrics is now part of the private API.
+  warnings.warn(message, FutureWarning)
+/home/juami/.conda/envs/biopython/lib/python3.6/site-packages/sklearn/base.py:334: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.21.2 when using version 0.23.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)

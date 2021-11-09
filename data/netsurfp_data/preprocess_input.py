@@ -15,10 +15,12 @@ from sys import argv
 f_in = '/home/juami/hydrophobic_patches_jan/netsurfp_dea/uniprot_9606.tab'
 # Folder with NetsurfP2.0 output files
 #d_in = '/mnt/c/Users/jhmva/surfdrive/PhD/hydrophobic_patches/NetsurfP2.0-predictions'
-d_in = '/home/juami/hydrophobic_patches_jan/netsurfp_dea/all_csv_files'
+#d_in = '/home/juami/hydrophobic_patches_jan/netsurfp_dea/all_csv_files'
+d_in = '/home/juami/hydrophobic_patches/netsurfp_data/all_csv_files'
 netsurfp_files = [os.path.join(d_in, x) for x in os.listdir(d_in)]
 # Output file
-f_out = '/home/juami/hydrophobic_patches_jan/netsurfp_dea/uniprot_9606_formatted.tab'
+#f_out = '/home/juami/hydrophobic_patches_jan/netsurfp_dea/uniprot_9606_formatted.tab'
+f_out = '/home/juami/hydrophobic_patches/netsurfp_data/uniprot_9606_formatted.tab'
 
 with open(f_out, 'w') as f:
 	f.write('\t'.join(['id', 'Gene name', 'PDB', 'length', 'hydr_count', 'polar_count', 'molecular_weight', 'helix', 'turn', 'sheet', 'A', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Y', 'fasta_sequence', 'thsa_netsurfp2', 'tasa_netsurfp2', 'q3_H', 'q3_E', 'q3_C', 'rhsa_netsurfp2', 'on_surface', 'disorder']) + '\n')
