@@ -60,3 +60,30 @@
                       min_weight_fraction_leaf=0.0, n_estimators='warn',
                       n_jobs=None, oob_score=False, random_state=None,
                       verbose=0, warm_start=False), 'iid': 'warn', 'n_jobs': None, 'param_grid': {'max_depth': [2, 3, 4]}, 'pre_dispatch': '2*n_jobs', 'refit': True, 'return_train_score': False, 'scoring': None, 'verbose': 0}
+
+#############################################################################
+
+			TFM THSA parameters
+
+#############################################################################
+
+cubist.default(x = train[, c("length", "polar_count", "hydr_count")], y = train[, c("thsa")], committees = 3, control = ctrl)Number of samples: 3920 Number of predictors: 3 Number of committees: 3 Number of rules per committee: 1, 1, 1 Other options: 1% extrapolation, 1% sub-sampling
+
+#############################################################################
+
+			TFM RHSA parameters
+
+#############################################################################
+
+cubist.default(x = train[, c("length", "polar_count", "hydr_count")], y = train[, c("rhsa")], committees = 3, control = ctrl)Number of samples: 3920 Number of predictors: 3 Number of committees: 3 Number of rules per committee: 1, 1, 1 Other options: 1% extrapolation, 1% sub-sampling
+
+#############################################################################
+
+			TFM LHPSA parameters
+
+#############################################################################
+
+
+cubist.default(x = train[, c("length", "polar_count", "hydr_count")], y = train[, c("size")], committees = 3, control = ctrl)Number of samples: 3920 Number of predictors: 3 Number of committees: 3 Number of rules per committee: 1, 1, 1 Other options: 1% extrapolation, 1% sub-sampling
+
+
