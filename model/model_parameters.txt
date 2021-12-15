@@ -1,0 +1,62 @@
+
+#############################################################################
+
+			thsa_gfm.model parameters
+
+#############################################################################
+
+{'cv': 5, 'error_score': 'raise-deprecating', 'estimator__base_score': 0.5, 'estimator__booster': 'gbtree', 'estimator__colsample_bylevel': 1, 'estimator__colsample_bynode': 1, 'estimator__colsample_bytree': 1, 'estimator__gamma': 0, 'estimator__importance_type': 'gain', 'estimator__learning_rate': 0.1, 'estimator__max_delta_step': 0, 'estimator__max_depth': 3, 'estimator__min_child_weight': 1, 'estimator__missing': nan, 'estimator__n_estimators': 100, 'estimator__n_jobs': 1, 'estimator__nthread': None, 'estimator__objective': 'reg:squarederror', 'estimator__random_state': 0, 'estimator__reg_alpha': 0, 'estimator__reg_lambda': 1, 'estimator__scale_pos_weight': 1, 'estimator__seed': None, 'estimator__silent': None, 'estimator__subsample': 1, 'estimator__verbosity': 1, 'estimator': XGBRegressor(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0,
+             importance_type='gain', learning_rate=0.1, max_delta_step=0,
+             max_depth=3, min_child_weight=1, missing=nan, n_estimators=100,
+             n_jobs=1, nthread=None, objective='reg:squarederror',
+             random_state=0, reg_alpha=0, reg_lambda=1, scale_pos_weight=1,
+             seed=None, silent=None, subsample=1, verbosity=1), 'iid': 'warn', 'n_jobs': None, 'param_grid': {'min_child_weight': [1, 5, 10], 'gamma': [0, 0.5, 1.5, 5]}, 'pre_dispatch': '2*n_jobs', 'refit': True, 'return_train_score': False, 'scoring': None, 'verbose': 0}
+
+#############################################################################
+
+			rhsa_gfm.model parameters
+
+#############################################################################
+
+
+{'cv': 5, 'error_score': 'raise-deprecating', 'estimator__base_score': 0.5, 'estimator__booster': 'gbtree', 'estimator__colsample_bylevel': 1, 'estimator__colsample_bynode': 1, 'estimator__colsample_bytree': 1, 'estimator__gamma': 0, 'estimator__importance_type': 'gain', 'estimator__learning_rate': 0.1, 'estimator__max_delta_step': 0, 'estimator__max_depth': 3, 'estimator__min_child_weight': 1, 'estimator__missing': nan, 'estimator__n_estimators': 100, 'estimator__n_jobs': 1, 'estimator__nthread': None, 'estimator__objective': 'reg:squarederror', 'estimator__random_state': 0, 'estimator__reg_alpha': 0, 'estimator__reg_lambda': 1, 'estimator__scale_pos_weight': 1, 'estimator__seed': None, 'estimator__silent': None, 'estimator__subsample': 1, 'estimator__verbosity': 1, 'estimator': XGBRegressor(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0,
+             importance_type='gain', learning_rate=0.1, max_delta_step=0,
+             max_depth=3, min_child_weight=1, missing=nan, n_estimators=100,
+             n_jobs=1, nthread=None, objective='reg:squarederror',
+             random_state=0, reg_alpha=0, reg_lambda=1, scale_pos_weight=1,
+             seed=None, silent=None, subsample=1, verbosity=1), 'iid': 'warn', 'n_jobs': None, 'param_grid': {'min_child_weight': [1, 5, 10], 'gamma': [0, 0.5, 1.5, 5]}, 'pre_dispatch': '2*n_jobs', 'refit': True, 'return_train_score': False, 'scoring': None, 'verbose': 0}
+
+
+#############################################################################
+
+			lhpsa_gfm.model parameters
+
+#############################################################################
+
+
+{'cv': 5, 'error_score': 'raise-deprecating', 'estimator__base_score': 0.5, 'estimator__booster': 'gbtree', 'estimator__colsample_bylevel': 1, 'estimator__colsample_bynode': 1, 'estimator__colsample_bytree': 1, 'estimator__gamma': 0, 'estimator__importance_type': 'gain', 'estimator__learning_rate': 0.1, 'estimator__max_delta_step': 0, 'estimator__max_depth': 3, 'estimator__min_child_weight': 1, 'estimator__missing': nan, 'estimator__n_estimators': 100, 'estimator__n_jobs': 1, 'estimator__nthread': None, 'estimator__objective': 'reg:squarederror', 'estimator__random_state': 0, 'estimator__reg_alpha': 0, 'estimator__reg_lambda': 1, 'estimator__scale_pos_weight': 1, 'estimator__seed': None, 'estimator__silent': None, 'estimator__subsample': 1, 'estimator__verbosity': 1, 'estimator': XGBRegressor(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0,
+             importance_type='gain', learning_rate=0.1, max_delta_step=0,
+             max_depth=3, min_child_weight=1, missing=nan, n_estimators=100,
+             n_jobs=1, nthread=None, objective='reg:squarederror',
+             random_state=0, reg_alpha=0, reg_lambda=1, scale_pos_weight=1,
+             seed=None, silent=None, subsample=1, verbosity=1), 'iid': 'warn', 'n_jobs': None, 'param_grid': {'min_child_weight': [1, 5, 10], 'gamma': [0, 0.5, 1.5, 5]}, 'pre_dispatch': '2*n_jobs', 'refit': True, 'return_train_score': False, 'scoring': None, 'verbose': 0}
+
+
+
+#############################################################################
+
+			lhpsa_nsp2.model (NBM) parameters
+
+#############################################################################
+
+
+{'cv': 5, 'error_score': 'raise-deprecating', 'estimator__bootstrap': True, 'estimator__criterion': 'mse', 'estimator__max_depth': None, 'estimator__max_features': 'auto', 'estimator__max_leaf_nodes': None, 'estimator__min_impurity_decrease': 0.0, 'estimator__min_impurity_split': None, 'estimator__min_samples_leaf': 1, 'estimator__min_samples_split': 2, 'estimator__min_weight_fraction_leaf': 0.0, 'estimator__n_estimators': 'warn', 'estimator__n_jobs': None, 'estimator__oob_score': False, 'estimator__random_state': None, 'estimator__verbose': 0, 'estimator__warm_start': False, 'estimator': RandomForestRegressor(bootstrap=True, criterion='mse', max_depth=None,
+                      max_features='auto', max_leaf_nodes=None,
+                      min_impurity_decrease=0.0, min_impurity_split=None,
+                      min_samples_leaf=1, min_samples_split=2,
+                      min_weight_fraction_leaf=0.0, n_estimators='warn',
+                      n_jobs=None, oob_score=False, random_state=None,
+                      verbose=0, warm_start=False), 'iid': 'warn', 'n_jobs': None, 'param_grid': {'max_depth': [2, 3, 4]}, 'pre_dispatch': '2*n_jobs', 'refit': True, 'return_train_score': False, 'scoring': None, 'verbose': 0}
